@@ -1,14 +1,11 @@
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
-from calculadora import calcular_todo, curva_AL, curva_GD
 from curvas_opciones import analyze_ticker_for_api, LISTA_TICKERS
 
-app = FastAPI()
+app = FastAPI(title="Curvas Opciones API")
 
-# ============================
-# CORS
-# ============================
+# Permitir acceso desde cualquier frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -17,48 +14,35 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/")
-def home():
-    return {"status": "API funcionando"}
+def root():
+    return {"message": "API de Curvas de Opciones funcionando"}
 
-
-# ============================
-# BONOS (YA FUNCIONA)
-# ============================
-@app.get("/bonos")
-def bonos():
-    return calcular_todo()
-
-@app.get("/curva/al")
-def curva_al():
-    return curva_AL()
-
-@app.get("/curva/gd")
-def curva_gd():
-    return curva_GD()
-
-
-# ============================
-# OPCIONES: LISTA DE TICKERS
-# ============================
-@app.get("/curvas/opciones/lista")
-def lista_opciones():
+@app.get("/tickers")
+def tickers():
+    """Lista oficial de tickers que acepta la API."""
     return {"tickers": LISTA_TICKERS}
 
-
-# ============================
-# OPCIONES: ANALISIS (DEBUG)
-# ============================
 @app.get("/curvas/opciones")
-def curvas_opciones(ticker: str = Query(...)):
-    t = ticker.upper().strip()
+def curvas_opciones(ticker: str):
+    """
+    Endpoint principal.
+    Devuelve:
+      - forward curve
+      - expected move
+      - bandas
+      - análisis
+    """
+    ticker = ticker.upper()
 
-    if t not in LISTA_TICKERS:
-        raise HTTPException(
-            status_code=400,
-            detail=f"Ticker '{t}' no permitido. Use uno de: {', '.join(LISTA_TICKERS)}"
-        )
+    if ticker not in LISTA_TICKERS:
+        raise HTTPException(status_code=400, detail="Ticker no permitido")
 
-    # Ahora analyze_ticker_for_api NUNCA levanta excepción
-    result = analyze_ticker_for_api(t)
-    return result
+    try:
+        data = analyze_ticker_for_api(ticker)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error interno: {str(e)}")
+
+    return data
+
