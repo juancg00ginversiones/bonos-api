@@ -5,3 +5,7 @@ numpy
 requests
 python-multipart
 openpyxl
+yfinance
+matplotlib
+beautifulsoup4
+lxml
