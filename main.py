@@ -1,3 +1,4 @@
+# trigger redeploy
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -60,3 +61,4 @@ def curvas_opciones(ticker: str = Query(..., description="Ticker entre los 17 ac
         raise HTTPException(status_code=400, detail=str(e))
     except Exception:
         raise HTTPException(status_code=500, detail="Error interno en el análisis de opciones")
+
