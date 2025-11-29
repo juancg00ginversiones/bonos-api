@@ -194,6 +194,26 @@ def fuse_calls_puts(ca, pu, spot, expiries):
 
 
 # ============================================================
+# SUMMARY YFIN (CORRECTO)
+# ============================================================
+
+def summarize_yfin_fused(df, expiries, spot):
+    rows = []
+    for exp in expiries:
+        sub = df[df["expiry"] == exp].dropna(subset=["iv"])
+        if sub.empty:
+            continue
+        c = sub.loc[sub["iv"].idxmin()]
+        rows.append({
+            "expiry": exp,
+            "spot": spot,
+            "central_strike": float(c["strike"]),
+        })
+
+    return pd.DataFrame(rows)
+
+
+# ============================================================
 # FORWARD CURVE
 # ============================================================
 
@@ -246,7 +266,6 @@ def analyze_forward(forward):
             "trend": "NEUTRAL",
             "total_change_pct": 0.0,
             "volatility": "DESCONOCIDA",
-            "comment": "Datos insuficientes"
         }
 
     first = forward[0]["central"]
@@ -257,13 +276,14 @@ def analyze_forward(forward):
         trend = "ALCISTA"
     elif total_change < -3:
         trend = "BAJISTA"
+        trend = "BAJISTA"
     else:
         trend = "NEUTRAL"
 
     em_rel = []
-    for row in forward:
-        if row["expected_move"] and row["central"]:
-            em_rel.append(row["expected_move"] / row["central"])
+    for r in forward:
+        if r["expected_move"] and r["central"]:
+            em_rel.append(r["expected_move"] / r["central"])
 
     if not em_rel:
         vol = "DESCONOCIDA"
@@ -289,22 +309,31 @@ def analyze_forward(forward):
 
 def analyze_ticker_for_api(t):
     t = t.upper()
+
+    # ========== BTC ==========
     if t == "BTC":
         df = fetch_deribit_btc()
         chain, summary = summarize_deribit(df)
+
+    # ========== YFINANCE ==========
     else:
         calls, puts, expiries, spot = yfin_get_raw_chains(t)
-        if calls is None:
-            return {"error": "No se pudieron obtener opciones"}
-        chain = fuse_calls_puts(calls, puts, spot, expiries)
-        summary = summarize_yfin(chain, expiries, spot=None)
 
+        if calls is None:
+            return {"error": f"No se pudieron obtener opciones de {t}"}
+
+        chain = fuse_calls_puts(calls, puts, spot, expiries)
+        summary = summarize_yfin_fused(chain, expiries, spot)
+
+    # Forward curve
     forward = build_forward(chain, summary)
+
+    # Análisis
     analysis = analyze_forward(forward)
 
     return {
         "ticker": t,
-        "spot": float(forward[0]["central"]) if forward else None,
+        "spot": summary.iloc[0]["spot"] if not summary.empty else None,
         "forward": forward,
         "analysis": analysis
     }
