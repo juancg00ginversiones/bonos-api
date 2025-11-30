@@ -2,7 +2,7 @@
 
 import json
 import os
-from datetime import datetime
+from datetime import datetime, date
 from fastapi import HTTPException
 
 # Archivo local donde se guardan las publicaciones
@@ -31,19 +31,25 @@ def guardar_db(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def agregar_contenido(titulo, texto, imagen_url, fecha):
+def agregar_contenido(titulo, texto, imagen_url=None, fecha=None):
     """
     Agrega una nueva publicación al JSON.
-    Verifica formato de fecha y campos obligatorios.
+    - titulo y texto son obligatorios.
+    - imagen_url es opcional.
+    - fecha es opcional: si viene vacía, usa la fecha de hoy.
     """
-    # Validación de fecha (YYYY-MM-DD)
-    try:
-        datetime.strptime(fecha, "%Y-%m-%d")
-    except Exception:
-        raise HTTPException(status_code=400, detail="Formato de fecha inválido. Use YYYY-MM-DD")
-
     if not titulo or not texto:
         raise HTTPException(status_code=400, detail="Título y texto son obligatorios.")
+
+    # Manejo de fecha
+    if not fecha or not str(fecha).strip():
+        fecha_str = date.today().strftime("%Y-%m-%d")
+    else:
+        fecha_str = str(fecha).strip()
+        try:
+            datetime.strptime(fecha_str, "%Y-%m-%d")
+        except Exception:
+            raise HTTPException(status_code=400, detail="Formato de fecha inválido. Use YYYY-MM-DD")
 
     data = cargar_db()
 
@@ -51,7 +57,7 @@ def agregar_contenido(titulo, texto, imagen_url, fecha):
         "titulo": titulo,
         "texto": texto,
         "imagen_url": imagen_url,
-        "fecha": fecha
+        "fecha": fecha_str,
     }
 
     data.append(nuevo)
@@ -66,9 +72,8 @@ def obtener_contenido():
     """
     data = cargar_db()
 
-    # Ordenar por fecha más reciente primero
     try:
-        data = sorted(data, key=lambda x: x["fecha"], reverse=True)
+        data = sorted(data, key=lambda x: x.get("fecha", ""), reverse=True)
     except Exception:
         pass
 
