@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cargar contenido PRO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            max-width: 600px;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 6px;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+        button {
+            padding: 12px;
+            font-size: 18px;
+            background-color: #6a0dad;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 6px;
+        }
+        button:hover { background-color: #540a9e; }
+    </style>
+</head>
+
+<body>
+
+    <h2>Crear nueva publicación PRO</h2>
+
+    <label>Título</label>
+    <input type="text" id="titulo" placeholder="Ej: Comentario del mercado">
+
+    <label>Texto</label>
+    <textarea id="texto" rows="6" placeholder="Pegá aquí tu texto completo..."></textarea>
+
+    <label>URL de imagen (opcional)</label>
+    <input type="text" id="imagen" placeholder="https://...">
+
+    <label>Fecha (opcional)</label>
+    <input type="date" id="fecha">
+
+    <button onclick="enviar()">Publicar</button>
+
+    <p id="resultado" style="margin-top:20px; font-weight:bold;"></p>
+
+    <script>
+        async function enviar() {
+            const titulo = document.getElementById("titulo").value.trim();
+            const texto = document.getElementById("texto").value.trim();
+            const imagen = document.getElementById("imagen").value.trim();
+            const fecha = document.getElementById("fecha").value;
+
+            if (!titulo || !texto) {
+                alert("Título y texto son obligatorios.");
+                return;
+            }
+
+            const body = {
+                titulo: titulo,
+                texto: texto,
+                imagen_url: imagen || null,
+                fecha: fecha || null
+            };
+
+            try {
+                const res = await fetch("https://bonos-api.onrender.com/pro/contenido", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(body)
+                });
+
+                const data = await res.json();
+
+                if (res.ok) {
+                    document.getElementById("resultado").innerText = "✔ Publicación creada correctamente";
+                } else {
+                    document.getElementById("resultado").innerText = "❌ Error: " + (data.detail || "desconocido");
+                }
+
+            } catch (e) {
+                document.getElementById("resultado").innerText = "❌ Error de conexión";
+            }
+        }
+    </script>
+
+</body>
+</html>
