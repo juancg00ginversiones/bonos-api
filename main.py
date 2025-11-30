@@ -6,9 +6,9 @@ from curvas_opciones import analyze_ticker_for_api, LISTA_TICKERS
 
 app = FastAPI()
 
-# ============================
-# HABILITAR CORS
-# ============================
+# =====================================================
+# CORS ORIGINAL
+# =====================================================
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -17,6 +17,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# =====================================================
+# ENDPOINTS ORIGINALES
+# =====================================================
 @app.get("/")
 def home():
     return {"status": "API funcionando"}
@@ -33,18 +36,18 @@ def curva_al():
 def curva_gd():
     return curva_GD()
 
-# =======================================
-# NUEVO: LISTA OFICIAL DE TICKERS (17)
-# =======================================
+# =====================================================
+# TICKERS OPCIONES
+# =====================================================
 @app.get("/tickers")
 def lista_opciones():
     return {"tickers": LISTA_TICKERS}
 
-# =======================================
-# NUEVO: ANALISIS DE OPCIONES POR TICKER
-# =======================================
+# =====================================================
+# CURVAS DE OPCIONES
+# =====================================================
 @app.get("/curvas/opciones")
-def curvas_opciones(ticker: str = Query(..., description="Ticker entre los activos permitidos")):
+def curvas_opciones(ticker: str = Query(..., description="Ticker permitido")):
     t = ticker.upper().strip()
 
     if t not in LISTA_TICKERS:
@@ -54,8 +57,7 @@ def curvas_opciones(ticker: str = Query(..., description="Ticker entre los activ
         )
 
     try:
-        result = analyze_ticker_for_api(t)
-        return result
+        return analyze_ticker_for_api(t)
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
     except Exception:
