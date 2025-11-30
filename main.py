@@ -1,8 +1,16 @@
-from fastapi import FastAPI, Form
+from fastapi import FastAPI, HTTPException, Query, Form
 from fastapi.middleware.cors import CORSMiddleware
-from curvas_opciones import analyze_ticker_for_api
-from typing import Optional
+from calculadora import calcular_todo, curva_AL, curva_GD
+from curvas_opciones import analyze_ticker_for_api, LISTA_TICKERS
 
+# ============================================================
+# CONTENEDOR EN MEMORIA PARA CONTENIDO PRO
+# ============================================================
+CONTENIDO_PRO = []
+
+# ============================================================
+# FASTAPI BASE
+# ============================================================
 app = FastAPI()
 
 app.add_middleware(
@@ -13,25 +21,49 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# HOME
+# ============================================================
+# ENDPOINTS ORIGINALES – FUNCIONAN PERFECTO
+# ============================================================
+
 @app.get("/")
 def home():
-    return {"status": "ok", "message": "API INGECAPITAL funcionando"}
+    return {"status": "API funcionando"}
 
-# TICKERS DISPONIBLES
-@app.get("/tickers")
-def tickers():
-    return ["SPY","QQQ","DIA","IWM","VIX","VXN","AAPL","MSFT","GOOGL","AMZN","META","NVDA","TSLA","BTC","ETH","TLT","IEF"]
+@app.get("/bonos")
+def bonos():
+    return calcular_todo()
 
-# OPCIONES – CURVA FORWARD
+@app.get("/curva/al")
+def curva_al():
+    return curva_AL()
+
+@app.get("/curva/gd")
+def curva_gd():
+    return curva_GD()
+
+@app.get("/curvas/opciones/lista")
+def lista_opciones():
+    return {"tickers": LISTA_TICKERS}
+
 @app.get("/curvas/opciones")
-def curvas_opciones(ticker: str):
-    return analyze_ticker_for_api(ticker.upper())
+def curvas_opciones(ticker: str = Query(...)):
+    t = ticker.upper().strip()
+    if t not in LISTA_TICKERS:
+        raise HTTPException(
+            status_code=400,
+            detail=f"Ticker '{t}' no permitido. Use uno de: {', '.join(LISTA_TICKERS)}"
+        )
+    try:
+        result = analyze_ticker_for_api(t)
+        return result
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error interno: {e}")
 
-# =====================================
-# PRO — CONTENIDO (JSON basado)
-# =====================================
-CONTENIDO_PRO = []
+# ============================================================
+# CONTENIDO PRO – VERSIÓN SIMPLE (TEXTO + LINK)
+# ============================================================
 
 @app.get("/pro/contenido")
 def leer_contenido():
@@ -39,21 +71,15 @@ def leer_contenido():
 
 @app.post("/pro/contenido")
 def agregar_contenido(
-    titulo: str = Form(...),
     texto: str = Form(...),
-    imagen_url: Optional[str] = Form(None),
-    fecha: Optional[str] = Form(None)
+    link: str = Form(None)
 ):
     from datetime import date
 
-    if not fecha:
-        fecha = date.today().isoformat()
-
     nuevo = {
-        "titulo": titulo,
         "texto": texto,
-        "imagen_url": imagen_url,
-        "fecha": fecha
+        "link": link,
+        "fecha": date.today().isoformat()
     }
 
     CONTENIDO_PRO.append(nuevo)
