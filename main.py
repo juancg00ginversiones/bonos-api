@@ -1,15 +1,34 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
-# Tus módulos internos
+# === TUS IMPORTS NORMALES ===
 from calculadora import calcular_todo, curva_AL, curva_GD
 from curvas_opciones import analyze_ticker_for_api, LISTA_TICKERS
 from contenido_pro import agregar_contenido_pro, obtener_contenido_pro
 
-# ============================================
-# MODELO PARA CONTENIDO PRO
-# ============================================
+
+# ================================
+# APP
+# ================================
+app = FastAPI()
+
+# ================================
+# CORS (VERSIÓN ESTABLE)
+# ================================
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],   # <- permite todo, incluido OPTIONS
+    allow_headers=["*"],
+)
+
+
+# ================================
+# MODELO Pydantic PARA POST PRO
+# ================================
 class ContenidoPRO(BaseModel):
     titulo: str
     texto: str
@@ -17,55 +36,43 @@ class ContenidoPRO(BaseModel):
     fecha: str | None = None
 
 
-# ============================================
-# INICIAR APP
-# ============================================
-app = FastAPI()
-
-# ============================================
-# CORS ESTABLE PARA HTML LOCAL
-# ============================================
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[
-        "*",
-        "null",
-        "file://"
-    ],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# ============================================
-# ENDPOINT PRINCIPAL
-# ============================================
+# ================================
+# HOME
+# ================================
 @app.get("/")
 def home():
     return {"status": "API funcionando"}
 
-# ============================================
-# ENDPOINTS BONOS
-# ============================================
+
+# ================================
+# BONOS — VERSION ORIGINAL
+# ================================
 @app.get("/bonos")
 def bonos():
     return calcular_todo()
+
 
 @app.get("/curva/al")
 def curva_al():
     return curva_AL()
 
+
 @app.get("/curva/gd")
 def curva_gd():
     return curva_GD()
 
-# ============================================
-# CURVAS DE OPCIONES
-# ============================================
+
+# ================================
+# OPCIONES — LISTA TICKERS
+# ================================
 @app.get("/tickers")
 def tickers():
     return {"tickers": LISTA_TICKERS}
 
+
+# ================================
+# CURVAS OPCIONES (YA FUNCIONABA)
+# ================================
 @app.get("/curvas/opciones")
 def curvas_opciones(ticker: str):
     t = ticker.upper().strip()
@@ -78,23 +85,23 @@ def curvas_opciones(ticker: str):
 
     try:
         return analyze_ticker_for_api(t)
-    except ValueError as e:
-        raise HTTPException(status_code=400, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error interno: {str(e)}")
 
-# ============================================
-# CONTENIDO PRO (GET)
-# ============================================
+
+# ================================
+# PRO - GET CONTENIDO
+# ================================
 @app.get("/pro/contenido")
 def contenido_pro_listado():
     return obtener_contenido_pro()
 
-# ============================================
-# CONTENIDO PRO (POST JSON)
-# ============================================
+
+# ================================
+# PRO - POST CONTENIDO
+# ================================
 @app.post("/pro/contenido")
-def contenido_pro_agregar_endpoint(payload: ContenidoPRO):
+def contenido_pro_post(payload: ContenidoPRO):
     try:
         agregar_contenido_pro(
             payload.titulo,
@@ -104,5 +111,22 @@ def contenido_pro_agregar_endpoint(payload: ContenidoPRO):
         )
         return {"status": "ok", "mensaje": "Contenido agregado correctamente"}
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error al agregar contenido PRO: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error interno: {str(e)}")
 
+
+# ================================
+# OPCIONES: MANEJO DE PRE-FLIGHT
+# ================================
+@app.options("/pro/contenido")
+def contenido_pro_options():
+    """
+    Permite que Chrome acepte el preflight OPTIONS sin tirar 405.
+    """
+    return JSONResponse(
+        content={"status": "ok"},
+        headers={
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "POST, OPTIONS",
+            "Access-Control-Allow-Headers": "*",
+        }
+    )
