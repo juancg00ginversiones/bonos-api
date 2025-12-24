@@ -43,6 +43,13 @@ async def _shutdown():
 @app.get("/")
 def home():
     return {"status": "ok", "service": "ingecapital-data-api"}
+@app.get("/test")
+def test_endpoint():
+    return {
+        "ok": True,
+        "message": "Endpoint /test funcionando correctamente",
+        "service": "ingecapital-data-api"
+    }
 
 # ============================
 # ENDPOINTS PARA HORIZONS
@@ -100,5 +107,6 @@ def all_in_one():
         "historical": cache_get(CACHE_KEYS.DOCTA_HISTORICAL) or {"status": "warming_up"},
         "pricer_scenarios": cache_get(CACHE_KEYS.DOCTA_PRICER) or {"status": "warming_up"},
     }
+
 
 
