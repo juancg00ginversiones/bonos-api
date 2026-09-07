@@ -1,14 +1,96 @@
 {
-  "updated_at": "2026-09-07T21:53:00Z",
+  "updated_at": "2026-09-07T22:25:10Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "¿Cuántas entradas para el GP de Madrid habrá disponible al público general? La preventa exclusiva se agotó en dos minutos y la lista de espera tiene 235.000 personas",
+      "title": "Créditos hipotecarios UVA: el BCRA activa el fondeo de ANSES para los bancos",
+      "source": "minutouno",
+      "published_at": "2026-09-07 10:25:00",
+      "snippet": "El mecanismo contempla diez licitaciones por un total de $2 billones y busca que las entidades financieras amplíen la oferta de préstamos para vivienda con tasas de hasta UVA + 7,5%.",
+      "url": "https://www.minutouno.com/economia/creditos-hipotecarios-uva-el-bcra-activa-el-fondeo-anses-los-bancos-n6319217",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "La fabricante de aperitivos salados Frit Ravich da el salto a Madrid con un gran centro logístico y de distribución",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-07 10:23:57",
+      "snippet": "El objetivo es que, para 2030, la facturación de la compañía se haya duplicado y alcance los 600 millones de euros, tras rozar los 360 el año pasado. Con este horizonte trabaja la empresa catalana Frit Ravich, especializada en la elaboración patatas fritas, palomitas y otros aperitivos salados y que este lunes ha anunciado que invertirá más de 115 millones en construir una nueva planta de producción en Maçanet de la Selva (Girona), que estará situada junto a su sede central, y en abrir un nuevo centro logístico en Madrid, con el que podrá distribuir con mayor rapidez a sus clientes del centro y del sur de España.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/frit-ravich-centro-logistico-madrid-ampliacion-fabrica-girona-134028643.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Bitcoin hoy: cotización y precio del BTC este lunes 7 de septiembre de 2026",
+      "source": "clarin",
+      "published_at": "2026-09-07 10:22:02",
+      "snippet": "El valor actualizado del Bitcoin y la comparación con la jornada previa. Las claves para entender la volatilidad de la principal criptomoneda en el mercado.",
+      "url": "https://www.clarin.com/economia/bitcoin-hoy-cotizacion-y-precio-del-btc-este-lunes-7-de-septiembre-de-2026_0_1I30w4oTxW.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Quini 6: los resultados de este domingo 6 de septiembre",
+      "source": "tn",
+      "published_at": "2026-09-07 10:19:40",
+      "snippet": "Conocé los números ganadores del sorteo N° 3406. Hubo 16 ganadores en una modalidad y repartió $31 millones para cada afortunado.",
+      "url": "https://tn.com.ar/sociedad/2026/09/07/quini-6-los-resultados-de-este-domingo-6-de-septiembre/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "CaixaBank supera una caída en su operativa 'online'",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-07 10:18:01",
+      "snippet": "La página web y la aplicación de CaixaBank han estado inactivas en las primeras horas de este lunes durante un tiempo no concretado, según han explicado a EL PERIÓDICO fuentes de la entidad bancaria. La incidencia técnica se ha resuelto y la operativa 'online' del banco vuelve a funcionar con plena normalidad. Según las mismas fuentes, la recuperación ha sido \"gradual\", por lo que no se puede concretar la duración exacta del incidente.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/caixabank-supera-caida-operativa-online-134028296.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Rolando Figueroa: “Neuquén es uno de los faros más importantes de atracción de inversiones de la Argentina”",
+      "source": "mejorinformado",
+      "published_at": "2026-09-07 10:17:33",
+      "snippet": "Así lo aseguró el gobernador Rolando Figueroa al término de una serie de encuentros en Washington y Houston, donde Neuquén expuso su exponencial desarrollo en materia hidrocarburífera, profundizó la búsqueda de inversiones para mejorar la infraestructura existente y potenciar las oportunidades energéticas y productivas de la provincia.",
+      "url": "https://www.mejorinformado.com/regionales/rolando-figueroa-neuquen-uno-faros-importantes-atraccion-inversiones-argentina_1788776253",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "¿Cuál es el precio de la gasolina hoy lunes 7 de septiembre en Nuevo León?",
       "source": "infobae",
-      "published_at": "2026-09-07 09:52:33",
-      "snippet": "Las cotas de interés y las críticas se han repartido a partes iguales tras la preventa exclusiva",
-      "url": "https://www.infobae.com/espana/deportes/2025/09/23/cuantas-entradas-para-el-gp-de-madrid-habra-disponible-al-publico-general-la-preventa-exclusiva-se-agoto-en-dos-minutos-y-la-lista-de-espera-tiene-235000-personas/",
+      "published_at": "2026-09-07 10:17:08",
+      "snippet": "El valor de los carburantes en el país puede cambiar debido a múltiples factores como el tipo de cambio frente al dólar, impuestos y la logística para el traslado",
+      "url": "https://www.infobae.com/mexico/2026/09/07/cual-es-el-precio-de-la-gasolina-hoy-lunes-7-de-septiembre-en-nuevo-leon/",
       "country": [
         "colombia",
         "argentina",
@@ -21,100 +103,16 @@
       ]
     },
     {
-      "title": "El dólar en Córdoba: a cuánto cotiza este lunes 7 de septiembre",
-      "source": "perfil",
-      "published_at": "2026-09-07 09:52:21",
-      "snippet": "Este lunes 7 de septiembre el dólar oficial en el Banco Nación se vende a 1.480 pesos y cotiza a 1.530 pesos para la compra. Leer más",
-      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-07-de-septiembre-070926.phtml",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "La clase media perdió poder de compra: la pirámide que explica qué pasa con el consumo",
-      "source": "cronista",
-      "published_at": "2026-09-07 09:51:39",
-      "snippet": "El deterioro relativo de los ingresos de ese segmento frente al promedio se aceleró durante 2026, según un relevamiento privado.",
-      "url": "https://www.cronista.com/economia-politica/la-perdida-de-poder-adquisitivo-de-la-clase-media-complica-la-recuperacion-del-consumo/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "¡Súper Cartonazo de $6.000.000! Los números publicados hoy",
-      "source": "eldia_ar",
-      "published_at": "2026-09-07 09:50:14",
-      "snippet": "El Súper Cartonazo reparte esta semana 6.000.000 de pesos, uno de los pozos más altos desde que comenzó el juego que genera enorme expectativa entre los lectores de EL DIA.Para ganar el suculento premio, tenés que controlar los números que se publican en EL DIA entre viernes y martes. Cabe recordar que la semana...",
-      "url": "https://www.eldia.com/la-ciudad/super-cartonazo-de-6-000-000-los-numeros-publicados-este-lunes-7-de-septiembre-la-ciudad_1788774360",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "La UE establece una nueva cadena de suministro para solucionar los problemas de escasez de 'Visudyne'",
+      "title": "Gobierno británico promete crecimiento con disciplina fiscal ante la incertidumbre global",
       "source": "infobae",
-      "published_at": "2026-09-07 09:46:00",
-      "snippet": "La UE establece una nueva cadena de suministro para solucionar los problemas de escasez de 'Visudyne'",
-      "url": "https://www.infobae.com/america/agencias/2026/09/07/la-ue-establece-una-nueva-cadena-de-suministro-para-solucionar-los-problemas-de-escasez-de-visudyne/",
+      "published_at": "2026-09-07 10:16:59",
+      "snippet": "Gobierno británico promete crecimiento con disciplina fiscal ante la incertidumbre global",
+      "url": "https://www.infobae.com/america/agencias/2026/09/07/gobierno-britanico-promete-crecimiento-con-disciplina-fiscal-ante-la-incertidumbre-global/",
       "country": [
         "colombia",
         "argentina",
         "united states of america",
         "mexico"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Vaca Muerta como herramienta: la carta con la que el Gobierno presiona a las petroleras por Malvinas",
-      "source": "mdzol",
-      "published_at": "2026-09-07 09:43:00",
-      "snippet": "La reforma de la ley 26.659 apunta a toda la cadena de proveedores. El atractivo de Vaca Muerta le da al país un poder de presión que no tenía.",
-      "url": "https://www.mdzol.com/politica/vaca-muerta-como-herramienta-la-carta-la-que-el-gobierno-presiona-las-petroleras-malvinas-n1601214",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Claves del día: créditos para autos 0km y usados hasta 100%, más hipotecarios, suben los granos y privatizaciones",
-      "source": "rosario3",
-      "published_at": "2026-09-07 09:36:00",
-      "snippet": "El Nación sacude el mercado automotor: financia hasta el 100% de autos 0 km y usados, sin prenda, y baja tasas. ANSES impulsa los hipotecarios, los granos vuelan y el Gobierno acelera privatizaciones para sumar dólares",
-      "url": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-creditos-para-autos-0km-y-usados-hasta-100-mas-hipotecarios-suben-los-granos-y-privatizaciones-20260907-0001.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "El Gobierno activa los créditos hipotecarios: cuánto se podrá pedir, a qué tasa y quiénes podrán acceder",
-      "source": "mdzol",
-      "published_at": "2026-09-07 09:34:26",
-      "snippet": "El Banco Central pondrá en marcha un sistema de licitaciones con fondos del FGS para que los bancos otorguen nuevos créditos hipotecarios. Desde el Ejecutivo estima que unas 18.000 familias podrían acceder a estos préstamos.",
-      "url": "https://www.mdzol.com/dinero/el-gobierno-activa-los-creditos-hipotecarios-cuanto-se-podra-pedir-que-tasa-y-quienes-podran-acceder-n1601276",
-      "country": [
-        "argentina"
       ],
       "category": [
         "top",
