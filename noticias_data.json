@@ -1,93 +1,14 @@
 {
-  "updated_at": "2026-09-07T18:55:43Z",
+  "updated_at": "2026-09-07T19:42:24Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "El petróleo sube por la tensión entre Estados Unidos e Irán y el desplome del tráfico marítimo en el estrecho de Ormuz",
+      "title": "La Bolsa española abre la semana plana con la atención puesta en BCE e IPC de EEUU",
       "source": "infobae",
-      "published_at": "2026-09-07 06:51:06",
-      "snippet": "El Brent avanzó 79 centavos, un 0,82%, hasta los 97,07 dólares por barril, mientras que el West Texas Intermediate (WTI) subió 80 centavos, un 0,87%, hasta los 92,28 dólares",
-      "url": "https://www.infobae.com/america/mundo/2026/09/07/el-petroleo-sube-por-la-tension-entre-estados-unidos-e-iran-y-el-desplome-del-trafico-maritimo-en-el-estrecho-de-ormuz/",
-      "country": [
-        "colombia",
-        "argentina",
-        "united states of america",
-        "mexico"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "La producción industrial de Alemania cae inesperadamente un 1,1% en julio",
-      "source": "infobae",
-      "published_at": "2026-09-07 06:45:20",
-      "snippet": "La producción industrial de Alemania cae inesperadamente un 1,1% en julio",
-      "url": "https://www.infobae.com/america/agencias/2026/09/07/la-produccion-industrial-de-alemania-cae-inesperadamente-un-11-en-julio/",
-      "country": [
-        "colombia",
-        "argentina",
-        "united states of america",
-        "mexico"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Aumentó el optimismo de las consultoras sobre la economía argentina y la imagen presidencial",
-      "source": "infobae",
-      "published_at": "2026-09-07 06:37:24",
-      "snippet": "La rueda de este lunes no reflejará el humor internacional, debido al feriado en Estados Unidos",
-      "url": "https://www.infobae.com/economia/2026/09/07/aumento-el-optimismo-de-las-consultoras-sobre-la-economia-argentina-y-la-imagen-presidencial/",
-      "country": [
-        "colombia",
-        "argentina",
-        "united states of america",
-        "mexico"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Una insólita advertencia empresaria para que el Gobierno ajuste el rumbo",
-      "source": "jujuyaldia_ar",
-      "published_at": "2026-09-07 06:30:00",
-      "snippet": "La primera plana del Ejecutivo faltó al Día de la Industria en tensión con los empresarios del sector, que coinciden con el camino de fondo, pero que piden correcciones urgentes Jujuy al día ® – Relajado, el empresario ya estaba en zona de chill out –picando algo en el brunch montado en la carpa de [...] La entrada Una insólita advertencia empresaria para que el Gobierno ajuste el rumbo se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/07/una-insolita-advertencia-empresaria-para-que-el-gobierno-ajuste-el-rumbo/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "La brecha del precio de la vivienda entre comunidades se duplica desde la pandemia",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-07 06:23:37",
-      "snippet": "El encarecimiento de la vivienda no se está produciendo con la misma intensidad en toda España. Desde antes de la pandemia, la distancia entre las comunidades más caras y las más baratas se ha ensanchado con fuerza, hasta dibujar un mercado residencial cada vez más desigual territorialmente.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/brecha-precio-vivienda-comunidades-134019890.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Radiografía del parate en la obra pública",
-      "source": "infobae",
-      "published_at": "2026-09-07 06:18:44",
-      "snippet": "Pese al reclamo de los gobernadores, se acentúa el recorte de fondos de Nación a las provincias para rutas e infraestructura, en medio de negociaciones a cambio de apoyo parlamentario",
-      "url": "https://www.infobae.com/politica/2026/09/07/radiografia-del-parate-en-la-obra-publica/",
+      "published_at": "2026-09-07 07:31:55",
+      "snippet": "La Bolsa española abre la semana plana con la atención puesta en BCE e IPC de EEUU",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/07/la-bolsa-espanola-abre-la-semana-plana-con-la-atencion-puesta-en-bce-e-ipc-de-eeuu/",
       "country": [
         "argentina",
         "colombia",
@@ -100,26 +21,102 @@
       ]
     },
     {
-      "title": "Señales que indican que tu planta necesita más luz",
-      "source": "diariopanorama",
-      "published_at": "2026-09-07 06:13:00",
-      "snippet": "Las plantas son organismos que dependen de la luz para realizar la fotosíntesis, un proceso vital que les permite crecer y desarrollarse. Según estudios de la Universidad de Buenos Aires, la luz adecuada puede aumentar la salud y el crecimiento de las plantas en un 30%.",
-      "url": "https://diariopanorama.com/noticia/565621/senales-indican-tu-planta-necesita-mas-luz",
+      "title": "La vivienda se encarece un 12,2 % en segundo trimestre y lleva seis subiendo más del 12 %",
+      "source": "infobae",
+      "published_at": "2026-09-07 07:31:39",
+      "snippet": "La vivienda se encarece un 12,2 % en segundo trimestre y lleva seis subiendo más del 12 %",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/07/la-vivienda-se-encarece-un-122-en-segundo-trimestre-y-lleva-seis-subiendo-mas-del-12/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "El precio de la vivienda modera su ascenso al 12,2% en el segundo trimestre y suma 49 trimestres de alzas",
+      "source": "infobae",
+      "published_at": "2026-09-07 07:31:16",
+      "snippet": "El precio de la vivienda modera su ascenso al 12,2% en el segundo trimestre y suma 49 trimestres de alzas",
+      "url": "https://www.infobae.com/america/agencias/2026/09/07/el-precio-de-la-vivienda-modera-su-ascenso-al-122-en-el-segundo-trimestre-y-suma-49-trimestres-de-alzas/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "El Ibex 35 abre la semana plano con el petróleo a más de 97 dólares",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-07 07:30:10",
+      "snippet": "El índice Ibex 35 de la Bolsa de Madrid ha arrancado la sesión de este lunes prácticamente plano, lo que le ha llevado a situarse en los 20.043 puntos tras cerrar el viernes con un avance del 0,3% que le hizo escalar hasta los 20.050 puntos.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/ibex-35-abre-semana-plano-petroleo-97-dolares-134021461.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Cuánto gana una niñera por trabajar cuatro horas por día en septiembre",
+      "source": "lagaceta_ar",
+      "published_at": "2026-09-07 07:18:00",
+      "snippet": "Las trabajadoras de casas particulares tendrán nuevos valores desde septiembre. Conocé cuánto corresponde cobrar por hora y cómo impacta la actualización en quienes trabajan como niñeras.",
+      "url": "https://www.lagaceta.com.ar/nota/1152904/sociedad/cuanto-gana-ninera-trabajar-cuatro-horas-dia-septiembre.html",
       "country": [
         "argentina"
       ],
       "category": [
         "top",
-        "business",
-        "environment"
+        "business"
       ]
     },
     {
-      "title": "Fernando Clavijo: \"Sánchez no está a la altura, ni en Ceuta ni en Canarias\"",
+      "title": "La vivienda se encarece un 12,2% en el segundo trimestre y lleva seis subiendo más del 12%",
+      "source": "infobae",
+      "published_at": "2026-09-07 07:16:51",
+      "snippet": "La vivienda se encarece un 12,2% en el segundo trimestre y lleva seis subiendo más del 12%",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/07/la-vivienda-se-encarece-un-122-en-el-segundo-trimestre-y-lleva-seis-subiendo-mas-del-12/",
+      "country": [
+        "colombia",
+        "argentina",
+        "united states of america",
+        "mexico"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "El precio de la vivienda modera su ascenso al 12,2% en el segundo trimestre y suma 49 trimestres de alzas",
       "source": "laopinioncoruna",
-      "published_at": "2026-09-07 06:04:49",
-      "snippet": "Pese a haber llegado a un acuerdo con el Gobierno de España, en concreto con el ministro de Hacienda, Arcadi España, para apoyar junto a Cataluña la financiación autonómica, con el rechazo de 13 comunidades -11 del PP y dos del PSOE-, el presidente del Gobierno de Canarias, Fernando Clavijo, es sumamente crítico en esta entrevista con la situación que atraviesa el país por la \"inestabilidad\" del Ejecutivo de Pedro Sánchez.",
-      "url": "https://www.laopinioncoruna.es/espana/2026/09/07/fernando-clavijo-sanchez-altura-ceuta-canarias-134019627.html",
+      "published_at": "2026-09-07 07:13:43",
+      "snippet": "El precio de la vivienda libre subió un 12,2% en el segundo trimestre del año en relación al mismo periodo de 2025, siete décimas menos que en el trimestre previo y su menor tasa desde el primer trimestre del año pasado, cuando también aumentó un 12,2%, según el Índice de Precios de Vivienda (IPV) del Instituto Nacional de Estadística (INE) publicado este lunes.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/precio-vivienda-modera-ascenso-12-134020741.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Bajo el cielo prometido: Zelenski y su aerochantaje",
+      "source": "diariopanorama",
+      "published_at": "2026-09-07 07:04:00",
+      "snippet": "\"Por ahora, los cielos sobre Rusia son para los drones, no para la aviación civil\", declaró el 1 de septiembre de este año Vladímir Zelenski, pretendiendo anunciar una nueva etapa del conflicto, la que supondría el cierre del espacio aéreo ruso.",
+      "url": "https://diariopanorama.com/noticia/565626/bajo-cielo-prometido-zelenski-aerochantaje",
       "country": [
         "argentina"
       ],
