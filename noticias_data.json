@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-07T20:21:21Z",
+  "updated_at": "2026-09-07T21:10:41Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Malvinas, crédito y obra pública: el análisis económico de Osvaldo Granados",
-      "source": "diariopanorama",
-      "published_at": "2026-09-07 08:20:00",
-      "snippet": "El licenciado analizó este lunes en Radio Panorama el impacto económico de las medidas vinculadas con Malvinas, las distintas posturas dentro del Gobierno, las nuevas líneas de crédito y el objetivo de finalizar obras públicas inconclusas.",
-      "url": "https://diariopanorama.com/noticia/565636/malvinas-credito-obra-publica-analisis-economico-osvaldo-granados",
+      "title": "El Gobierno presenta su ‘Idealista público’ con 800 pisos en alquiler",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-07 09:09:30",
+      "snippet": "El Gobierno ha presentado este lunes el nuevo portal de Casa 47, la empresa estatal de vivienda nacida de la transformación de Sepes, que arranca con 800 viviendas en alquiler asequible y a la que se incorporarán otras 1.500 viviendas próximamente, según ha anunciado este lunes el presidente del Gobierno, Pedro Sánchez, durante la presentación de la plataforma, y tal y como adelantó en primicia EL PERIÓDICO el pasado viernes.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/gobierno-idealista-publico-vivienda-134024769.html",
       "country": [
         "argentina"
       ],
@@ -18,90 +18,11 @@
       ]
     },
     {
-      "title": "Lanzan la primera licitación con fondos de la Anses para impulsar el crédito hipotecario",
-      "source": "diariopanorama",
-      "published_at": "2026-09-07 08:19:00",
-      "snippet": "La iniciativa busca fondear a los bancos para ampliar la oferta de préstamos destinados a quienes buscan comprar su primera vivienda.",
-      "url": "https://diariopanorama.com/noticia/565635/lanzan-primera-licitacion-fondos-anses-para-impulsar-credito-hipotecario",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "El precio de la vivienda sube un 15 % en agosto, 10 puntos más que inflación, según Tinsa",
-      "source": "infobae",
-      "published_at": "2026-09-07 08:17:02",
-      "snippet": "El precio de la vivienda sube un 15 % en agosto, 10 puntos más que inflación, según Tinsa",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/07/el-precio-de-la-vivienda-sube-un-15-en-agosto-10-puntos-mas-que-inflacion-segun-tinsa/",
-      "country": [
-        "colombia",
-        "argentina",
-        "united states of america",
-        "mexico"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "El Ibex 35 abre en tablas, en 20.043 puntos, con el petróleo a más de 97 dólares",
-      "source": "infobae",
-      "published_at": "2026-09-07 08:01:33",
-      "snippet": "El Ibex 35 abre en tablas, en 20.043 puntos, con el petróleo a más de 97 dólares",
-      "url": "https://www.infobae.com/america/agencias/2026/09/07/el-ibex-35-abre-en-tablas-en-20043-puntos-con-el-petroleo-a-mas-de-97-dolares/",
-      "country": [
-        "colombia",
-        "argentina",
-        "united states of america",
-        "mexico"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Georgia invertirá 7.000 millones de dólares en un corredor logístico entre Europa y Asia",
-      "source": "infobae",
-      "published_at": "2026-09-07 08:01:22",
-      "snippet": "Georgia invertirá 7.000 millones de dólares en un corredor logístico entre Europa y Asia",
-      "url": "https://www.infobae.com/america/agencias/2026/09/07/georgia-invertira-7000-millones-de-dolares-en-un-corredor-logistico-entre-europa-y-asia/",
-      "country": [
-        "colombia",
-        "argentina",
-        "united states of america",
-        "mexico"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "A cuánto puede llegar el dólar hacia fin de año: los pronósticos de los especialistas y qué variables hay que mirar",
-      "source": "jujuyaldia_ar",
-      "published_at": "2026-09-07 08:00:00",
-      "snippet": "El mercado anticipa que en los próximos meses el tipo de cambio tendrá un aumento gradual y sin sobresaltos hasta superar los $1600 Jujuy al día ® – En la primera rueda de septiembre, el dólar oficial presentó una leve suba: el tipo de cambio minorista se ubicó en los $1535, su valor nominal más [...] La entrada A cuánto puede llegar el dólar hacia fin de año: los pronósticos de los especialistas y qué variables hay que mirar se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/07/a-cuanto-puede-llegar-el-dolar-hacia-fin-de-ano-los-pronosticos-de-los-especialistas-y-que-variables-hay-que-mirar/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Dos líneas de colectivos modifican los recorridos por obras en calle Córdoba",
+      "title": "Sin trabajo y lejos de jubilarse: mayores de 50 reclaman la jubilación anticipada",
       "source": "elonce",
-      "published_at": "2026-09-07 07:53:26",
-      "snippet": "Por obras en los carriles exclusivos de calle Córdoba, las líneas G y P2 del transporte público de pasajeros modifican los recorridos",
-      "url": "https://www.elonce.com/parana/dos-lineas-de-colectivos-modifican-los-recorridos-por-obras-en-calle-cordoba.htm",
+      "published_at": "2026-09-07 09:05:01",
+      "snippet": "Desocupados mayores de 50 años y con 30 años de aportes reclaman que vuelva la jubilación anticipada tras el vencimiento del régimen.",
+      "url": "https://www.elonce.com/sociedad/sin-trabajo-y-lejos-de-jubilarse-mayores-de-50-reclaman-la-jubilacion-anticipada.htm",
       "country": [
         "argentina"
       ],
@@ -111,11 +32,93 @@
       ]
     },
     {
-      "title": "El Tesoro canjeará con el BCRA deuda en pesos por títulos vinculados al dólar",
-      "source": "elonce",
-      "published_at": "2026-09-07 07:48:20",
-      "snippet": "Economía aprobó un canje de deuda con el BCRA y amplió hasta USD 2.000 millones la emisión de letras vinculadas al dólar.",
-      "url": "https://www.elonce.com/economia/el-tesoro-canjeara-con-el-bcra-deuda-en-pesos-por-titulos-vinculados-al-dolar.htm",
+      "title": "Los residentes en España redujeron sus viajes turísticos un 0,6 % en julio, según el INE",
+      "source": "infobae",
+      "published_at": "2026-09-07 09:03:48",
+      "snippet": "Los residentes en España redujeron sus viajes turísticos un 0,6 % en julio, según el INE",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/07/los-residentes-en-espana-redujeron-sus-viajes-turisticos-un-06-en-julio-segun-el-ine/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Cuerpo asegura que hará \"todo el esfuerzo necesario\" para mantener la marca Seat",
+      "source": "infobae",
+      "published_at": "2026-09-07 09:03:32",
+      "snippet": "Cuerpo asegura que hará \"todo el esfuerzo necesario\" para mantener la marca Seat",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/07/cuerpo-asegura-que-hara-todo-el-esfuerzo-necesario-para-mantener-la-marca-seat/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Cuerpo sitúa el crecimiento del tercer trimestre del año en el 0,6 %",
+      "source": "infobae",
+      "published_at": "2026-09-07 09:02:41",
+      "snippet": "Cuerpo sitúa el crecimiento del tercer trimestre del año en el 0,6 %",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/07/cuerpo-situa-el-crecimiento-del-tercer-trimestre-del-ano-en-el-06/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Las propiedades que compraron los funcionarios de Javier Milei con los préstamos del Banco Nación",
+      "source": "chacodiapordia",
+      "published_at": "2026-09-07 09:02:37",
+      "snippet": "Desde 2024, más de mil “Personas Expuestas Políticamente” accedieron a préstamos para viviendas de la banca estatal. Desde diputados y el “team” Luis Caputo, hasta el twittero que esta semana recibió un “correctivo” de la Embajada de China en Argentina. Las nuevas declaraciones juradas de los políticos siguen generando noticias y análisis. Desde quién es el más rico, pasando por quién ganó y quién perdió frente a la inflación, ahora se suma el dato de qué compraron los funcionarios de Javier Milei que recibieron créditos hipotecarios del Banco Nación (BNA) a tasa preferencial. No son pocos. El programa “+Hogares con BNA”, otorgó entre enero de 2024 y marzo de 2026 más de mil créditos hipotecarios a Personas Expuestas Políticamente (PEP). La lupa judicial sobre este reparto de fondos públicos no tardó en activarse tras una denuncia penal de la diputada Mónica Frade, quien acusó la existencia de presunto tráfico de influencias y administración fraudulenta.La causa quedó radicada en los tribunales federales bajo la órbita del juez Ariel Lijo, quien dispuso las primeras medidas de prueba y solicitó informes oficiales a la Auditoría General de la Nación (AGN) para revisar cada préstamo otorgado. Sin embargo, a pesar del impacto político, la causa penal ingresó rápidamente en el laberinto burocrático procesal. Apenas semanas después de las primeras medidas, la Cámara Federal intervino y unificó las distintas denuncias presentadas, desplazó al juez Lijo y delegó todo el expediente en el juzgado de María Romina Capuchetti. Este pase de manos congeló el pulso de la investigación, que hoy se encuentra bajo un estricto secreto de sumario. A la fecha el avance real de la causa es prácticamente nulo: no existen imputados formales, no se fijaron fechas para declaraciones indagatorias y todo el proceso sigue estancado en un cruce de oficios administrativos a la espera de los informes de la AGN. Las compras de funcionarios con créditos del Banco Nación El primer beneficiado que salió a la luz fue Leandro Massaccesi, exjefe de Gabinete del Ministerio de Capital Humano, a cargo de Sandra Pettovello. Al conocerse la noticia, la ministra no dudó y despidió al hijo del exgobernador de Río Negro y excandidato presidencial en 1995, el radical Horacio Massaccesi. El argumento inicial esgrimido desde la cartera fue “falta de austeridad”. El crédito que el funcionario había recibido fue de $198.723.538 y lo usó para comprar un departamento de 93 metros cuadrados en la Ciudad de Buenos Aires, a un valor de $225.990.000. Sin embargo, a Pettovello le avisaron que eran varios los funcionarios que habían accedido a préstamos preferenciales del Estado. De inmediato, cambió la versión y salió a aclarar que la desvinculación se debía a cambios internos del ministerio y no al préstamo en cuestión. Juan Carreira, alias Juan Doe en la red social X, fue noticia esta semana porque atribuyó el alúd en Nepal al comunismo chino. El referente de Las Fuerzas del Cielo recibió un correctivo diplomático del gigante asiático, sin siquiera nombrarlo. El director de Comunicación Digital de la Casa Rosada (maneja la cuenta en X de la Oficina de Respuesta Oficial) compró el 3 de diciembre de 2025 el 50% de un departamento en CABA. Es modesto, de 44 metros cuadrados. Ante la OA, lo cotizó en $96.200.000, sin embargo, el préstamo del BNA lo anotó por $170.332.299. En 2025, su patrimonio pasó de $23 millones a $120 millones. Un crecimiento del 421,74%. Le ganó a la inflación, que fue del 31,5%. El BNA también le prestó $357 millones a Sharif Menem. El director de la Secretaría Privada de Presidencia de la Cámara de Diputados, que ejerce su tío, Martín, compró el 3 de enero de 2025 un departamento de 60 metros cuadrados en CABA por $339.522.273. El funcionario de 24 años, sin experiencia laboral previa, aumentó su patrimonio de $57.571.681 a $363.855.372. Un salto del 532%. También le ganó a la inflación. Los diputados con créditos del Banco Nación El ranking de los préstamos otorgados por el BNA a funcionarios políticos posee, naturalmente, a dos exponentes del Poder Legislativo: los diputados nacionales de La Libertad Avanza Mariano Campero (Tucuman) y Lorena Villaverde (Río Negro). El legislador tucumano de La Libertad Avanza usó su crédito para consolidar su arraigo. Compró el 16 de mayo de 2025 una amplia casa de 992 metros cuadrados en Yerba Buena, Tucumán, por $301.932.800. El caso de Campero expone un curioso fenómeno contable. Cuando el BNA le abrió el grifo en mayo de 2025, el desembolso inicial neto fue de $275 millones. Esa fue la montaña de pesos real que salieron de las arcas del banco estatal. Sin embargo, en los registros de la Central de Deudores del Banco Central, su nombre aparece asociado a otra cifra bastante más abultada: $368.333.000. No se trata de un segundo préstamo, sino de la velocidad a la que corre el propio sistema financiero. Al tratarse de una línea de financiamiento indexada bajo la modalidad UVA, la deuda no se congela, sino que se recalcula día a día según el índice de precios. El diputado recibió un capital inicial de $275 millones que, por el propio efecto de la inflación diaria, se convirtió en un saldo adeudado de $322 millones. Dos fotos distintas de una misma realidad hipotecada. Distinto es el caso de la diputada Lorena Villaverde, quien no pudo asumir en diciembre de 2025 como senadora debido al escándalo que la vinculó con Fred Machado, el empresario extraditado a Estados Unidos por presuntos vínculos con el narcotráfico. Machado fue quien le puso todos los clavos al cajón de la candidatura de José Luis Espert en las elecciones legislativas de 2025. Podría decirse que, producto de esa trama, hoy Diego Santilli es Jefe de Gabinete y candidato cantado a gobernador bonaerense, aunque no se sabe si por LLA, por el PRO o por una alianza entre ambos. Las vueltas de la vida. En medio de ese torbellino político, el beneficio de la banca pública también dejó su huella. La rionegrina declaró ante la Oficina Anticorrupción una deuda [...] La entrada Las propiedades que compraron los funcionarios de Javier Milei con los préstamos del Banco Nación se publicó primero en CHACODIAPORDIA.COM .",
+      "url": "https://chacodiapordia.com/las-propiedades-que-compraron-los-funcionarios-de-javier-milei-con-los-prestamos-del-banco-nacion/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "‘Independientes’: el nuevo partido que quiere bajar un 20% el sueldo a los 57 concejales de Madrid y recuerda que Almeida se lo ha subido 7.203 euros en tres años",
+      "source": "infobae",
+      "published_at": "2026-09-07 09:02:18",
+      "snippet": "La nueva formación de la ex número dos de Carmena, Marta Higueras, se presentará a las elecciones de 2027 y propone que los ediles se bajen el salario para reforzar la plantilla y los medio de la Oficina contra el Fraude y la Corrupción",
+      "url": "https://www.infobae.com/espana/2026/09/07/independientes-el-nuevo-partido-que-quiere-bajar-un-20-el-sueldo-a-los-57-concejales-de-madrid-y-recuerda-que-almeida-se-lo-ha-subido-7203-euros-en-tres-anos/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Créditos para autos del Banco Nación: lanzan una línea UVA de hasta $100 millones y sin prenda",
+      "source": "lagaceta_ar",
+      "published_at": "2026-09-07 09:02:00",
+      "snippet": "El BNA amplía su programa “+Autos con BNA” con una opción ajustable por inflación. Permite financiar el 100% del vehículo, con cuotas iniciales desde los $292.000.",
+      "url": "https://www.lagaceta.com.ar/nota/1152912/economia/creditos-para-autos-banco-nacion-lanzan-linea-uva-hasta-100-millones-sin-prenda.html",
       "country": [
         "argentina"
       ],
