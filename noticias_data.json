@@ -1,14 +1,112 @@
 {
-  "updated_at": "2026-09-07T17:11:53Z",
+  "updated_at": "2026-09-07T18:02:17Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Realizan tareas de bacheo en las zonas norte y sur",
+      "title": "Heráclito el filósofo y su profunda reflexión sobre el paso del tiempo",
+      "source": "minutouno",
+      "published_at": "2026-09-07 06:00:00",
+      "snippet": "Las afirmaciones antiguas continúan siendo una fuente de conocimiento que atraviesa generaciones gracias a sus análisis sobre la condición humana y los grandes interrogantes de la existencia.",
+      "url": "https://www.minutouno.com/economia/heraclito-el-filosofo-y-su-profunda-reflexion-el-paso-del-tiempo-n6318815",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Nuevos créditos hipotecarios UVA: qué bancos bajaron sus tasas por el plan del Gobierno, que hoy hará la primera licitación",
+      "source": "infobae",
+      "published_at": "2026-09-07 05:52:25",
+      "snippet": "La primera subasta de plazos fijos de la Anses ofrecerá $200.000 millones a las entidades financieras para que coloquen préstamos para la primera vivienda a una tasa del 7,5% anual más el ajuste por inflación",
+      "url": "https://www.infobae.com/economia/2026/09/07/nuevos-creditos-hipotecarios-uva-que-bancos-bajaron-sus-tasas-por-el-plan-del-gobierno-que-hoy-hara-la-primera-licitacion/",
+      "country": [
+        "colombia",
+        "mexico",
+        "argentina",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "La mejora de las cuentas externas suma reservas y abre margen para una baja del índice de riesgo país de la Argentina",
+      "source": "infobae",
+      "published_at": "2026-09-07 05:52:14",
+      "snippet": "El BCRA informó que en los primeros siete meses del año el balance del intercambio con el exterior de bienes, servicios y el movimiento financiero fue positivo por primera vez desde 2019 y alcanzó a USD 3.500 millones",
+      "url": "https://www.infobae.com/economia/2026/09/07/la-mejora-de-las-cuentas-externas-suma-reservas-y-abre-margen-para-una-baja-del-indice-de-riesgo-pais-de-la-argentina/",
+      "country": [
+        "colombia",
+        "mexico",
+        "argentina",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Costos hasta 14 veces más altos que en Vaca Muerta, precios volátiles y proveedores remisos: los factores que echan dudas sobre la rentabilidad de Sea Lion en Malvinas",
+      "source": "infobae",
+      "published_at": "2026-09-07 05:51:54",
+      "snippet": "Las diferencias de condiciones con la formación neuquina son grandes y tres empresas globales de servicios y equipamiento ya dijeron que no operarán allí",
+      "url": "https://www.infobae.com/economia/2026/09/07/costos-hasta-14-veces-mas-altos-que-en-vaca-muerta-precios-volatiles-y-proveedores-remisos-los-factores-que-echan-dudas-sobre-la-rentabilidad-de-sea-lion-en-malvinas/",
+      "country": [
+        "colombia",
+        "mexico",
+        "argentina",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Desinflación o actividad: ¿cuál es la prioridad que reflejan los movimientos del Tesoro y el Banco Central?",
+      "source": "infobae",
+      "published_at": "2026-09-07 05:51:32",
+      "snippet": "Con diferentes medidas, el equipo económico busca controlar tanto la suba del dólar como de las tasas pesos, pero para la consultora Quantum, hay una de las dos prioridades que pesa más",
+      "url": "https://www.infobae.com/economia/2026/09/07/desinflacion-o-actividad-cual-es-la-prioridad-que-reflejan-los-movimientos-del-tesoro-y-el-banco-central/",
+      "country": [
+        "colombia",
+        "mexico",
+        "argentina",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Viento a favor para la Argentina: el precio de los granos llegó al nivel más alto de la última década",
+      "source": "infobae",
+      "published_at": "2026-09-07 05:51:21",
+      "snippet": "Fondos especulativos y factores climáticos y geopolíticos empujan a Chicago a récords multianuales, mientras el mercado local acompaña con fijaciones y negocios que marcan máximos en varias campañas",
+      "url": "https://www.infobae.com/economia/2026/09/07/viento-a-favor-para-la-argentina-el-precio-de-los-granos-llego-al-nivel-mas-alto-de-la-ultima-decada/",
+      "country": [
+        "colombia",
+        "mexico",
+        "argentina",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Crisis habitacional: crecen las dificultades para pagar el alquiler y las expensas",
       "source": "eldia_ar",
-      "published_at": "2026-09-07 05:10:39",
-      "snippet": "La Municipalidad llevó adelante durante la última semana nuevos trabajos de renovación y reparación de la carpeta asfáltica en Villa Elisa, City Bell, El Rincón y Altos de San Lorenzo y anunció que las intervenciones continuarán esta semana en distintos barrios de la periferia, para mejorar la transitabilidad y la...",
-      "url": "https://www.eldia.com/politica-y-economia/realizan-tareas-de-bacheo-en-las-zonas-norte-y-sur-politica-y-economia-edicion-impresa_1788757680",
+      "published_at": "2026-09-07 05:41:48",
+      "snippet": "Uno de cada cinco inquilinos reconoció haber tenido que mudarse este año por no poder sostener el costo. El endeudamiento alcanza al 78,5% de esos hogares",
+      "url": "https://www.eldia.com/informacion-general/crisis-habitacional-crecen-las-dificultades-para-pagar-el-alquiler-y-las-expensas-informacion-general_1788759708",
       "country": [
         "argentina"
       ],
@@ -18,108 +116,21 @@
       ]
     },
     {
-      "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este lunes 7 de septiembre",
-      "source": "tn",
-      "published_at": "2026-09-07 05:00:37",
-      "snippet": "La cotización del dólar minuto a minuto en los bancos, donde desde abril de 2025 se pueden comprar divisas sin límites. También los precios del Blue, el MEP y el Cripto.",
-      "url": "https://tn.com.ar/economia/2026/09/07/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-7-de-septiembre/",
+      "title": "Los embalses de agua se encuentran al 64,01 % de su capacidad este lunes 7 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-07 05:16:17",
+      "snippet": "El Ministerio para la Transición Ecológica y el Reto Demográfico ha actualizado su más reciente boletín sobre los estatus de los embalses de agua en España",
+      "url": "https://www.infobae.com/espana/2026/09/07/los-embalses-de-agua-se-encuentran-al-6401-de-su-capacidad-este-lunes-7-de-septiembre/",
       "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Santa Marta avanza en gestión del crédito CAF para grandes obras",
-      "source": "elinformador",
-      "published_at": "2026-09-07 05:00:00",
-      "snippet": "El secretario de Hacienda, Gonzalo Gutiérrez Díaz Granados, explicó que los recursos del crédito aún no han sido desembolsados y que el Distrito trabaja en las condiciones necesarias para que el proceso avance en 2027",
-      "url": "https://www.elinformador.com.co/index.php/la-ciudad/81-distrito/358330-santa-marta-avanza-en-gestion-del-credito-caf-para-grandes-obras",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Radiografía de los números en rojo: más de 76% se endeudó por alimentos o gastos de vivienda, según un relevamiento",
-      "source": "jujuyaldia_ar",
-      "published_at": "2026-09-07 05:00:00",
-      "snippet": "El sondeo privado sostiene que el crédito se usa para afrontar gastos corrientes y que siete de cada diez se concentra en rubros básicos Jujuy al día ® – Siete de cada diez hogares argentinos con dificultades financieras contrajeron deuda para cubrir alimentos o gastos de vivienda, según un relevamiento de la consultora Inteligencia Analítica [...] La entrada Radiografía de los números en rojo: más de 76% se endeudó por alimentos o gastos de vivienda, según un relevamiento se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/07/radiografia-de-los-numeros-en-rojo-mas-de-76-se-endeudo-por-alimentos-o-gastos-de-vivienda-segun-un-relevamiento/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Este martes comienza el cronograma de pagos de Anses",
-      "source": "eldia_ar",
-      "published_at": "2026-09-07 04:59:24",
-      "snippet": "La Anses comenzará este martes 8 de septiembre con el calendario de pagos correspondiente a jubilados, pensionados, titulares de asignaciones sociales y beneficiarios del sistema de prestación por desempleo.El cronograma se pondrá en marcha con el pago de las jubilaciones y pensiones que no superan el haber mínimo,...",
-      "url": "https://www.eldia.com/la-ciudad/este-martes-comienza-el-cronograma-de-pagos-de-anses-la-ciudad_1788757164",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Maximiliano Pullaro sobre una alternativa electoral a Javier Milei: “Hay que construir un modelo productivo e industrializado”",
-      "source": "perfil",
-      "published_at": "2026-09-07 04:55:53",
-      "snippet": "El gobernador santafesino dejó entrever la reedición de una propuesta electoral que respete las bases macroeconómicas, pero reclamó una mirada productivista. Evitó chocar contra el gobierno de Javier Milei, pero sostuvo que los dólares del campo, la energía y la minería deben volcarse al desarrollo productivo. Leer más",
-      "url": "https://www.perfil.com/noticias/economia/maximiliano-pullaro-sobre-una-alternativa-electoral-a-javier-milei-hay-que-construir-un-modelo-productivo-e-industrializado-a40.phtml",
-      "country": [
-        "argentina"
+        "colombia",
+        "mexico",
+        "argentina",
+        "united states of america"
       ],
       "category": [
         "top",
         "business",
-        "politics"
-      ]
-    },
-    {
-      "title": "Crearon una mesa técnica para rediseñar el espacio aéreo argentino",
-      "source": "infobae",
-      "published_at": "2026-09-07 04:48:33",
-      "snippet": "El nuevo ámbito funcionará en la Secretaría de Transporte, reunirá a organismos públicos y privados del sector. Además, deberá presentar antes de diciembre de 2027 un paquete de recomendaciones para mejorar la gestión operativa",
-      "url": "https://www.infobae.com/economia/2026/09/07/crearon-una-mesa-tecnica-para-redisenar-el-espacio-aereo-argentino/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "El ministro de Finanzas británico presenta su agenda económica de cara al primer presupuesto del Gobierno de Andy Burnham",
-      "source": "infobae",
-      "published_at": "2026-09-07 04:35:37",
-      "snippet": "John Healey expondrá este lunes las principales líneas de su plan en un contexto marcado por las dificultades económicas del país, el elevado costo de vida, el desempleo juvenil y el aumento de los precios de la energía como consecuencia de la guerra entre Estados Unidos e Irán",
-      "url": "https://www.infobae.com/america/mundo/2026/09/07/el-ministro-de-finanzas-britanico-presenta-su-agenda-economica-de-cara-al-primer-presupuesto-del-gobierno-de-andy-burnham/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
+        "environment"
       ]
     }
   ]
