@@ -1,8 +1,68 @@
 {
-  "updated_at": "2026-09-07T18:02:17Z",
+  "updated_at": "2026-09-07T18:28:37Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
+    {
+      "title": "La brecha del precio de la vivienda entre comunidades se duplica desde la pandemia",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-07 06:23:37",
+      "snippet": "El encarecimiento de la vivienda no se está produciendo con la misma intensidad en toda España. Desde antes de la pandemia, la distancia entre las comunidades más caras y las más baratas se ha ensanchado con fuerza, hasta dibujar un mercado residencial cada vez más desigual territorialmente.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/brecha-precio-vivienda-comunidades-134019890.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Radiografía del parate en la obra pública",
+      "source": "infobae",
+      "published_at": "2026-09-07 06:18:44",
+      "snippet": "Pese al reclamo de los gobernadores, se acentúa el recorte de fondos de Nación a las provincias para rutas e infraestructura, en medio de negociaciones a cambio de apoyo parlamentario",
+      "url": "https://www.infobae.com/politica/2026/09/07/radiografia-del-parate-en-la-obra-publica/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Señales que indican que tu planta necesita más luz",
+      "source": "diariopanorama",
+      "published_at": "2026-09-07 06:13:00",
+      "snippet": "Las plantas son organismos que dependen de la luz para realizar la fotosíntesis, un proceso vital que les permite crecer y desarrollarse. Según estudios de la Universidad de Buenos Aires, la luz adecuada puede aumentar la salud y el crecimiento de las plantas en un 30%.",
+      "url": "https://diariopanorama.com/noticia/565621/senales-indican-tu-planta-necesita-mas-luz",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business",
+        "environment"
+      ]
+    },
+    {
+      "title": "Fernando Clavijo: \"Sánchez no está a la altura, ni en Ceuta ni en Canarias\"",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-07 06:04:49",
+      "snippet": "Pese a haber llegado a un acuerdo con el Gobierno de España, en concreto con el ministro de Hacienda, Arcadi España, para apoyar junto a Cataluña la financiación autonómica, con el rechazo de 13 comunidades -11 del PP y dos del PSOE-, el presidente del Gobierno de Canarias, Fernando Clavijo, es sumamente crítico en esta entrevista con la situación que atraviesa el país por la \"inestabilidad\" del Ejecutivo de Pedro Sánchez.",
+      "url": "https://www.laopinioncoruna.es/espana/2026/09/07/fernando-clavijo-sanchez-altura-ceuta-canarias-134019627.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
     {
       "title": "Heráclito el filósofo y su profunda reflexión sobre el paso del tiempo",
       "source": "minutouno",
@@ -65,72 +125,6 @@
       "category": [
         "top",
         "business"
-      ]
-    },
-    {
-      "title": "Desinflación o actividad: ¿cuál es la prioridad que reflejan los movimientos del Tesoro y el Banco Central?",
-      "source": "infobae",
-      "published_at": "2026-09-07 05:51:32",
-      "snippet": "Con diferentes medidas, el equipo económico busca controlar tanto la suba del dólar como de las tasas pesos, pero para la consultora Quantum, hay una de las dos prioridades que pesa más",
-      "url": "https://www.infobae.com/economia/2026/09/07/desinflacion-o-actividad-cual-es-la-prioridad-que-reflejan-los-movimientos-del-tesoro-y-el-banco-central/",
-      "country": [
-        "colombia",
-        "mexico",
-        "argentina",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Viento a favor para la Argentina: el precio de los granos llegó al nivel más alto de la última década",
-      "source": "infobae",
-      "published_at": "2026-09-07 05:51:21",
-      "snippet": "Fondos especulativos y factores climáticos y geopolíticos empujan a Chicago a récords multianuales, mientras el mercado local acompaña con fijaciones y negocios que marcan máximos en varias campañas",
-      "url": "https://www.infobae.com/economia/2026/09/07/viento-a-favor-para-la-argentina-el-precio-de-los-granos-llego-al-nivel-mas-alto-de-la-ultima-decada/",
-      "country": [
-        "colombia",
-        "mexico",
-        "argentina",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Crisis habitacional: crecen las dificultades para pagar el alquiler y las expensas",
-      "source": "eldia_ar",
-      "published_at": "2026-09-07 05:41:48",
-      "snippet": "Uno de cada cinco inquilinos reconoció haber tenido que mudarse este año por no poder sostener el costo. El endeudamiento alcanza al 78,5% de esos hogares",
-      "url": "https://www.eldia.com/informacion-general/crisis-habitacional-crecen-las-dificultades-para-pagar-el-alquiler-y-las-expensas-informacion-general_1788759708",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Los embalses de agua se encuentran al 64,01 % de su capacidad este lunes 7 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-07 05:16:17",
-      "snippet": "El Ministerio para la Transición Ecológica y el Reto Demográfico ha actualizado su más reciente boletín sobre los estatus de los embalses de agua en España",
-      "url": "https://www.infobae.com/espana/2026/09/07/los-embalses-de-agua-se-encuentran-al-6401-de-su-capacidad-este-lunes-7-de-septiembre/",
-      "country": [
-        "colombia",
-        "mexico",
-        "argentina",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business",
-        "environment"
       ]
     }
   ]
