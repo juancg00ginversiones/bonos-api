@@ -1,27 +1,14 @@
 {
-  "updated_at": "2026-09-07T22:25:10Z",
+  "updated_at": "2026-09-07T23:23:38Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Créditos hipotecarios UVA: el BCRA activa el fondeo de ANSES para los bancos",
-      "source": "minutouno",
-      "published_at": "2026-09-07 10:25:00",
-      "snippet": "El mecanismo contempla diez licitaciones por un total de $2 billones y busca que las entidades financieras amplíen la oferta de préstamos para vivienda con tasas de hasta UVA + 7,5%.",
-      "url": "https://www.minutouno.com/economia/creditos-hipotecarios-uva-el-bcra-activa-el-fondeo-anses-los-bancos-n6319217",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "La fabricante de aperitivos salados Frit Ravich da el salto a Madrid con un gran centro logístico y de distribución",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-07 10:23:57",
-      "snippet": "El objetivo es que, para 2030, la facturación de la compañía se haya duplicado y alcance los 600 millones de euros, tras rozar los 360 el año pasado. Con este horizonte trabaja la empresa catalana Frit Ravich, especializada en la elaboración patatas fritas, palomitas y otros aperitivos salados y que este lunes ha anunciado que invertirá más de 115 millones en construir una nueva planta de producción en Maçanet de la Selva (Girona), que estará situada junto a su sede central, y en abrir un nuevo centro logístico en Madrid, con el que podrá distribuir con mayor rapidez a sus clientes del centro y del sur de España.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/frit-ravich-centro-logistico-madrid-ampliacion-fabrica-girona-134028643.html",
+      "title": "Denuncian que una petrolera sancionada por operar en Malvinas accedió a los beneficios del RIGI",
+      "source": "chacodiapordia",
+      "published_at": "2026-09-07 11:22:01",
+      "snippet": "El diputado Maximiliano Ferraro cuestionó que Harbour Energy, vinculada a una empresa inhabilitada hasta 2028, participe de un proyecto gasífero amparada en el régimen de inversiones. El diputado nacional y presidente de la Coalición Cívica, Maximiliano Ferraro, denunció que Harbour Energy, una petrolera británica vinculada a operaciones hidrocarburíferas en las Islas Malvinas, forma parte de un proyecto que obtuvo beneficios del Régimen de Incentivo para Grandes Inversiones (RIGI). Según planteó el legislador, la compañía posee el 15% de Southern Energy, iniciativa aprobada por el Gobierno mediante la Resolución 559/2025 para desarrollar actividades vinculadas a la producción y exportación de gas desde Río Negro. Ferraro sostuvo que Harbour Energy es la misma persona jurídica que anteriormente operaba bajo el nombre de Premier Oil PLC, denominación que fue modificada en 2021. Según su presentación, Premier Oil había sido inhabilitada en 2013 por una resolución basada en la Ley 26.659, a raíz de actividades de exploración en la plataforma continental argentina sin autorización, en cercanías de las Islas Malvinas. La denuncia se conoció luego de que el Gobierno anunciara una nueva ofensiva contra empresas y personas vinculadas con la exploración y explotación de hidrocarburos en las Islas Malvinas. En paralelo, el proyecto autorizado para Southern Energy prevé un importante operativo logístico en el sur argentino. El esquema contempla la llegada mensual de buques encargados de trasladar alrededor de 3.500 tubos que serán utilizados para la instalación de cañerías, mientras continúa pendiente una resolución judicial sobre la denuncia presentada. Tiempo Argentino La entrada Denuncian que una petrolera sancionada por operar en Malvinas accedió a los beneficios del RIGI se publicó primero en CHACODIAPORDIA.COM .",
+      "url": "https://chacodiapordia.com/denuncian-que-una-petrolera-sancionada-por-operar-en-malvinas-accedio-a-los-beneficios-del-rigi/",
       "country": [
         "argentina"
       ],
@@ -31,24 +18,87 @@
       ]
     },
     {
-      "title": "Bitcoin hoy: cotización y precio del BTC este lunes 7 de septiembre de 2026",
-      "source": "clarin",
-      "published_at": "2026-09-07 10:22:02",
-      "snippet": "El valor actualizado del Bitcoin y la comparación con la jornada previa. Las claves para entender la volatilidad de la principal criptomoneda en el mercado.",
-      "url": "https://www.clarin.com/economia/bitcoin-hoy-cotizacion-y-precio-del-btc-este-lunes-7-de-septiembre-de-2026_0_1I30w4oTxW.html",
+      "title": "Morosidad: más de 257.000 tucumanos tienen deudas en situación irregular",
+      "source": "lagaceta_ar",
+      "published_at": "2026-09-07 11:22:00",
+      "snippet": "Según un informe del CEPA, el incumplimiento en la provincia alcanza al 18,9% del total del sistema crediticio y el 67,1% de los deudores tiene entre 25 y 54 años. Tucumán se ubica sexta entre las 24 jurisdicciones del país, entre las de mayor nivel endeudamiento.",
+      "url": "https://www.lagaceta.com.ar/nota/1152930/economia/morosidad-mas-257000-tucumanos-tienen-deudas-situacion-irregular.html",
       "country": [
         "argentina"
       ],
       "category": [
+        "top",
         "business"
       ]
     },
     {
-      "title": "Quini 6: los resultados de este domingo 6 de septiembre",
+      "title": "Los estadounidenses siguen lidiando con los altos precios de la gasolina. Es probable que esta situación continúe este otoño",
+      "source": "cnnespanol",
+      "published_at": "2026-09-07 11:21:34",
+      "snippet": "El precio promedio de la gasolina en agosto en EE.UU. fue el más alto jamás registrado para ese mes. Y es probable que el impacto de los precios se siga sintiendo en otoño.",
+      "url": "https://cnnespanol.cnn.com/2026/09/07/economia/estadounidenses-altos-precios-gasolina-otono-trax",
+      "country": [
+        "colombia",
+        "el salvador",
+        "paraguay",
+        "chile",
+        "costa rica",
+        "dominican republic",
+        "honduras",
+        "uruguay",
+        "bolivia",
+        "guatemala",
+        "mexico",
+        "puerto rico",
+        "venezuela",
+        "argentina",
+        "nicaragua",
+        "cuba",
+        "peru",
+        "ecuador",
+        "spain",
+        "panama",
+        "guinea"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Wall Street “digiere” los máximos, las tasas reordenan el mapa y Argentina sufre la volatilidad",
+      "source": "cronista",
+      "published_at": "2026-09-07 11:21:25",
+      "snippet": "Wall Street “digiere” los máximos, las tasas reordenan el mapa y Argentina sufre la volatilidad",
+      "url": "https://www.cronista.com/columnistas/wall-street-digiere-los-maximos-las-tasas-reordenan-el-mapa-y-argentina-sufre-la-volatilidad/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "El petróleo roza los 100 dólares por la tensión en el estrecho de Ormuz",
+      "source": "diariocronica_ar",
+      "published_at": "2026-09-07 11:20:41",
+      "snippet": "El petróleo roza los 100 dólares. La escalada de tensión entre Estados Unidos e Irán ha provocado una nueva suba en los precios del crudo. El Brent alcanzó los 96,76 dólares por barril ante la inseguridad en el estrecho de Ormuz.",
+      "url": "https://www.diariocronica.com.ar/noticias/2026/09/07/165254-el-petroleo-roza-los-100-dolares-por-la-tension-en-el-estrecho-de-ormuz",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Dólar: a cuánto cotizan el oficial y las otras opciones cambiarias este lunes 7 de septiembre",
       "source": "tn",
-      "published_at": "2026-09-07 10:19:40",
-      "snippet": "Conocé los números ganadores del sorteo N° 3406. Hubo 16 ganadores en una modalidad y repartió $31 millones para cada afortunado.",
-      "url": "https://tn.com.ar/sociedad/2026/09/07/quini-6-los-resultados-de-este-domingo-6-de-septiembre/",
+      "published_at": "2026-09-07 11:20:00",
+      "snippet": "Todas las cotizaciones de las distintas alternativas para hacerse de dólares en la Argentina, sin restricciones cambiarias.",
+      "url": "https://tn.com.ar/economia/2026/09/07/dolar-a-cuanto-cotizan-el-oficial-y-las-otras-opciones-cambiarias-este-lunes-7-de-septiembre/",
       "country": [
         "argentina"
       ],
@@ -58,44 +108,16 @@
       ]
     },
     {
-      "title": "CaixaBank supera una caída en su operativa 'online'",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-07 10:18:01",
-      "snippet": "La página web y la aplicación de CaixaBank han estado inactivas en las primeras horas de este lunes durante un tiempo no concretado, según han explicado a EL PERIÓDICO fuentes de la entidad bancaria. La incidencia técnica se ha resuelto y la operativa 'online' del banco vuelve a funcionar con plena normalidad. Según las mismas fuentes, la recuperación ha sido \"gradual\", por lo que no se puede concretar la duración exacta del incidente.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/caixabank-supera-caida-operativa-online-134028296.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Rolando Figueroa: “Neuquén es uno de los faros más importantes de atracción de inversiones de la Argentina”",
-      "source": "mejorinformado",
-      "published_at": "2026-09-07 10:17:33",
-      "snippet": "Así lo aseguró el gobernador Rolando Figueroa al término de una serie de encuentros en Washington y Houston, donde Neuquén expuso su exponencial desarrollo en materia hidrocarburífera, profundizó la búsqueda de inversiones para mejorar la infraestructura existente y potenciar las oportunidades energéticas y productivas de la provincia.",
-      "url": "https://www.mejorinformado.com/regionales/rolando-figueroa-neuquen-uno-faros-importantes-atraccion-inversiones-argentina_1788776253",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "¿Cuál es el precio de la gasolina hoy lunes 7 de septiembre en Nuevo León?",
+      "title": "Cuándo se cobra el paro en España en septiembre de 2026: qué día paga CaixaBank, ING, BBVA, Santander y otros bancos",
       "source": "infobae",
-      "published_at": "2026-09-07 10:17:08",
-      "snippet": "El valor de los carburantes en el país puede cambiar debido a múltiples factores como el tipo de cambio frente al dólar, impuestos y la logística para el traslado",
-      "url": "https://www.infobae.com/mexico/2026/09/07/cual-es-el-precio-de-la-gasolina-hoy-lunes-7-de-septiembre-en-nuevo-leon/",
+      "published_at": "2026-09-07 11:19:17",
+      "snippet": "La prestación correspondiente a agosto puede llegar antes o después en función de la entidad financiera del beneficiario",
+      "url": "https://www.infobae.com/espana/2026/09/01/cuando-se-cobra-el-paro-en-septiembre-de-2026-que-dia-paga-caixabank-ing-bbva-y-otros-bancos/",
       "country": [
         "colombia",
-        "argentina",
         "united states of america",
-        "mexico"
+        "mexico",
+        "argentina"
       ],
       "category": [
         "top",
@@ -103,16 +125,13 @@
       ]
     },
     {
-      "title": "Gobierno británico promete crecimiento con disciplina fiscal ante la incertidumbre global",
-      "source": "infobae",
-      "published_at": "2026-09-07 10:16:59",
-      "snippet": "Gobierno británico promete crecimiento con disciplina fiscal ante la incertidumbre global",
-      "url": "https://www.infobae.com/america/agencias/2026/09/07/gobierno-britanico-promete-crecimiento-con-disciplina-fiscal-ante-la-incertidumbre-global/",
+      "title": "La carne importada gana terreno: Mientras cae la producción y faena local, el USDA proyecta compras récord de hasta 70.000 toneladas en 2027",
+      "source": "bichosdecampo",
+      "published_at": "2026-09-07 11:19:09",
+      "snippet": "El rodeo bovino argentino atraviesa una etapa de reconstrucción que tendrá un efecto directo sobre la faena y la producción de carne durante 2026 y los años siguientes. De acuerdo con el Departamento de Agricultura de los Estados Unidos (USDA), este año se faenarían 12,7 millones de vacunos, una cifra por debajo de los 13,6 [...]",
+      "url": "https://bichosdecampo.com/la-carne-importada-gana-terreno-mientras-cae-la-produccion-y-faena-local-el-usda-proyecta-compras-record-de-hasta-70-000-toneladas-en-2027/",
       "country": [
-        "colombia",
-        "argentina",
-        "united states of america",
-        "mexico"
+        "argentina"
       ],
       "category": [
         "top",
