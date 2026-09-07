@@ -1,8 +1,73 @@
 {
-  "updated_at": "2026-09-07T18:28:37Z",
+  "updated_at": "2026-09-07T18:55:43Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
+    {
+      "title": "El petróleo sube por la tensión entre Estados Unidos e Irán y el desplome del tráfico marítimo en el estrecho de Ormuz",
+      "source": "infobae",
+      "published_at": "2026-09-07 06:51:06",
+      "snippet": "El Brent avanzó 79 centavos, un 0,82%, hasta los 97,07 dólares por barril, mientras que el West Texas Intermediate (WTI) subió 80 centavos, un 0,87%, hasta los 92,28 dólares",
+      "url": "https://www.infobae.com/america/mundo/2026/09/07/el-petroleo-sube-por-la-tension-entre-estados-unidos-e-iran-y-el-desplome-del-trafico-maritimo-en-el-estrecho-de-ormuz/",
+      "country": [
+        "colombia",
+        "argentina",
+        "united states of america",
+        "mexico"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "La producción industrial de Alemania cae inesperadamente un 1,1% en julio",
+      "source": "infobae",
+      "published_at": "2026-09-07 06:45:20",
+      "snippet": "La producción industrial de Alemania cae inesperadamente un 1,1% en julio",
+      "url": "https://www.infobae.com/america/agencias/2026/09/07/la-produccion-industrial-de-alemania-cae-inesperadamente-un-11-en-julio/",
+      "country": [
+        "colombia",
+        "argentina",
+        "united states of america",
+        "mexico"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Aumentó el optimismo de las consultoras sobre la economía argentina y la imagen presidencial",
+      "source": "infobae",
+      "published_at": "2026-09-07 06:37:24",
+      "snippet": "La rueda de este lunes no reflejará el humor internacional, debido al feriado en Estados Unidos",
+      "url": "https://www.infobae.com/economia/2026/09/07/aumento-el-optimismo-de-las-consultoras-sobre-la-economia-argentina-y-la-imagen-presidencial/",
+      "country": [
+        "colombia",
+        "argentina",
+        "united states of america",
+        "mexico"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Una insólita advertencia empresaria para que el Gobierno ajuste el rumbo",
+      "source": "jujuyaldia_ar",
+      "published_at": "2026-09-07 06:30:00",
+      "snippet": "La primera plana del Ejecutivo faltó al Día de la Industria en tensión con los empresarios del sector, que coinciden con el camino de fondo, pero que piden correcciones urgentes Jujuy al día ® – Relajado, el empresario ya estaba en zona de chill out –picando algo en el brunch montado en la carpa de [...] La entrada Una insólita advertencia empresaria para que el Gobierno ajuste el rumbo se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/07/una-insolita-advertencia-empresaria-para-que-el-gobierno-ajuste-el-rumbo/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
     {
       "title": "La brecha del precio de la vivienda entre comunidades se duplica desde la pandemia",
       "source": "laopinioncoruna",
@@ -57,70 +122,6 @@
       "url": "https://www.laopinioncoruna.es/espana/2026/09/07/fernando-clavijo-sanchez-altura-ceuta-canarias-134019627.html",
       "country": [
         "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Heráclito el filósofo y su profunda reflexión sobre el paso del tiempo",
-      "source": "minutouno",
-      "published_at": "2026-09-07 06:00:00",
-      "snippet": "Las afirmaciones antiguas continúan siendo una fuente de conocimiento que atraviesa generaciones gracias a sus análisis sobre la condición humana y los grandes interrogantes de la existencia.",
-      "url": "https://www.minutouno.com/economia/heraclito-el-filosofo-y-su-profunda-reflexion-el-paso-del-tiempo-n6318815",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Nuevos créditos hipotecarios UVA: qué bancos bajaron sus tasas por el plan del Gobierno, que hoy hará la primera licitación",
-      "source": "infobae",
-      "published_at": "2026-09-07 05:52:25",
-      "snippet": "La primera subasta de plazos fijos de la Anses ofrecerá $200.000 millones a las entidades financieras para que coloquen préstamos para la primera vivienda a una tasa del 7,5% anual más el ajuste por inflación",
-      "url": "https://www.infobae.com/economia/2026/09/07/nuevos-creditos-hipotecarios-uva-que-bancos-bajaron-sus-tasas-por-el-plan-del-gobierno-que-hoy-hara-la-primera-licitacion/",
-      "country": [
-        "colombia",
-        "mexico",
-        "argentina",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "La mejora de las cuentas externas suma reservas y abre margen para una baja del índice de riesgo país de la Argentina",
-      "source": "infobae",
-      "published_at": "2026-09-07 05:52:14",
-      "snippet": "El BCRA informó que en los primeros siete meses del año el balance del intercambio con el exterior de bienes, servicios y el movimiento financiero fue positivo por primera vez desde 2019 y alcanzó a USD 3.500 millones",
-      "url": "https://www.infobae.com/economia/2026/09/07/la-mejora-de-las-cuentas-externas-suma-reservas-y-abre-margen-para-una-baja-del-indice-de-riesgo-pais-de-la-argentina/",
-      "country": [
-        "colombia",
-        "mexico",
-        "argentina",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Costos hasta 14 veces más altos que en Vaca Muerta, precios volátiles y proveedores remisos: los factores que echan dudas sobre la rentabilidad de Sea Lion en Malvinas",
-      "source": "infobae",
-      "published_at": "2026-09-07 05:51:54",
-      "snippet": "Las diferencias de condiciones con la formación neuquina son grandes y tres empresas globales de servicios y equipamiento ya dijeron que no operarán allí",
-      "url": "https://www.infobae.com/economia/2026/09/07/costos-hasta-14-veces-mas-altos-que-en-vaca-muerta-precios-volatiles-y-proveedores-remisos-los-factores-que-echan-dudas-sobre-la-rentabilidad-de-sea-lion-en-malvinas/",
-      "country": [
-        "colombia",
-        "mexico",
-        "argentina",
-        "united states of america"
       ],
       "category": [
         "top",
