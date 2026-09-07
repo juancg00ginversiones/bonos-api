@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-07T16:36:14Z",
+  "updated_at": "2026-09-07T17:11:53Z",
   "current": [
     {
       "casa": "oficial",
       "label": "Dólar Oficial",
       "compra": 1480,
       "venta": 1530.0,
-      "fechaActualizacion": "2026-09-07T13:00:00.000Z",
+      "fechaActualizacion": "2026-09-07T14:00:00.000Z",
       "variation": {
         "venta_pct": 0.0
       }
@@ -16,7 +16,7 @@
       "label": "Dólar Blue",
       "compra": 1520,
       "venta": 1540.0,
-      "fechaActualizacion": "2026-09-07T15:58:00.000Z",
+      "fechaActualizacion": "2026-09-07T16:58:00.000Z",
       "variation": {
         "venta_pct": 0.0
       }
@@ -26,7 +26,7 @@
       "label": "Dólar Tarjeta",
       "compra": 1924,
       "venta": 1989.0,
-      "fechaActualizacion": "2026-09-07T13:00:00.000Z",
+      "fechaActualizacion": "2026-09-07T14:00:00.000Z",
       "variation": {
         "venta_pct": 0.0
       }
@@ -36,7 +36,7 @@
       "label": "Dólar CCL",
       "compra": 1582,
       "venta": 1583.2,
-      "fechaActualizacion": "2026-09-07T15:58:00.000Z",
+      "fechaActualizacion": "2026-09-07T16:58:00.000Z",
       "variation": {
         "venta_pct": 0.0
       }
@@ -44,11 +44,11 @@
     {
       "casa": "bolsa",
       "label": "Dólar MEP",
-      "compra": 1524.5,
-      "venta": 1526.4,
-      "fechaActualizacion": "2026-09-07T15:58:00.000Z",
+      "compra": 1525.5,
+      "venta": 1526.9,
+      "fechaActualizacion": "2026-09-07T16:58:00.000Z",
       "variation": {
-        "venta_pct": 0.07
+        "venta_pct": 0.1
       }
     },
     {
@@ -64,11 +64,11 @@
     {
       "casa": "cripto",
       "label": "Dólar Cripto",
-      "compra": 1577.15,
-      "venta": 1581.22,
-      "fechaActualizacion": "2026-09-07T15:58:00.000Z",
+      "compra": 1575.57,
+      "venta": 1578.24,
+      "fechaActualizacion": "2026-09-07T16:58:00.000Z",
       "variation": {
-        "venta_pct": 0.2
+        "venta_pct": 0.02
       }
     }
   ],
