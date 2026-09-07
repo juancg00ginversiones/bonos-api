@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-07T23:23:38Z",
+  "updated_at": "2026-09-07T23:51:05Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Denuncian que una petrolera sancionada por operar en Malvinas accedió a los beneficios del RIGI",
-      "source": "chacodiapordia",
-      "published_at": "2026-09-07 11:22:01",
-      "snippet": "El diputado Maximiliano Ferraro cuestionó que Harbour Energy, vinculada a una empresa inhabilitada hasta 2028, participe de un proyecto gasífero amparada en el régimen de inversiones. El diputado nacional y presidente de la Coalición Cívica, Maximiliano Ferraro, denunció que Harbour Energy, una petrolera británica vinculada a operaciones hidrocarburíferas en las Islas Malvinas, forma parte de un proyecto que obtuvo beneficios del Régimen de Incentivo para Grandes Inversiones (RIGI). Según planteó el legislador, la compañía posee el 15% de Southern Energy, iniciativa aprobada por el Gobierno mediante la Resolución 559/2025 para desarrollar actividades vinculadas a la producción y exportación de gas desde Río Negro. Ferraro sostuvo que Harbour Energy es la misma persona jurídica que anteriormente operaba bajo el nombre de Premier Oil PLC, denominación que fue modificada en 2021. Según su presentación, Premier Oil había sido inhabilitada en 2013 por una resolución basada en la Ley 26.659, a raíz de actividades de exploración en la plataforma continental argentina sin autorización, en cercanías de las Islas Malvinas. La denuncia se conoció luego de que el Gobierno anunciara una nueva ofensiva contra empresas y personas vinculadas con la exploración y explotación de hidrocarburos en las Islas Malvinas. En paralelo, el proyecto autorizado para Southern Energy prevé un importante operativo logístico en el sur argentino. El esquema contempla la llegada mensual de buques encargados de trasladar alrededor de 3.500 tubos que serán utilizados para la instalación de cañerías, mientras continúa pendiente una resolución judicial sobre la denuncia presentada. Tiempo Argentino La entrada Denuncian que una petrolera sancionada por operar en Malvinas accedió a los beneficios del RIGI se publicó primero en CHACODIAPORDIA.COM .",
-      "url": "https://chacodiapordia.com/denuncian-que-una-petrolera-sancionada-por-operar-en-malvinas-accedio-a-los-beneficios-del-rigi/",
+      "title": "Banco Nación lanza créditos para comprar autos: cuánto es la cuota inicial y el monto que presta",
+      "source": "eldia_ar",
+      "published_at": "2026-09-07 11:50:35",
+      "snippet": "Se podrán adquirir automóviles, pick ups y utilitarios, ya sean nuevos o usados",
+      "url": "https://www.eldia.com/politica-y-economia/banco-nacion-lanza-creditos-para-comprar-autos-cuanto-es-la-cuota-inicial-y-el-monto-que-presta-politica-y-economia_1788776280",
       "country": [
         "argentina"
       ],
@@ -18,11 +18,24 @@
       ]
     },
     {
-      "title": "Morosidad: más de 257.000 tucumanos tienen deudas en situación irregular",
-      "source": "lagaceta_ar",
-      "published_at": "2026-09-07 11:22:00",
-      "snippet": "Según un informe del CEPA, el incumplimiento en la provincia alcanza al 18,9% del total del sistema crediticio y el 67,1% de los deudores tiene entre 25 y 54 años. Tucumán se ubica sexta entre las 24 jurisdicciones del país, entre las de mayor nivel endeudamiento.",
-      "url": "https://www.lagaceta.com.ar/nota/1152930/economia/morosidad-mas-257000-tucumanos-tienen-deudas-situacion-irregular.html",
+      "title": "Dólar blue, dólar hoy: a cuánto cotizan el lunes 7 de septiembre de 2026",
+      "source": "pagina12",
+      "published_at": "2026-09-07 11:50:00",
+      "snippet": "El precio del dólar oficial y de los dólares financieros. En directo, todas las modificaciones de la jornada cambiaria.",
+      "url": "https://www.pagina12.com.ar/2026/09/07/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-lunes-7-de-septiembre-de-2026/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Se mueve el plazo fijo: banco por banco, las nuevas tasas de septiembre",
+      "source": "mdzol",
+      "published_at": "2026-09-07 11:46:00",
+      "snippet": "El plazo fijo tradicional de septiembre ofrece tasas de interés dispares entre bancos, con rendimientos promedio que varían según la entidad bancaria.",
+      "url": "https://www.mdzol.com/dinero/se-mueve-el-plazo-fijo-banco-banco-las-nuevas-tasas-septiembre-n1601358",
       "country": [
         "argentina"
       ],
@@ -32,33 +45,13 @@
       ]
     },
     {
-      "title": "Los estadounidenses siguen lidiando con los altos precios de la gasolina. Es probable que esta situación continúe este otoño",
-      "source": "cnnespanol",
-      "published_at": "2026-09-07 11:21:34",
-      "snippet": "El precio promedio de la gasolina en agosto en EE.UU. fue el más alto jamás registrado para ese mes. Y es probable que el impacto de los precios se siga sintiendo en otoño.",
-      "url": "https://cnnespanol.cnn.com/2026/09/07/economia/estadounidenses-altos-precios-gasolina-otono-trax",
+      "title": "Se digitalizan las gestiones aeronáuticas y se suprimen validaciones en papel",
+      "source": "primeraedicion",
+      "published_at": "2026-09-07 11:45:52",
+      "snippet": "La Administración Nacional de Aviación Civil (ANAC) instruyó a su personal a aceptar como válidos los documentos suscriptos con firma digital en todos los trámites de su competencia, eliminando la exigencia de presentar certificaciones, legalizaciones o autenticaciones adicionales. La medida entró en vigencia hoy tras su publicación en el Boletín Oficial bajo la Resolución 662/2026. [...] La entrada Se digitalizan las gestiones aeronáuticas y se suprimen validaciones en papel se publicó primero en Primera Edición .",
+      "url": "https://www.primeraedicion.com.ar/nota/101139845/se-digitalizan-las-gestiones-aeronauticas-y-se-suprimen-validaciones-en-papel/",
       "country": [
-        "colombia",
-        "el salvador",
-        "paraguay",
-        "chile",
-        "costa rica",
-        "dominican republic",
-        "honduras",
-        "uruguay",
-        "bolivia",
-        "guatemala",
-        "mexico",
-        "puerto rico",
-        "venezuela",
-        "argentina",
-        "nicaragua",
-        "cuba",
-        "peru",
-        "ecuador",
-        "spain",
-        "panama",
-        "guinea"
+        "argentina"
       ],
       "category": [
         "top",
@@ -66,11 +59,25 @@
       ]
     },
     {
-      "title": "Wall Street “digiere” los máximos, las tasas reordenan el mapa y Argentina sufre la volatilidad",
+      "title": "¿Revisaste tu boleta? Números de la suerte del Quini 6 y ganadores que se llevaron más de $31 millones",
+      "source": "rionegro",
+      "published_at": "2026-09-07 11:45:44",
+      "snippet": "La Lotería de Santa Fe confirmó que las modalidades principales del Quini 6 quedaron vacantes, en el sorteo del domingo 6 de septiembre 2026. Repasamos todos los números de la suerte y los ganadores del Siempre Sale.",
+      "url": "https://www.rionegro.com.ar/servicios/revisaste-tu-boleta-numeros-de-la-suerte-del-quini-6-y-ganadores-que-se-llevaron-mas-de-31-millones-4711992/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "El plan de Cavallo para que Milei “organice” el dólar y la economía que lo va a “ayudar mucho a ganar las elecciones”",
       "source": "cronista",
-      "published_at": "2026-09-07 11:21:25",
-      "snippet": "Wall Street “digiere” los máximos, las tasas reordenan el mapa y Argentina sufre la volatilidad",
-      "url": "https://www.cronista.com/columnistas/wall-street-digiere-los-maximos-las-tasas-reordenan-el-mapa-y-argentina-sufre-la-volatilidad/",
+      "published_at": "2026-09-07 11:42:55",
+      "snippet": "El exministro de Economía dejó una serie de recomendaciones al Gobierno de cara al año electoral.",
+      "url": "https://www.cronista.com/economia-politica/el-plan-de-cavallo-para-que-milei-organice-el-dolar-y-la-economia-que-lo-va-a-ayudar-mucho-a-ganar-las-elecciones/",
       "country": [
         "argentina"
       ],
@@ -80,56 +87,25 @@
       ]
     },
     {
-      "title": "El petróleo roza los 100 dólares por la tensión en el estrecho de Ormuz",
-      "source": "diariocronica_ar",
-      "published_at": "2026-09-07 11:20:41",
-      "snippet": "El petróleo roza los 100 dólares. La escalada de tensión entre Estados Unidos e Irán ha provocado una nueva suba en los precios del crudo. El Brent alcanzó los 96,76 dólares por barril ante la inseguridad en el estrecho de Ormuz.",
-      "url": "https://www.diariocronica.com.ar/noticias/2026/09/07/165254-el-petroleo-roza-los-100-dolares-por-la-tension-en-el-estrecho-de-ormuz",
+      "title": "Billeteras virtuales: Misiones excluyó a casi 90 mil contribuyentes",
+      "source": "primeraedicion",
+      "published_at": "2026-09-07 11:42:43",
+      "snippet": "Cerca de 90 mil pequeños contribuyentes por mes fueron excluidos de las retenciones sobre las acreditaciones recibidas mediante billeteras virtuales desde la puesta en marcha del nuevo esquema establecido por el Gobierno de Misiones. La medida comenzó a regir en agosto mediante el Decreto provincial 936/2026 y busca evitar que las operaciones de menor escala [...] La entrada Billeteras virtuales: Misiones excluyó a casi 90 mil contribuyentes se publicó primero en Primera Edición .",
+      "url": "https://www.primeraedicion.com.ar/nota/101139844/misiones-excluyo-contribuyentes-retenciones-billeteras-virtuales/",
       "country": [
         "argentina"
       ],
       "category": [
-        "top",
-        "business"
+        "business",
+        "politics"
       ]
     },
     {
-      "title": "Dólar: a cuánto cotizan el oficial y las otras opciones cambiarias este lunes 7 de septiembre",
-      "source": "tn",
-      "published_at": "2026-09-07 11:20:00",
-      "snippet": "Todas las cotizaciones de las distintas alternativas para hacerse de dólares en la Argentina, sin restricciones cambiarias.",
-      "url": "https://tn.com.ar/economia/2026/09/07/dolar-a-cuanto-cotizan-el-oficial-y-las-otras-opciones-cambiarias-este-lunes-7-de-septiembre/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Cuándo se cobra el paro en España en septiembre de 2026: qué día paga CaixaBank, ING, BBVA, Santander y otros bancos",
-      "source": "infobae",
-      "published_at": "2026-09-07 11:19:17",
-      "snippet": "La prestación correspondiente a agosto puede llegar antes o después en función de la entidad financiera del beneficiario",
-      "url": "https://www.infobae.com/espana/2026/09/01/cuando-se-cobra-el-paro-en-septiembre-de-2026-que-dia-paga-caixabank-ing-bbva-y-otros-bancos/",
-      "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "La carne importada gana terreno: Mientras cae la producción y faena local, el USDA proyecta compras récord de hasta 70.000 toneladas en 2027",
-      "source": "bichosdecampo",
-      "published_at": "2026-09-07 11:19:09",
-      "snippet": "El rodeo bovino argentino atraviesa una etapa de reconstrucción que tendrá un efecto directo sobre la faena y la producción de carne durante 2026 y los años siguientes. De acuerdo con el Departamento de Agricultura de los Estados Unidos (USDA), este año se faenarían 12,7 millones de vacunos, una cifra por debajo de los 13,6 [...]",
-      "url": "https://bichosdecampo.com/la-carne-importada-gana-terreno-mientras-cae-la-produccion-y-faena-local-el-usda-proyecta-compras-record-de-hasta-70-000-toneladas-en-2027/",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 7 de septiembre, minuto a minuto",
+      "source": "lanacion",
+      "published_at": "2026-09-07 11:39:52",
+      "snippet": "El último día hábil, la divisa oficial operó a $1530 para la venta en el Banco Nación; el dólar blue cotizó a $1540 para esa operación; qué pasa con el MEP y el CCL",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid07092026/",
       "country": [
         "argentina"
       ],
