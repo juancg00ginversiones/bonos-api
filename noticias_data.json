@@ -1,78 +1,14 @@
 {
-  "updated_at": "2026-09-07T19:42:24Z",
+  "updated_at": "2026-09-07T20:21:21Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "La Bolsa española abre la semana plana con la atención puesta en BCE e IPC de EEUU",
-      "source": "infobae",
-      "published_at": "2026-09-07 07:31:55",
-      "snippet": "La Bolsa española abre la semana plana con la atención puesta en BCE e IPC de EEUU",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/07/la-bolsa-espanola-abre-la-semana-plana-con-la-atencion-puesta-en-bce-e-ipc-de-eeuu/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "La vivienda se encarece un 12,2 % en segundo trimestre y lleva seis subiendo más del 12 %",
-      "source": "infobae",
-      "published_at": "2026-09-07 07:31:39",
-      "snippet": "La vivienda se encarece un 12,2 % en segundo trimestre y lleva seis subiendo más del 12 %",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/07/la-vivienda-se-encarece-un-122-en-segundo-trimestre-y-lleva-seis-subiendo-mas-del-12/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "El precio de la vivienda modera su ascenso al 12,2% en el segundo trimestre y suma 49 trimestres de alzas",
-      "source": "infobae",
-      "published_at": "2026-09-07 07:31:16",
-      "snippet": "El precio de la vivienda modera su ascenso al 12,2% en el segundo trimestre y suma 49 trimestres de alzas",
-      "url": "https://www.infobae.com/america/agencias/2026/09/07/el-precio-de-la-vivienda-modera-su-ascenso-al-122-en-el-segundo-trimestre-y-suma-49-trimestres-de-alzas/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "El Ibex 35 abre la semana plano con el petróleo a más de 97 dólares",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-07 07:30:10",
-      "snippet": "El índice Ibex 35 de la Bolsa de Madrid ha arrancado la sesión de este lunes prácticamente plano, lo que le ha llevado a situarse en los 20.043 puntos tras cerrar el viernes con un avance del 0,3% que le hizo escalar hasta los 20.050 puntos.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/ibex-35-abre-semana-plano-petroleo-97-dolares-134021461.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Cuánto gana una niñera por trabajar cuatro horas por día en septiembre",
-      "source": "lagaceta_ar",
-      "published_at": "2026-09-07 07:18:00",
-      "snippet": "Las trabajadoras de casas particulares tendrán nuevos valores desde septiembre. Conocé cuánto corresponde cobrar por hora y cómo impacta la actualización en quienes trabajan como niñeras.",
-      "url": "https://www.lagaceta.com.ar/nota/1152904/sociedad/cuanto-gana-ninera-trabajar-cuatro-horas-dia-septiembre.html",
+      "title": "Malvinas, crédito y obra pública: el análisis económico de Osvaldo Granados",
+      "source": "diariopanorama",
+      "published_at": "2026-09-07 08:20:00",
+      "snippet": "El licenciado analizó este lunes en Radio Panorama el impacto económico de las medidas vinculadas con Malvinas, las distintas posturas dentro del Gobierno, las nuevas líneas de crédito y el objetivo de finalizar obras públicas inconclusas.",
+      "url": "https://diariopanorama.com/noticia/565636/malvinas-credito-obra-publica-analisis-economico-osvaldo-granados",
       "country": [
         "argentina"
       ],
@@ -82,11 +18,25 @@
       ]
     },
     {
-      "title": "La vivienda se encarece un 12,2% en el segundo trimestre y lleva seis subiendo más del 12%",
+      "title": "Lanzan la primera licitación con fondos de la Anses para impulsar el crédito hipotecario",
+      "source": "diariopanorama",
+      "published_at": "2026-09-07 08:19:00",
+      "snippet": "La iniciativa busca fondear a los bancos para ampliar la oferta de préstamos destinados a quienes buscan comprar su primera vivienda.",
+      "url": "https://diariopanorama.com/noticia/565635/lanzan-primera-licitacion-fondos-anses-para-impulsar-credito-hipotecario",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "El precio de la vivienda sube un 15 % en agosto, 10 puntos más que inflación, según Tinsa",
       "source": "infobae",
-      "published_at": "2026-09-07 07:16:51",
-      "snippet": "La vivienda se encarece un 12,2% en el segundo trimestre y lleva seis subiendo más del 12%",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/07/la-vivienda-se-encarece-un-122-en-el-segundo-trimestre-y-lleva-seis-subiendo-mas-del-12/",
+      "published_at": "2026-09-07 08:17:02",
+      "snippet": "El precio de la vivienda sube un 15 % en agosto, 10 puntos más que inflación, según Tinsa",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/07/el-precio-de-la-vivienda-sube-un-15-en-agosto-10-puntos-mas-que-inflacion-segun-tinsa/",
       "country": [
         "colombia",
         "argentina",
@@ -99,24 +49,73 @@
       ]
     },
     {
-      "title": "El precio de la vivienda modera su ascenso al 12,2% en el segundo trimestre y suma 49 trimestres de alzas",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-07 07:13:43",
-      "snippet": "El precio de la vivienda libre subió un 12,2% en el segundo trimestre del año en relación al mismo periodo de 2025, siete décimas menos que en el trimestre previo y su menor tasa desde el primer trimestre del año pasado, cuando también aumentó un 12,2%, según el Índice de Precios de Vivienda (IPV) del Instituto Nacional de Estadística (INE) publicado este lunes.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/precio-vivienda-modera-ascenso-12-134020741.html",
+      "title": "El Ibex 35 abre en tablas, en 20.043 puntos, con el petróleo a más de 97 dólares",
+      "source": "infobae",
+      "published_at": "2026-09-07 08:01:33",
+      "snippet": "El Ibex 35 abre en tablas, en 20.043 puntos, con el petróleo a más de 97 dólares",
+      "url": "https://www.infobae.com/america/agencias/2026/09/07/el-ibex-35-abre-en-tablas-en-20043-puntos-con-el-petroleo-a-mas-de-97-dolares/",
       "country": [
-        "argentina"
+        "colombia",
+        "argentina",
+        "united states of america",
+        "mexico"
       ],
       "category": [
+        "top",
         "business"
       ]
     },
     {
-      "title": "Bajo el cielo prometido: Zelenski y su aerochantaje",
-      "source": "diariopanorama",
-      "published_at": "2026-09-07 07:04:00",
-      "snippet": "\"Por ahora, los cielos sobre Rusia son para los drones, no para la aviación civil\", declaró el 1 de septiembre de este año Vladímir Zelenski, pretendiendo anunciar una nueva etapa del conflicto, la que supondría el cierre del espacio aéreo ruso.",
-      "url": "https://diariopanorama.com/noticia/565626/bajo-cielo-prometido-zelenski-aerochantaje",
+      "title": "Georgia invertirá 7.000 millones de dólares en un corredor logístico entre Europa y Asia",
+      "source": "infobae",
+      "published_at": "2026-09-07 08:01:22",
+      "snippet": "Georgia invertirá 7.000 millones de dólares en un corredor logístico entre Europa y Asia",
+      "url": "https://www.infobae.com/america/agencias/2026/09/07/georgia-invertira-7000-millones-de-dolares-en-un-corredor-logistico-entre-europa-y-asia/",
+      "country": [
+        "colombia",
+        "argentina",
+        "united states of america",
+        "mexico"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "A cuánto puede llegar el dólar hacia fin de año: los pronósticos de los especialistas y qué variables hay que mirar",
+      "source": "jujuyaldia_ar",
+      "published_at": "2026-09-07 08:00:00",
+      "snippet": "El mercado anticipa que en los próximos meses el tipo de cambio tendrá un aumento gradual y sin sobresaltos hasta superar los $1600 Jujuy al día ® – En la primera rueda de septiembre, el dólar oficial presentó una leve suba: el tipo de cambio minorista se ubicó en los $1535, su valor nominal más [...] La entrada A cuánto puede llegar el dólar hacia fin de año: los pronósticos de los especialistas y qué variables hay que mirar se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/07/a-cuanto-puede-llegar-el-dolar-hacia-fin-de-ano-los-pronosticos-de-los-especialistas-y-que-variables-hay-que-mirar/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Dos líneas de colectivos modifican los recorridos por obras en calle Córdoba",
+      "source": "elonce",
+      "published_at": "2026-09-07 07:53:26",
+      "snippet": "Por obras en los carriles exclusivos de calle Córdoba, las líneas G y P2 del transporte público de pasajeros modifican los recorridos",
+      "url": "https://www.elonce.com/parana/dos-lineas-de-colectivos-modifican-los-recorridos-por-obras-en-calle-cordoba.htm",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "El Tesoro canjeará con el BCRA deuda en pesos por títulos vinculados al dólar",
+      "source": "elonce",
+      "published_at": "2026-09-07 07:48:20",
+      "snippet": "Economía aprobó un canje de deuda con el BCRA y amplió hasta USD 2.000 millones la emisión de letras vinculadas al dólar.",
+      "url": "https://www.elonce.com/economia/el-tesoro-canjeara-con-el-bcra-deuda-en-pesos-por-titulos-vinculados-al-dolar.htm",
       "country": [
         "argentina"
       ],
