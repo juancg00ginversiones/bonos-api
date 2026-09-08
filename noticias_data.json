@@ -1,112 +1,123 @@
 {
-  "updated_at": "2026-09-08T16:59:44Z",
+  "updated_at": "2026-09-08T17:39:53Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
+    {
+      "title": "Cómo conservar higos en casa sin conservantes ni colorantes",
+      "source": "infobae",
+      "published_at": "2026-09-08 05:30:00",
+      "snippet": "Una receta casera y sencilla para alargar la vida útil de esta fruta",
+      "url": "https://www.infobae.com/espana/2026/09/08/como-conservar-higos-en-casa-sin-conservantes-ni-colorantes/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "mexico",
+        "colombia"
+      ],
+      "category": [
+        "top",
+        "business",
+        "environment"
+      ]
+    },
+    {
+      "title": "La compra de Commerzbank deja a UniCredit una herencia rusa de pleitos, condenas y activos atrapados en Moscú",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-08 05:22:00",
+      "snippet": "El asalto de UniCredit a Commerzbank, tras más de dos años, conduce hasta un inmueble embargado en el corazón de Moscú. El edificio de cinco plantas, de color rosa pastel, fue en su día la antigua sede central de las operaciones del banco alemán en Rusia y en el resto de Eurasia. Así fue hasta la primavera de 2024, cuando un tribunal de San Petersburgo congeló los activos y las acciones de la filial rusa de Commerzbank como parte de una sentencia de casi 100 millones de euros.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/08/compra-commerzbank-deja-unicredit-herencia-134053779.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Embalses en España: así están las reservas de agua este 8 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-08 05:16:15",
+      "snippet": "El Ministerio para la Transición Ecológica y el Reto Demográfico ha actualizado su último boletín sobre los estatus de los embalses de agua en España",
+      "url": "https://www.infobae.com/espana/2026/09/08/embalses-en-espana-asi-estan-las-reservas-de-agua-este-8-de-septiembre/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business",
+        "environment"
+      ]
+    },
+    {
+      "title": "Actualización del tipo de cambio dólar-euro hoy 8 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-08 05:15:57",
+      "snippet": "La moneda europea mostró fluctuaciones en su cotización de este día",
+      "url": "https://www.infobae.com/espana/2026/09/08/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-8-de-septiembre/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este martes 8 de septiembre",
+      "source": "tn",
+      "published_at": "2026-09-08 05:00:36",
+      "snippet": "La cotización del dólar minuto a minuto en los bancos, donde desde abril de 2025 se pueden comprar divisas sin límites. También los precios del Blue, el MEP y el Cripto.",
+      "url": "https://tn.com.ar/economia/2026/09/08/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-martes-8-de-septiembre/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Personería logra medida para garantizar potabilidad del agua en El Pando",
+      "source": "elinformador",
+      "published_at": "2026-09-08 05:00:00",
+      "snippet": "El Tribunal Administrativo del Magdalena dio a la Empresa de Servicios Públicos de la ciudad cuatro meses para identificar y atender los focos de contaminación en las redes de acueducto del sector.",
+      "url": "https://www.elinformador.com.co/index.php/la-ciudad/81-distrito/358380-personeria-logra-medida-para-garantizar-potabilidad-del-agua-en-el-pando-2",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "La mejora de las cuentas externas suma reservas y abre margen para una baja del índice de riesgo país de la Argentina",
+      "source": "jujuyaldia_ar",
+      "published_at": "2026-09-08 05:00:00",
+      "snippet": "El BCRA informó que en los primeros siete meses del año el balance del intercambio con el exterior de bienes, servicios y el movimiento financiero fue positivo por primera vez desde 2019 y alcanzó a USD 3.500 millones Jujuy al día ® – El modelo económico de la administración de Javier Milei exhibe algunos lineamientos [...] La entrada La mejora de las cuentas externas suma reservas y abre margen para una baja del índice de riesgo país de la Argentina se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/08/la-mejora-de-las-cuentas-externas-suma-reservas-y-abre-margen-para-una-baja-del-indice-de-riesgo-pais-de-la-argentina/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
     {
       "title": "Se definen los amistosos de la Selección",
       "source": "eldia_ar",
       "published_at": "2026-09-08 04:49:27",
       "snippet": "Si bien estaba previsto que el anuncio se hiciera en el comienzo de la semana, varias cuestiones retrasaron la noticia desde AFA",
       "url": "https://www.eldia.com/deportes/se-definen-los-amistosos-de-la-seleccion-deportes_1788842967",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "La nueva Terminal de Bariloche se entregaría en octubre y proyectan una rotonda en Esandi para el ingreso de colectivos",
-      "source": "elcordillerano",
-      "published_at": "2026-09-08 04:30:44",
-      "snippet": "El ministro de Obras Públicas de Río Negro estimó que la obra podría entregarse a fines de octubre, en plena primavera. Además, confirmó que los equipos técnicos de la Provincia y el Municipio ya trabajan en el proyecto vial.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/08/260729-la-nueva-terminal-de-bariloche-se-entregaria-en-octubre-y-proyectan-una-rotonda-en-esandi-para-el-ingreso-de-colectivos",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Jubilaciones y asignaciones de Anses: quiénes cobran el martes 8",
-      "source": "elcordillerano",
-      "published_at": "2026-09-08 04:30:44",
-      "snippet": null,
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/08/260735-jubilaciones-y-asignaciones-de-anses-quienes-cobran-el-martes-8",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "La nueva Terminal de Bariloche se entregaría en octubre y proyectan una rotonda en Esandi para el ingreso de micros",
-      "source": "elcordillerano",
-      "published_at": "2026-09-08 04:30:44",
-      "snippet": "El ministro de Obras Públicas de Río Negro estimó que la obra podría entregarse a fines de octubre, en plena primavera. Además, confirmó que los equipos técnicos de la Provincia y el Municipio ya trabajan en el proyecto vial.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/08/260729-la-nueva-terminal-de-bariloche-se-entregaria-en-octubre-y-proyectan-una-rotonda-en-esandi-para-el-ingreso-de-micros",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Se hundió la venta de nafta a su nivel más bajo desde 2023",
-      "source": "elcordillerano",
-      "published_at": "2026-09-08 04:30:44",
-      "snippet": "Un reciente estudio muestra que la confirman que la venta de nafta retrocedió a 5.667,3 millones de litros, marcando un descenso del 5,26% frente a los 5.981,8 millones registrados en los mismos meses de 2023.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/08/260666-se-hundio-la-venta-de-nafta-a-su-nivel-mas-bajo-desde-2023",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Cavallo aconsejó a Javier Milei sobre el dólar, las reservas y cómo reactivar la economía",
-      "source": "elcordillerano",
-      "published_at": "2026-09-08 04:30:44",
-      "snippet": "El exministro de Economía dejó una serie de advertencias y consejos para el Presidente, sobre tres ejes clave: el dólar, las reservas del BCRA y la reactivación de la actividad económica.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/08/260681-cavallo-aconsejo-a-javier-milei-sobre-el-dolar-las-reservas-y-como-reactivar-la-economia",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Wistron, proveedor taiwanés de Nvidia, emitirá 1.500 millones de dólares en acciones",
-      "source": "infobae",
-      "published_at": "2026-09-08 04:30:42",
-      "snippet": "Wistron, proveedor taiwanés de Nvidia, emitirá 1.500 millones de dólares en acciones",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/wistron-proveedor-taiwanes-de-nvidia-emitira-1500-millones-de-dolares-en-acciones/",
-      "country": [
-        "colombia",
-        "argentina",
-        "united states of america",
-        "mexico"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Alejandro y Tini Stoessel habrían llegado a un acuerdo tras la polémica auditoría",
-      "source": "eldia_ar",
-      "published_at": "2026-09-08 04:28:33",
-      "snippet": "Según trascendió, ambos habrían avanzado en el acuerdo para ordenar definitivamente cuestiones vinculadas al patrimonio y a los ingresos generados por la carrera de la cantante. La información fue revelada por Santiago Sposato, quien señaló que desde el entorno de Alejandro confirmaron que el acuerdo estaría próximo...",
-      "url": "https://www.eldia.com/espectaculos/alejandro-y-tini-stoessel-habrian-llegado-a-un-acuerdo-tras-la-polemica-auditoria-espectaculos_1788841713",
       "country": [
         "argentina"
       ],
