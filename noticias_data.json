@@ -1,18 +1,46 @@
 {
-  "updated_at": "2026-09-08T19:43:36Z",
+  "updated_at": "2026-09-08T20:47:20Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Portugal compra a Amancio Ortega el 13,7 % de la estratégica REN por unos 380 millones",
-      "source": "infobae",
-      "published_at": "2026-09-08 07:31:18",
-      "snippet": "Portugal compra a Amancio Ortega el 13,7 % de la estratégica REN por unos 380 millones",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/portugal-compra-a-amancio-ortega-el-137-de-la-estrategica-ren-por-unos-380-millones/",
+      "title": "Oficial y confirmado | Aeropuertos inspeccionarán valija por valija y retirarán los objetos que infrinjan esta norma",
+      "source": "clarin",
+      "published_at": "2026-09-08 08:39:43",
+      "snippet": "La regla limita objetos que las personas suelen llevar en los viajes. Aun así, existen excepciones médicas o necesidades especiales declaradas.",
+      "url": "https://www.clarin.com/estados-unidos/oficial-confirmado-aeropuertos-inspeccionaran-valija-valija-retiraran-objetos-infrinjan-norma_0_UfBRt1FrST.html",
       "country": [
-        "argentina",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Anses comienza el cronograma de pagos de septiembre: quiénes cobran este martes y cómo continúa esta semana",
+      "source": "lagaceta_ar",
+      "published_at": "2026-09-08 08:37:00",
+      "snippet": "Con aumentos del 2,11% y el bono de $70.000 para haberes mínimos, Anses dio inicio al cronograma de cobro de septiembre 2026 para jubilados, AUH, AUE, PNC y demás prestaciones.",
+      "url": "https://www.lagaceta.com.ar/nota/1153039/sociedad/anses-comienza-cronograma-pagos-septiembre-quienes-cobran-este-martes-como-continua-esta-semana.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "TK Elevator apuesta por renovación del parque de ascensores de España, donde la mitad tienen más de 20 años",
+      "source": "infobae",
+      "published_at": "2026-09-08 08:31:17",
+      "snippet": "TK Elevator apuesta por renovación del parque de ascensores de España, donde la mitad tienen más de 20 años",
+      "url": "https://www.infobae.com/america/agencias/2026/09/08/tk-elevator-apuesta-por-renovacion-del-parque-de-ascensores-de-espana-donde-la-mitad-tienen-mas-de-20-anos/",
+      "country": [
         "united states of america",
         "colombia",
+        "argentina",
         "mexico"
       ],
       "category": [
@@ -21,29 +49,56 @@
       ]
     },
     {
-      "title": "Barbón reivindica el autogobierno y reclama acuerdos en torno a la vivienda, el peaje o la financiación",
-      "source": "infobae",
-      "published_at": "2026-09-08 07:30:47",
-      "snippet": "Barbón reivindica el autogobierno y reclama acuerdos en torno a la vivienda, el peaje o la financiación",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/barbon-reivindica-el-autogobierno-y-reclama-acuerdos-en-torno-a-la-vivienda-el-peaje-o-la-financiacion/",
+      "title": "Encuesta: el humor social se deteriora y crece el malestar con la situación económica",
+      "source": "perfil",
+      "published_at": "2026-09-08 08:30:00",
+      "snippet": "Una encuesta nacional muestra un deterioro del humor social, con mayor preocupación por la situación económica y creciente pesimismo sobre el futuro. El malestar también impacta en la valoración del Gobierno y en la percepción sobre el rumbo del país. Leer más",
+      "url": "https://www.perfil.com/noticias/politica/encuesta-el-humor-social-se-deteriora-y-crece-el-malestar-con-la-situacion-economica.phtml",
       "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "\"La inflación de agosto sería la más baja de la era Milei, el 1,4% según las consultoras\"",
+      "source": "diariopanorama",
+      "published_at": "2026-09-08 08:21:00",
+      "snippet": "Así lo informó en su columna de este martes para Radio Panorama el licenciado Osvaldo Granados.",
+      "url": "https://diariopanorama.com/noticia/565750/inflacion-agosto-seria-mas-baja-era-milei-14porciento-segun-consultoras",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El Ibex 35 abre con una caída del 0,2% y pierde los 20.000 puntos, con el petróleo a más de 98 dólares",
+      "source": "infobae",
+      "published_at": "2026-09-08 08:00:51",
+      "snippet": "El Ibex 35 abre con una caída del 0,2% y pierde los 20.000 puntos, con el petróleo a más de 98 dólares",
+      "url": "https://www.infobae.com/america/agencias/2026/09/08/el-ibex-35-abre-con-una-caida-del-02-y-pierde-los-20000-puntos-con-el-petroleo-a-mas-de-98-dolares/",
+      "country": [
+        "mexico",
         "argentina",
-        "united states of america",
         "colombia",
-        "mexico"
+        "united states of america"
       ],
       "category": [
         "business",
-        "top",
-        "politics"
+        "top"
       ]
     },
     {
-      "title": "Honduras. Señor Lagos, ¿acaso toca «orillar» la muerte para ver luz de estabilidad económica?",
-      "source": "resumenlatinoamericano_org",
-      "published_at": "2026-09-08 07:25:39",
-      "snippet": "Por Javier Suazo. Rebelión_Resumen Latinoamericano 8 de septiembre 2026. “El logro de la estabilidad económica no debe condicionar los objetivos de desarrollo nacional, son complementarios y refuerzan mutuamente” (Óscar Núñez Sandoval, PhD en economía y exdirector del Banco Central) Una frase famosa del destacado economista inglés y padre de la macroeconomía moderna John Maynard Keynes, [...] La entrada Honduras. Señor Lagos, ¿acaso toca «orillar» la muerte para ver luz de estabilidad económica? se publicó primero en Resumen Latinoamericano .",
-      "url": "https://www.resumenlatinoamericano.org/2026/09/08/honduras-senor-lagos-acaso-toca-orillar-la-muerte-para-ver-luz-de-estabilidad-economica/",
+      "title": "El Senado comienza a tratar en comisión la reforma del BCRA e Inocencia Fiscal: qué propone el Gobierno",
+      "source": "tn",
+      "published_at": "2026-09-08 08:00:00",
+      "snippet": "La Libertad Avanza activará este miércoles dos iniciativas que ya tienen media sanción de Diputados. Bausili y Werning expondrán ante los legisladores y el oficialismo podría avanzar con un dictamen.",
+      "url": "https://tn.com.ar/politica/2026/09/08/el-senado-comienza-a-tratar-en-comision-la-reforma-del-bcra-e-inocencia-fiscal-que-propone-el-gobierno/",
       "country": [
         "argentina"
       ],
@@ -53,76 +108,11 @@
       ]
     },
     {
-      "title": "Se adjudicaron los primeros $200.000 millones para impulsar nuevos créditos hipotecarios",
-      "source": "elonce",
-      "published_at": "2026-09-08 07:23:49",
-      "snippet": "ANSES adjudicó $200.000 millones en la primera licitación destinada a fondear bancos y ampliar la oferta de créditos hipotecarios para viviendas.",
-      "url": "https://www.elonce.com/economia/anses-adjudico-200-000-millones-para-impulsar-nuevos-creditos-hipotecarios.htm",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "La Bolsa española abre con caídas del 0,37 % mientras el brent sube a 98 dólares",
-      "source": "infobae",
-      "published_at": "2026-09-08 07:17:13",
-      "snippet": "La Bolsa española abre con caídas del 0,37 % mientras el brent sube a 98 dólares",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/08/la-bolsa-espanola-abre-con-caidas-del-037-mientras-el-brent-sube-a-98-dolares/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El grupo francés de IA Mistral consigue 3.000 millones de euros para ampliar el capital",
-      "source": "infobae",
-      "published_at": "2026-09-08 07:16:21",
-      "snippet": "El grupo francés de IA Mistral consigue 3.000 millones de euros para ampliar el capital",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/el-grupo-frances-de-ia-mistral-consigue-3000-millones-de-euros-para-ampliar-el-capital/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Colombia fue el país de la OCDE en el que más bajó la fiscalidad en 2024",
-      "source": "infobae",
-      "published_at": "2026-09-08 07:16:04",
-      "snippet": "Colombia fue el país de la OCDE en el que más bajó la fiscalidad en 2024",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/colombia-fue-el-pais-de-la-ocde-en-el-que-mas-bajo-la-fiscalidad-en-2024/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Se inicia el cronograma de pagos de jubilaciones, AUH y otras prestaciones de ANSES",
-      "source": "elonce",
-      "published_at": "2026-09-08 07:04:29",
-      "snippet": "Este martes comienza el calendario de pagos para septiembre 2026. Este mes las prestaciones se abonan con aumento del 2,11%.",
-      "url": "https://www.elonce.com/sociedad/se-inicia-el-cronograma-de-pagos-de-prestaciones-de-anses.htm",
+      "title": "Guerra, petróleo y precio de los combustibles: cuánto aumentaron la nafta y el gasoil en la Argentina en comparación con otros países del mundo",
+      "source": "jujuyaldia_ar",
+      "published_at": "2026-09-08 08:00:00",
+      "snippet": "En un ranking de 15 países elaborado por una consultora, el país aparece a mitad de camino. Qué otros fueron en los que más y menos variaron los valores Jujuy al día ® – Las renovadas acciones bélicas en Medio Oriente se mantienen en el centro de la atención global y el precio del petróleo [...] La entrada Guerra, petróleo y precio de los combustibles: cuánto aumentaron la nafta y el gasoil en la Argentina en comparación con otros países del mundo se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/08/guerra-petroleo-y-precio-de-los-combustibles-cuanto-aumentaron-la-nafta-y-el-gasoil-en-la-argentina-en-comparacion-con-otros-paises-del-mundo/",
       "country": [
         "argentina"
       ],
