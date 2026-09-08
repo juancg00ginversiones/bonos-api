@@ -1,42 +1,14 @@
 {
-  "updated_at": "2026-09-08T20:47:20Z",
+  "updated_at": "2026-09-08T21:32:53Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Oficial y confirmado | Aeropuertos inspeccionarán valija por valija y retirarán los objetos que infrinjan esta norma",
-      "source": "clarin",
-      "published_at": "2026-09-08 08:39:43",
-      "snippet": "La regla limita objetos que las personas suelen llevar en los viajes. Aun así, existen excepciones médicas o necesidades especiales declaradas.",
-      "url": "https://www.clarin.com/estados-unidos/oficial-confirmado-aeropuertos-inspeccionaran-valija-valija-retiraran-objetos-infrinjan-norma_0_UfBRt1FrST.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Anses comienza el cronograma de pagos de septiembre: quiénes cobran este martes y cómo continúa esta semana",
-      "source": "lagaceta_ar",
-      "published_at": "2026-09-08 08:37:00",
-      "snippet": "Con aumentos del 2,11% y el bono de $70.000 para haberes mínimos, Anses dio inicio al cronograma de cobro de septiembre 2026 para jubilados, AUH, AUE, PNC y demás prestaciones.",
-      "url": "https://www.lagaceta.com.ar/nota/1153039/sociedad/anses-comienza-cronograma-pagos-septiembre-quienes-cobran-este-martes-como-continua-esta-semana.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "TK Elevator apuesta por renovación del parque de ascensores de España, donde la mitad tienen más de 20 años",
+      "title": "Antony Peart (Haier): España es uno de los tres mercados principales de la marca en Europa y un \"gran banco de pruebas\"",
       "source": "infobae",
-      "published_at": "2026-09-08 08:31:17",
-      "snippet": "TK Elevator apuesta por renovación del parque de ascensores de España, donde la mitad tienen más de 20 años",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/tk-elevator-apuesta-por-renovacion-del-parque-de-ascensores-de-espana-donde-la-mitad-tienen-mas-de-20-anos/",
+      "published_at": "2026-09-08 09:30:55",
+      "snippet": "Antony Peart (Haier): España es uno de los tres mercados principales de la marca en Europa y un \"gran banco de pruebas\"",
+      "url": "https://www.infobae.com/america/agencias/2026/09/08/antony-peart-haier-espana-es-uno-de-los-tres-mercados-principales-de-la-marca-en-europa-y-un-gran-banco-de-pruebas/",
       "country": [
         "united states of america",
         "colombia",
@@ -49,71 +21,122 @@
       ]
     },
     {
-      "title": "Encuesta: el humor social se deteriora y crece el malestar con la situación económica",
-      "source": "perfil",
-      "published_at": "2026-09-08 08:30:00",
-      "snippet": "Una encuesta nacional muestra un deterioro del humor social, con mayor preocupación por la situación económica y creciente pesimismo sobre el futuro. El malestar también impacta en la valoración del Gobierno y en la percepción sobre el rumbo del país. Leer más",
-      "url": "https://www.perfil.com/noticias/politica/encuesta-el-humor-social-se-deteriora-y-crece-el-malestar-con-la-situacion-economica.phtml",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "\"La inflación de agosto sería la más baja de la era Milei, el 1,4% según las consultoras\"",
-      "source": "diariopanorama",
-      "published_at": "2026-09-08 08:21:00",
-      "snippet": "Así lo informó en su columna de este martes para Radio Panorama el licenciado Osvaldo Granados.",
-      "url": "https://diariopanorama.com/noticia/565750/inflacion-agosto-seria-mas-baja-era-milei-14porciento-segun-consultoras",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El Ibex 35 abre con una caída del 0,2% y pierde los 20.000 puntos, con el petróleo a más de 98 dólares",
-      "source": "infobae",
-      "published_at": "2026-09-08 08:00:51",
-      "snippet": "El Ibex 35 abre con una caída del 0,2% y pierde los 20.000 puntos, con el petróleo a más de 98 dólares",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/el-ibex-35-abre-con-una-caida-del-02-y-pierde-los-20000-puntos-con-el-petroleo-a-mas-de-98-dolares/",
-      "country": [
-        "mexico",
-        "argentina",
-        "colombia",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El Senado comienza a tratar en comisión la reforma del BCRA e Inocencia Fiscal: qué propone el Gobierno",
-      "source": "tn",
-      "published_at": "2026-09-08 08:00:00",
-      "snippet": "La Libertad Avanza activará este miércoles dos iniciativas que ya tienen media sanción de Diputados. Bausili y Werning expondrán ante los legisladores y el oficialismo podría avanzar con un dictamen.",
-      "url": "https://tn.com.ar/politica/2026/09/08/el-senado-comienza-a-tratar-en-comision-la-reforma-del-bcra-e-inocencia-fiscal-que-propone-el-gobierno/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Guerra, petróleo y precio de los combustibles: cuánto aumentaron la nafta y el gasoil en la Argentina en comparación con otros países del mundo",
+      "title": "Desinflación o actividad: ¿cuál es la prioridad que reflejan los movimientos del Tesoro y el Banco Central?",
       "source": "jujuyaldia_ar",
-      "published_at": "2026-09-08 08:00:00",
-      "snippet": "En un ranking de 15 países elaborado por una consultora, el país aparece a mitad de camino. Qué otros fueron en los que más y menos variaron los valores Jujuy al día ® – Las renovadas acciones bélicas en Medio Oriente se mantienen en el centro de la atención global y el precio del petróleo [...] La entrada Guerra, petróleo y precio de los combustibles: cuánto aumentaron la nafta y el gasoil en la Argentina en comparación con otros países del mundo se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/08/guerra-petroleo-y-precio-de-los-combustibles-cuanto-aumentaron-la-nafta-y-el-gasoil-en-la-argentina-en-comparacion-con-otros-paises-del-mundo/",
+      "published_at": "2026-09-08 09:30:00",
+      "snippet": "Con diferentes medidas, el equipo económico busca controlar tanto la suba del dólar como de las tasas pesos, pero para la consultora Quantum, hay una de las dos prioridades que pesa más Jujuy al día ® – Tras la etapa de volatilidad, con diferentes movimientos, el equipo económico que lidera por el ministro Luis Caputo [...] La entrada Desinflación o actividad: ¿cuál es la prioridad que reflejan los movimientos del Tesoro y el Banco Central? se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/08/desinflacion-o-actividad-cual-es-la-prioridad-que-reflejan-los-movimientos-del-tesoro-y-el-banco-central/",
       "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Se dispararon las ventas de soja por la mejora de los precios en el mercado local",
+      "source": "clarin",
+      "published_at": "2026-09-08 09:29:46",
+      "snippet": "Los valores de la oleaginosa tocaron su valor más alto de los últimos tres años. La exportación también reaccionó y se anotaron casi 3,4 millones de toneladas de todos los productos del complejo en lo que va del mes.",
+      "url": "https://www.clarin.com/rural/dispararon-ventas-soja-mejora-precios-mercado-local_0_mTbkDL1Jgz.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La victoria de la ultraderecha en Alemania está causando inquietud entre la clase política europea",
+      "source": "cnnespanol",
+      "published_at": "2026-09-08 09:22:22",
+      "snippet": "La victoria de la AfD, que su colíder Alice Weidel calificó de “histórica”, también demostró que en Alemania, al igual que en el resto de Europa, el centro ya no se mantiene tan firme como antes.",
+      "url": "https://cnnespanol.cnn.com/2026/09/08/mundo/afd-europa-alemania-ultradecha-victorias-trax",
+      "country": [
+        "el salvador",
+        "guinea",
+        "spain",
+        "guatemala",
+        "argentina",
+        "ecuador",
+        "mexico",
+        "honduras",
+        "colombia",
+        "peru",
+        "cuba",
+        "chile",
+        "nicaragua",
+        "panama",
+        "venezuela",
+        "uruguay",
+        "paraguay",
+        "costa rica",
+        "puerto rico",
+        "dominican republic",
+        "bolivia"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Seis de cada diez argentinos aseguraron que su economía “está empeorando”, según una encuesta",
+      "source": "chacodiapordia",
+      "published_at": "2026-09-08 09:18:59",
+      "snippet": "Seis de cada diez argentinos afirmaron que su economía “está empeorando” y dentro de ese universo, el 48,9% “está sufriendo” esa situación a nivel personal, mientras que un 9,5%, si bien también reconoció ese empeoramiento, aclaró que no tiene impacto en su vida diaria. Si se suman ambos números, de acuerdo a la Consultora , de acuerdo al trabajo de Giacobbe, la evaluación pesimista alcanzó el 58,9%, cifra que se encuentra cuatro puntos por arriba del 54% registrado por esta misma encuesta entre finales de mayo y comienzos de julio. De acuerdo a esta encuesta, esa suba refleja que la mirada negativa sobre el rumbo de la economía creció en agosto cuatro puntos más. En agosto el 5,3% de los encuestados sostuvo que la economía “está estancada”. Si se suma ese porcentaje más el número actual, aproximadamente el 64% de los consultados no ve que la economía esté mejorando. En cuanto a la percepción positiva de la economía argentina, la encuesta realizada por el consultor político Jorge Giacobbe reveló que el 28,5% considera que “está mejorando y lo estoy sintiendo”, mientras el 7,3% indicó que “está mejorando pero no lo estoy sintiendo”. En total, la visión optimista reúne un 35,8%. Qué piensan los argentinos del plan económico de Milei Al preguntarles sobre el plan económico del presidente, Javier Milei, el 47,8% señaló que el programa del oficialismo está “equivocado”, lo cual lleva a que “la gente sufra sin sentido”. Únicamente el 16,8% piensa que el ajuste no es “tan grande” y que “vamos bien” y un 22,4% dijo que “hay que aguantar” con la esperanza de que “en el futuro vamos a estar mejor”. Por su parte, un 3,6% afirmó que el ajuste “tiene sentido”, pero advirtió sobre la capacidad de la sociedad argentina para “soportar la crisis”. Al mismo tiempo, un 8,7% respondió que no entiende el programa económico de La Libertad Avanza, por lo que manifestó sus dudas respecto a que genere resultados positivos. Por último, el 0,7% expresó su indecisión. NA La entrada Seis de cada diez argentinos aseguraron que su economía “está empeorando”, según una encuesta se publicó primero en CHACODIAPORDIA.COM .",
+      "url": "https://chacodiapordia.com/seis-de-cada-diez-argentinos-aseguraron-que-su-economia-esta-empeorando-segun-una-encuesta/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Cataluña aprobará un techo de gasto de 43.191 millones para 2027, un 5% más que este año",
+      "source": "infobae",
+      "published_at": "2026-09-08 09:16:44",
+      "snippet": "Cataluña aprobará un techo de gasto de 43.191 millones para 2027, un 5% más que este año",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/08/cataluna-aprobara-un-techo-de-gasto-de-43191-millones-para-2027-un-5-mas-que-este-ano/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El Gobierno denunciará penalmente a cuatro empresas petroleras que operan en Malvinas",
+      "source": "chacodiapordia",
+      "published_at": "2026-09-08 09:16:08",
+      "snippet": "La Oficina del Presidente informó que Pablo Quirno presentó una denuncia contra cinco compañías por la exploración y explotación de hidrocarburos en la Cuenca Malvinas Norte. El Gobierno nacional presentó una denuncia penal contra cinco empresas vinculadas con la exploración y explotación de hidrocarburos en las Islas Malvinas, según informó este lunes la Oficina del Presidente. La presentación fue realizada por el canciller Pablo Quirno, con el patrocinio letrado del procurador del Tesoro, Sebastián Amerio. La denuncia alcanza a Navitas Petroleum Development & Production Ltd., Navitas Petroleum Atlantic United, Navitas Petroleum LP, JHI Associates Inc. y Eco Atlantic Oil & Gas Ltd. Según el comunicado oficial, algunas de estas compañías contarían presuntamente con licencias otorgadas por el Reino Unido para realizar actividades hidrocarburíferas en la Cuenca Malvinas Norte. De acuerdo con la presentación, esas actividades se realizarían en violación de las disposiciones establecidas por la Ley 26.659. La denuncia también alcanza a los accionistas Navitas Petroleum LP y Eco Atlantic Oil & Gas Ltd., además de directores, gerentes, síndicos, integrantes de consejos de vigilancia, administradores, mandatarios, representantes o autorizados que hubieran intervenido en los hechos denunciados. Ámbito La entrada El Gobierno denunciará penalmente a cuatro empresas petroleras que operan en Malvinas se publicó primero en CHACODIAPORDIA.COM .",
+      "url": "https://chacodiapordia.com/el-gobierno-denunciara-penalmente-a-cuatro-empresas-petroleras-que-operan-en-malvinas/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La Fórmula 1 dispara hasta un 1.000 % el precio de alquiler de lujo en el centro de Madrid",
+      "source": "infobae",
+      "published_at": "2026-09-08 09:15:18",
+      "snippet": "La Fórmula 1 dispara hasta un 1.000 % el precio de alquiler de lujo en el centro de Madrid",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/08/la-formula-1-dispara-hasta-un-1000-el-precio-de-alquiler-de-lujo-en-el-centro-de-madrid/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
         "argentina"
       ],
       "category": [
