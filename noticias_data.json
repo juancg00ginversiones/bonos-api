@@ -1,27 +1,14 @@
 {
-  "updated_at": "2026-09-08T01:06:24Z",
+  "updated_at": "2026-09-08T01:19:08Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Las ballenas no venden y bitcoin no repite la señal que marcó sus últimos pisos",
-      "source": "criptonoticias",
-      "published_at": "2026-09-07 13:05:36",
-      "snippet": "Bitcoin todavía no cae por debajo del precio realizado de los holders de largo plazo, una señal asociada a pisos de ciclos anteriores. La entrada Las ballenas no venden y bitcoin no repite la señal que marcó sus últimos pisos se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
-      "url": "https://www.criptonoticias.com/mercados/ballenas-bitcoin-venta-senal-piso/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Las seis Argentinas ocultas que pueden definir el futuro de Javier Milei",
-      "source": "letrap_ar",
-      "published_at": "2026-09-07 13:05:00",
-      "snippet": "En un país fragmentado, la evaluación del rumbo económico depende de la experiencia material de cada sector. Por qué el promedio no explica todo. Malvinas, Javier Milei y la reelección: jugada exitosa o bluf",
-      "url": "https://www.letrap.com.ar//opinion/las-seis-argentinas-ocultas-que-pueden-definir-el-futuro-javier-milei-n5426386",
+      "title": "Confirmaron la sesión especial pedida por la oposición para tratar proyectos de endeudamiento en Diputados",
+      "source": "chacodiapordia",
+      "published_at": "2026-09-07 13:15:53",
+      "snippet": "La oposición buscará sesionar el próximo miércoles a las 12 en la Cámara de Diputados para emplazar a las comisiones los proyectos vinculados al endeudamiento de familias y la emergencia en discapacidad, mientras el oficialismo busca convencer a sus aliados para que no den quórum para abrir esa reunión del pleno del cuerpo. Los bloques opositores, encabezados por el peronismo, tienen el desafío de mantener unida a la mayoría que construyó en la última sesión, cuando reunió 133 votos para impulsar el debate de esas iniciativas. Además deberá acordar cuáles serán los proyectos que pedirán que se traten en las comisiones del medio centenar que se han presentado, para poder hacer el pedido de emplazamiento ya que tienen diferentes giros. Ahora, con la convocatoria oficial a la sesión realizada por el secretario parlamentario, Adrián Pagan, para el próximo miércoles, se multiplicarán las negociaciones de la oposición para conservar bloques que hasta ahora fueron aliados del Gobierno Nacional y del oficialismo para hacer caer la sesión La Libertad Avanza avanzó con una estrategia de abrir en la comisión de Finanzas, que preside Santiago Pauli, para tratar 35 proyectos con la expectativa de estirar el debate hasta fin de mes, pero ese esquema de trabajo fue rechazado por las bancadas opositores. Esta estrategia de utilizar la comisión como “carnada” para que “piquen” los diputados dialoguistas no es inocente, sino que apunta directamente a quitarle fuerza a la convocatoria del 9 de septiembre, con el argumento de que la sesión carece de sentido, ya que uno de los temas ya está siendo debatido en comisión. “La trampa”, dicen los opositores, es que la reunión de Finanzas será meramente informativa y no tiene como fin último dictaminar para poder llevar los proyectos al recinto. En ese contexto, el oficialismo buscarán convencer a los legisladores que si bien votaron a favor para habilitar el debate no firmaron el pedido de sesión como los tres legisladores de Independencia, y para que no se sumen los radicales que se abstuvieron en la sesión. También aspira a convencer a cuatro legisladores de Provincias Unidas que siempre votan con el oficialismo. Por lo pronto, mañana continuará a las 15 el debate en la comisión de Finanzas donde expondrán invitados propuestos por los opositores. Agencia NA La entrada Confirmaron la sesión especial pedida por la oposición para tratar proyectos de endeudamiento en Diputados se publicó primero en CHACODIAPORDIA.COM .",
+      "url": "https://chacodiapordia.com/confirmaron-la-sesion-especial-pedida-por-la-oposicion-para-tratar-proyectos-de-endeudamiento-en-diputados/",
       "country": [
         "argentina"
       ],
@@ -31,11 +18,11 @@
       ]
     },
     {
-      "title": "Mhoni Vidente: los cinco signos que destraban ascenso, dinero extra y éxito este lunes 7 de septiembre",
-      "source": "rionegro",
-      "published_at": "2026-09-07 13:04:30",
-      "snippet": "El arranque de semana llega con una carga astral potente y cartas del tarot que anticipan giros clave en el dinero, los negocios y la salud.",
-      "url": "https://www.rionegro.com.ar/horoscopo/mhoni-vidente-los-cinco-signos-que-destraban-ascenso-dinero-extra-y-exito-este-lunes-7-de-septiembre-4712087/",
+      "title": "Sturzenegger defendió los créditos del Banco Nación para comprar autos y destacó el plazo de cinco años",
+      "source": "misionesonline",
+      "published_at": "2026-09-07 13:15:20",
+      "snippet": "El ministro de Desregulación y Transformación del Estado respaldó la nueva línea del Banco Nación para financiar la compra de vehículos a una tasa de UVA + 19%. Aseguró que la extensión del plazo puede facilitar el acceso al crédito y planteó que, si el producto demuestra demanda, podría impulsar una mayor oferta de financiamiento [...]",
+      "url": "https://misionesonline.net/2026/09/07/creditos-del-banco-nacion-para-comprar-autos/",
       "country": [
         "argentina"
       ],
@@ -45,11 +32,24 @@
       ]
     },
     {
-      "title": "Domingo Cavallo le pidió a Javier Milei levantar el cepo, sumar reservas y habilitar el bimonetarismo",
-      "source": "rionegro",
-      "published_at": "2026-09-07 13:02:58",
-      "snippet": "El exministro de Economía sostuvo que emitir pesos para comprar divisas no provocará inflación sino que reducirá el riesgo país. Advirtió que confiar solo en el RIGI es una «ilusión» y reclamó un esquema donde el dólar tenga curso legal para reactivar el crédito productivo en toda la economía.",
-      "url": "https://www.rionegro.com.ar/economia/domingo-cavallo-le-pidio-a-javier-milei-levantar-el-cepo-sumar-reservas-y-habilitar-el-bimonetarismo-4712082/",
+      "title": "Caputo le da US$ 2.000 millones de \"poder de fuego\" a Bausili para intervenir con bonos en el dólar",
+      "source": "clarin",
+      "published_at": "2026-09-07 13:14:41",
+      "snippet": "El Ministerio de Economía le canjea al Banco Central bonos en pesos a cambio de letras vinculadas al tipo de cambio. La autoridad monetaria los suele utilizar para vender en el mercado y aplacar tensiones cambiarias.",
+      "url": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "El Senado concentra la semana en la reforma del Banco Central e Inocencia Fiscal: todos los detalles",
+      "source": "diariolaopinion_ar",
+      "published_at": "2026-09-07 13:12:55",
+      "snippet": "Diario La Opinión, informando a Rafaela desde 1921 con verdadera vocación periodística. Información confiable y de calidad.",
+      "url": "https://www.diariolaopinion.com.ar/nacionales/el-senado-concentra-la-semana-en-la-reforma-del-banco-central-e-inocencia-fiscal-todos-los-detalles.htm",
       "country": [
         "argentina"
       ],
@@ -59,11 +59,11 @@
       ]
     },
     {
-      "title": "Milei en Misiones: habló de inflación, crédito y prometió “acelerar a fondo” si gana más fuerza en el Congreso",
-      "source": "flipr_ar",
-      "published_at": "2026-09-07 13:02:52",
-      "snippet": "El presidente Javier Milei volvió a defender con dureza su programa económico durante su paso por Puerto Iguazú, donde cerró...",
-      "url": "https://flipr.com.ar/misiones/misiones-misiones/misionescuatro/milei-en-misiones-hablo-de-inflacion-credito-y-prometio-acelerar-a-fondo-si-gana-mas-fuerza-en-el-congreso/",
+      "title": "Chimbas avanza con una nueva plaza en el Loteo Santa Isabel",
+      "source": "elsoldesanjuan",
+      "published_at": "2026-09-07 13:10:20",
+      "snippet": "La intendenta de Chimbas supervisó los trabajos que se realizan en un predio de unos 300 metros cuadrados. La entrada Chimbas avanza con una nueva plaza en el Loteo Santa Isabel se publicó primero en El Sol de San Juan .",
+      "url": "https://elsoldesanjuan.com.ar/chimbas/07/09/2026/chimbas-avanza-con-una-nueva-plaza-en-el-loteo-santa-isabel/",
       "country": [
         "argentina"
       ],
@@ -73,43 +73,43 @@
       ]
     },
     {
-      "title": "Mar del Plata: las ventas minoristas profundizaron su caída y retrocedieron 9,2% en agosto",
-      "source": "eldia_ar",
-      "published_at": "2026-09-07 13:02:51",
-      "snippet": "El relevamiento de la UCIP también reflejó un escenario de cautela entre los comerciantes: casi ocho de cada diez no consideran favorable el contexto para invertir, mientras siete de cada diez calificaron las utilidades como regulares o malas.",
-      "url": "https://www.eldia.com/politica-y-economia/mar-del-plata-las-ventas-minoristas-profundizaron-su-caida-y-retrocedieron-9-2-en-agosto-politica-y-economia_1788786060",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "China inyecta u$s54.000 millones a los principales bancos y aseguradoras para impulsar el sector financiero",
+      "title": "Goldman Sachs advierte que el petróleo podría trepar a u$s120 si escalan los ataques en Medio Oriente",
       "source": "ambito",
-      "published_at": "2026-09-07 13:02:00",
-      "snippet": "A través del Ministerio de Hacienda, el gobierno chino lanzó un plan atípico de capitalización para ocho gigantes del sector. La medida busca reducir riesgos, dinamizar el consumo y alinear las entidades a las exigencias globales.",
-      "url": "https://www.ambito.com/economia/china-inyecta-us54000-millones-los-principales-bancos-y-aseguradoras-impulsar-el-sector-financiero-n6319294",
+      "published_at": "2026-09-07 13:10:00",
+      "snippet": "El banco de inversión planteó un escenario alcista para el crudo si se intensifican las interrupciones al transporte marítimo en la región. También contempla una baja hacia u$s80 si las exportaciones se normalizan y recomienda cubrirse con posiciones alcistas en gas natural y productos refinados.",
+      "url": "https://www.ambito.com/energia/goldman-sachs-advierte-que-el-petroleo-podria-trepar-us120-si-escalan-los-ataques-medio-oriente-n6319249",
       "country": [
         "argentina"
       ],
       "category": [
+        "top",
         "business"
       ]
     },
     {
-      "title": "Alberto Fernández cruzó a Milei por Malvinas y cuestionó la compra de los F-16",
-      "source": "eldiariodecatamarca",
-      "published_at": "2026-09-07 13:01:38",
-      "snippet": "El expresidente criticó al Gobierno por su postura sobre las Islas Malvinas y apuntó contra la adquisición de aviones de combate.",
-      "url": "https://eldiariodecatamarca.com/index.php/politica-y-economia/alberto-fernandez-cruzo-a-milei-por-malvinas-y-cuestiono-la-compra-de-los-f-16",
+      "title": "Las empresas prevén incrementos del 3% en los salarios en 2027",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-07 13:08:25",
+      "snippet": "Las empresas españolas mantendrán la prudencia a la hora de actualizar los salarios en 2027. Así se desprende del 'Estudio sobre Planificación Salarial 2026', elaborado por la consultora WTW. Según los resultados, la mediana del incremento previsto se sitúa en el 3%, mientras que el promedio desciende ligeramente hasta el 2,8%, al incorporar también a las compañías que no prevén ningún aumento salarial.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/empresas-preven-incrementos-3-salarios-134036878.html",
       "country": [
         "argentina"
       ],
       "category": [
-        "politics",
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Los ETF de XRP encadenan 8 semanas verdes consecutivas",
+      "source": "criptonoticias",
+      "published_at": "2026-09-07 13:08:12",
+      "snippet": "Estos instrumentos positivos presentan flujos positivos semanales desde el 17 de julio. La entrada Los ETF de XRP encadenan 8 semanas verdes consecutivas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
+      "url": "https://www.criptonoticias.com/mercados/etf-xrp-encadenan-8-semanas-verdes-consecutivas/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
         "business"
       ]
     }
