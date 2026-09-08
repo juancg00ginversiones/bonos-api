@@ -1,136 +1,133 @@
 {
-  "updated_at": "2026-09-08T18:11:55Z",
+  "updated_at": "2026-09-08T19:20:12Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Las empresas deben detallar el salario base y todos los pluses en los nuevos contratos de trabajo",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-08 05:59:03",
-      "snippet": "El Gobierno tiene previsto aprobar este martes un real decreto que incrementará las obligaciones informativas de las empresas a la hora de ofrecer un contrato de trabajo a un nuevo empleado. El Ejecutivo tiene previsto transponer una directiva europea que incrementa la transparencia a favor de los trabajadores y provocará que las compañías, a partir de la entrada en vigor de la misma, deban especificar en los nuevos contratos de trabajo cuántas horas trabaja al día, al mes y al año esa persona y cuál es su salario base, así como todos los pluses salariales que percibe y porqué los percibe.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/08/contrato-trabajo-reforma-condiciones-laborales-transparentes-fijos-discontinuos-novedades-134054091.html",
+      "title": "La Bolsa española abre con caídas del 0,37 % mientras el brent sube a 98 dólares",
+      "source": "infobae",
+      "published_at": "2026-09-08 07:17:13",
+      "snippet": "La Bolsa española abre con caídas del 0,37 % mientras el brent sube a 98 dólares",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/08/la-bolsa-espanola-abre-con-caidas-del-037-mientras-el-brent-sube-a-98-dolares/",
+      "country": [
+        "mexico",
+        "united states of america",
+        "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El grupo francés de IA Mistral consigue 3.000 millones de euros para ampliar el capital",
+      "source": "infobae",
+      "published_at": "2026-09-08 07:16:21",
+      "snippet": "El grupo francés de IA Mistral consigue 3.000 millones de euros para ampliar el capital",
+      "url": "https://www.infobae.com/america/agencias/2026/09/08/el-grupo-frances-de-ia-mistral-consigue-3000-millones-de-euros-para-ampliar-el-capital/",
+      "country": [
+        "mexico",
+        "united states of america",
+        "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Colombia fue el país de la OCDE en el que más bajó la fiscalidad en 2024",
+      "source": "infobae",
+      "published_at": "2026-09-08 07:16:04",
+      "snippet": "Colombia fue el país de la OCDE en el que más bajó la fiscalidad en 2024",
+      "url": "https://www.infobae.com/america/agencias/2026/09/08/colombia-fue-el-pais-de-la-ocde-en-el-que-mas-bajo-la-fiscalidad-en-2024/",
+      "country": [
+        "mexico",
+        "united states of america",
+        "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Se inicia el cronograma de pagos de jubilaciones, AUH y otras prestaciones de ANSES",
+      "source": "elonce",
+      "published_at": "2026-09-08 07:04:29",
+      "snippet": "Este martes comienza el calendario de pagos para septiembre 2026. Este mes las prestaciones se abonan con aumento del 2,11%.",
+      "url": "https://www.elonce.com/sociedad/se-inicia-el-cronograma-de-pagos-de-prestaciones-de-anses.htm",
       "country": [
         "argentina"
       ],
       "category": [
-        "top",
-        "business"
+        "business",
+        "top"
       ]
     },
     {
-      "title": "Ni en Madrid ni en Barcelona: Casa 47 todavía no ha ofertado ninguna vivienda en las ciudades más tensionadas de España",
+      "title": "El PIB de Japón desacelera su avance al 0,4% en el segundo trimestre, pero sube una décima más de lo esperado",
       "source": "infobae",
-      "published_at": "2026-09-08 05:58:32",
-      "snippet": "La entidad mantiene siete convocatorias abiertas con 800 inmuebles para alquiler asequible en provincias como Asturias, Valencia, Navarra o Galicia",
-      "url": "https://www.infobae.com/espana/2026/09/08/ni-en-madrid-ni-en-barcelona-casa-47-todavia-no-ha-ofertado-ninguna-vivienda-en-las-ciudades-mas-tensionadas-de-espana/",
+      "published_at": "2026-09-08 07:01:12",
+      "snippet": "El PIB de Japón desacelera su avance al 0,4% en el segundo trimestre, pero sube una décima más de lo esperado",
+      "url": "https://www.infobae.com/america/agencias/2026/09/08/el-pib-de-japon-desacelera-su-avance-al-04-en-el-segundo-trimestre-pero-sube-una-decima-mas-de-lo-esperado/",
       "country": [
+        "mexico",
+        "united states of america",
         "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Dólar blue hoy: a cuánto cotiza este martes 08 de septiembre",
+      "source": "clarin",
+      "published_at": "2026-09-08 07:00:08",
+      "snippet": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "url": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-martes-08-septiembre_0_hFAndg0UlC.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Otro escandaloso negocio de La Cámpora con la UOM: un compañero de colegio de Máximo embolsó más de $ 100 millones por una obra inconclusa",
+      "source": "jujuyaldia_ar",
+      "published_at": "2026-09-08 06:45:00",
+      "snippet": "En 2023, a través de la AABE, que manejaba la agrupación K, le cedieron a Furlán, el jefe del gremio, un terreno para que hiciera un parque de recreaciones. El sindicato contrató a Mariano Reibel, compañero de escuela de Máximo y hermano del histórico vocero de Cristina, para que haga un estudio de factibilidad, pero [...] La entrada Otro escandaloso negocio de La Cámpora con la UOM: un compañero de colegio de Máximo embolsó más de $ 100 millones por una obra inconclusa se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/08/otro-escandaloso-negocio-de-la-campora-con-la-uom-un-companero-de-colegio-de-maximo-embolso-mas-de-100-millones-por-una-obra-inconclusa/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades este 8 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-08 06:30:48",
+      "snippet": "Como todos los días, el precio actualizado de las gasolinas en seis de las ciudades más importantes de España",
+      "url": "https://www.infobae.com/espana/2026/09/08/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-este-8-de-septiembre/",
+      "country": [
         "argentina",
         "united states of america",
+        "colombia",
         "mexico"
       ],
       "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "El barco que ha viajado desde Finlandia a España usando solo placas solares",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-08 05:55:30",
-      "snippet": "Helios 11 es el nombre de un barco de extraña apariencia, alejado de las glamurosas líneas que este verano se pueden ver en los puertos deportivos españoles. Sin embargo, es el futuro. Esta embarcación ha recorrido ya miles de kilómetros impulsado enteramente por energía solar. Ni velas ni combustibles fósiles. Simplemente un motor eléctrico que se alimenta por el sol.",
-      "url": "https://www.laopinioncoruna.es/medio-ambiente/2026/09/08/barco-viajado-finlandia-espana-usando-134054037.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
         "business",
-        "environment"
-      ]
-    },
-    {
-      "title": "Rusia y Corea del Norte inauguraron un puente vial sobre el río Tumen para ampliar el comercio y la cooperación estratégica",
-      "source": "infobae",
-      "published_at": "2026-09-08 05:39:18",
-      "snippet": "Los primeros camiones, decorados con las banderas de Moscú y Pyongyang, cruzaron el puente de dos carriles durante una ceremonia en la que el primer ministro ruso, Mikhail Mishustin, y su par norcoreano, Pak Thae Song, participaron por videoconferencia y dirigieron mensajes a trabajadores y funcionarios de ambos países",
-      "url": "https://www.infobae.com/america/mundo/2026/09/08/rusia-y-corea-del-norte-inauguraron-un-puente-vial-sobre-el-rio-tumen-para-ampliar-el-comercio-y-la-cooperacion-estrategica/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "mexico",
-        "colombia"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Cómo conservar higos en casa sin conservantes ni colorantes",
-      "source": "infobae",
-      "published_at": "2026-09-08 05:30:00",
-      "snippet": "Una receta casera y sencilla para alargar la vida útil de esta fruta",
-      "url": "https://www.infobae.com/espana/2026/09/08/como-conservar-higos-en-casa-sin-conservantes-ni-colorantes/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "mexico",
-        "colombia"
-      ],
-      "category": [
-        "top",
-        "business",
-        "environment"
-      ]
-    },
-    {
-      "title": "La compra de Commerzbank deja a UniCredit una herencia rusa de pleitos, condenas y activos atrapados en Moscú",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-08 05:22:00",
-      "snippet": "El asalto de UniCredit a Commerzbank, tras más de dos años, conduce hasta un inmueble embargado en el corazón de Moscú. El edificio de cinco plantas, de color rosa pastel, fue en su día la antigua sede central de las operaciones del banco alemán en Rusia y en el resto de Eurasia. Así fue hasta la primavera de 2024, cuando un tribunal de San Petersburgo congeló los activos y las acciones de la filial rusa de Commerzbank como parte de una sentencia de casi 100 millones de euros.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/08/compra-commerzbank-deja-unicredit-herencia-134053779.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Embalses en España: así están las reservas de agua este 8 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-08 05:16:15",
-      "snippet": "El Ministerio para la Transición Ecológica y el Reto Demográfico ha actualizado su último boletín sobre los estatus de los embalses de agua en España",
-      "url": "https://www.infobae.com/espana/2026/09/08/embalses-en-espana-asi-estan-las-reservas-de-agua-este-8-de-septiembre/",
-      "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business",
-        "environment"
-      ]
-    },
-    {
-      "title": "Actualización del tipo de cambio dólar-euro hoy 8 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-08 05:15:57",
-      "snippet": "La moneda europea mostró fluctuaciones en su cotización de este día",
-      "url": "https://www.infobae.com/espana/2026/09/08/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-8-de-septiembre/",
-      "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
+        "top"
       ]
     }
   ]
