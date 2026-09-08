@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-09-07T23:51:05Z",
+  "updated_at": "2026-09-08T01:06:24Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Banco Nación lanza créditos para comprar autos: cuánto es la cuota inicial y el monto que presta",
-      "source": "eldia_ar",
-      "published_at": "2026-09-07 11:50:35",
-      "snippet": "Se podrán adquirir automóviles, pick ups y utilitarios, ya sean nuevos o usados",
-      "url": "https://www.eldia.com/politica-y-economia/banco-nacion-lanza-creditos-para-comprar-autos-cuanto-es-la-cuota-inicial-y-el-monto-que-presta-politica-y-economia_1788776280",
+      "title": "Las ballenas no venden y bitcoin no repite la señal que marcó sus últimos pisos",
+      "source": "criptonoticias",
+      "published_at": "2026-09-07 13:05:36",
+      "snippet": "Bitcoin todavía no cae por debajo del precio realizado de los holders de largo plazo, una señal asociada a pisos de ciclos anteriores. La entrada Las ballenas no venden y bitcoin no repite la señal que marcó sus últimos pisos se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
+      "url": "https://www.criptonoticias.com/mercados/ballenas-bitcoin-venta-senal-piso/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Las seis Argentinas ocultas que pueden definir el futuro de Javier Milei",
+      "source": "letrap_ar",
+      "published_at": "2026-09-07 13:05:00",
+      "snippet": "En un país fragmentado, la evaluación del rumbo económico depende de la experiencia material de cada sector. Por qué el promedio no explica todo. Malvinas, Javier Milei y la reelección: jugada exitosa o bluf",
+      "url": "https://www.letrap.com.ar//opinion/las-seis-argentinas-ocultas-que-pueden-definir-el-futuro-javier-milei-n5426386",
       "country": [
         "argentina"
       ],
@@ -18,52 +31,11 @@
       ]
     },
     {
-      "title": "Dólar blue, dólar hoy: a cuánto cotizan el lunes 7 de septiembre de 2026",
-      "source": "pagina12",
-      "published_at": "2026-09-07 11:50:00",
-      "snippet": "El precio del dólar oficial y de los dólares financieros. En directo, todas las modificaciones de la jornada cambiaria.",
-      "url": "https://www.pagina12.com.ar/2026/09/07/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-lunes-7-de-septiembre-de-2026/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Se mueve el plazo fijo: banco por banco, las nuevas tasas de septiembre",
-      "source": "mdzol",
-      "published_at": "2026-09-07 11:46:00",
-      "snippet": "El plazo fijo tradicional de septiembre ofrece tasas de interés dispares entre bancos, con rendimientos promedio que varían según la entidad bancaria.",
-      "url": "https://www.mdzol.com/dinero/se-mueve-el-plazo-fijo-banco-banco-las-nuevas-tasas-septiembre-n1601358",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Se digitalizan las gestiones aeronáuticas y se suprimen validaciones en papel",
-      "source": "primeraedicion",
-      "published_at": "2026-09-07 11:45:52",
-      "snippet": "La Administración Nacional de Aviación Civil (ANAC) instruyó a su personal a aceptar como válidos los documentos suscriptos con firma digital en todos los trámites de su competencia, eliminando la exigencia de presentar certificaciones, legalizaciones o autenticaciones adicionales. La medida entró en vigencia hoy tras su publicación en el Boletín Oficial bajo la Resolución 662/2026. [...] La entrada Se digitalizan las gestiones aeronáuticas y se suprimen validaciones en papel se publicó primero en Primera Edición .",
-      "url": "https://www.primeraedicion.com.ar/nota/101139845/se-digitalizan-las-gestiones-aeronauticas-y-se-suprimen-validaciones-en-papel/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "¿Revisaste tu boleta? Números de la suerte del Quini 6 y ganadores que se llevaron más de $31 millones",
+      "title": "Mhoni Vidente: los cinco signos que destraban ascenso, dinero extra y éxito este lunes 7 de septiembre",
       "source": "rionegro",
-      "published_at": "2026-09-07 11:45:44",
-      "snippet": "La Lotería de Santa Fe confirmó que las modalidades principales del Quini 6 quedaron vacantes, en el sorteo del domingo 6 de septiembre 2026. Repasamos todos los números de la suerte y los ganadores del Siempre Sale.",
-      "url": "https://www.rionegro.com.ar/servicios/revisaste-tu-boleta-numeros-de-la-suerte-del-quini-6-y-ganadores-que-se-llevaron-mas-de-31-millones-4711992/",
+      "published_at": "2026-09-07 13:04:30",
+      "snippet": "El arranque de semana llega con una carga astral potente y cartas del tarot que anticipan giros clave en el dinero, los negocios y la salud.",
+      "url": "https://www.rionegro.com.ar/horoscopo/mhoni-vidente-los-cinco-signos-que-destraban-ascenso-dinero-extra-y-exito-este-lunes-7-de-septiembre-4712087/",
       "country": [
         "argentina"
       ],
@@ -73,11 +45,11 @@
       ]
     },
     {
-      "title": "El plan de Cavallo para que Milei “organice” el dólar y la economía que lo va a “ayudar mucho a ganar las elecciones”",
-      "source": "cronista",
-      "published_at": "2026-09-07 11:42:55",
-      "snippet": "El exministro de Economía dejó una serie de recomendaciones al Gobierno de cara al año electoral.",
-      "url": "https://www.cronista.com/economia-politica/el-plan-de-cavallo-para-que-milei-organice-el-dolar-y-la-economia-que-lo-va-a-ayudar-mucho-a-ganar-las-elecciones/",
+      "title": "Domingo Cavallo le pidió a Javier Milei levantar el cepo, sumar reservas y habilitar el bimonetarismo",
+      "source": "rionegro",
+      "published_at": "2026-09-07 13:02:58",
+      "snippet": "El exministro de Economía sostuvo que emitir pesos para comprar divisas no provocará inflación sino que reducirá el riesgo país. Advirtió que confiar solo en el RIGI es una «ilusión» y reclamó un esquema donde el dólar tenga curso legal para reactivar el crédito productivo en toda la economía.",
+      "url": "https://www.rionegro.com.ar/economia/domingo-cavallo-le-pidio-a-javier-milei-levantar-el-cepo-sumar-reservas-y-habilitar-el-bimonetarismo-4712082/",
       "country": [
         "argentina"
       ],
@@ -87,30 +59,57 @@
       ]
     },
     {
-      "title": "Billeteras virtuales: Misiones excluyó a casi 90 mil contribuyentes",
-      "source": "primeraedicion",
-      "published_at": "2026-09-07 11:42:43",
-      "snippet": "Cerca de 90 mil pequeños contribuyentes por mes fueron excluidos de las retenciones sobre las acreditaciones recibidas mediante billeteras virtuales desde la puesta en marcha del nuevo esquema establecido por el Gobierno de Misiones. La medida comenzó a regir en agosto mediante el Decreto provincial 936/2026 y busca evitar que las operaciones de menor escala [...] La entrada Billeteras virtuales: Misiones excluyó a casi 90 mil contribuyentes se publicó primero en Primera Edición .",
-      "url": "https://www.primeraedicion.com.ar/nota/101139844/misiones-excluyo-contribuyentes-retenciones-billeteras-virtuales/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "politics"
-      ]
-    },
-    {
-      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 7 de septiembre, minuto a minuto",
-      "source": "lanacion",
-      "published_at": "2026-09-07 11:39:52",
-      "snippet": "El último día hábil, la divisa oficial operó a $1530 para la venta en el Banco Nación; el dólar blue cotizó a $1540 para esa operación; qué pasa con el MEP y el CCL",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid07092026/",
+      "title": "Milei en Misiones: habló de inflación, crédito y prometió “acelerar a fondo” si gana más fuerza en el Congreso",
+      "source": "flipr_ar",
+      "published_at": "2026-09-07 13:02:52",
+      "snippet": "El presidente Javier Milei volvió a defender con dureza su programa económico durante su paso por Puerto Iguazú, donde cerró...",
+      "url": "https://flipr.com.ar/misiones/misiones-misiones/misionescuatro/milei-en-misiones-hablo-de-inflacion-credito-y-prometio-acelerar-a-fondo-si-gana-mas-fuerza-en-el-congreso/",
       "country": [
         "argentina"
       ],
       "category": [
         "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Mar del Plata: las ventas minoristas profundizaron su caída y retrocedieron 9,2% en agosto",
+      "source": "eldia_ar",
+      "published_at": "2026-09-07 13:02:51",
+      "snippet": "El relevamiento de la UCIP también reflejó un escenario de cautela entre los comerciantes: casi ocho de cada diez no consideran favorable el contexto para invertir, mientras siete de cada diez calificaron las utilidades como regulares o malas.",
+      "url": "https://www.eldia.com/politica-y-economia/mar-del-plata-las-ventas-minoristas-profundizaron-su-caida-y-retrocedieron-9-2-en-agosto-politica-y-economia_1788786060",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "China inyecta u$s54.000 millones a los principales bancos y aseguradoras para impulsar el sector financiero",
+      "source": "ambito",
+      "published_at": "2026-09-07 13:02:00",
+      "snippet": "A través del Ministerio de Hacienda, el gobierno chino lanzó un plan atípico de capitalización para ocho gigantes del sector. La medida busca reducir riesgos, dinamizar el consumo y alinear las entidades a las exigencias globales.",
+      "url": "https://www.ambito.com/economia/china-inyecta-us54000-millones-los-principales-bancos-y-aseguradoras-impulsar-el-sector-financiero-n6319294",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Alberto Fernández cruzó a Milei por Malvinas y cuestionó la compra de los F-16",
+      "source": "eldiariodecatamarca",
+      "published_at": "2026-09-07 13:01:38",
+      "snippet": "El expresidente criticó al Gobierno por su postura sobre las Islas Malvinas y apuntó contra la adquisición de aviones de combate.",
+      "url": "https://eldiariodecatamarca.com/index.php/politica-y-economia/alberto-fernandez-cruzo-a-milei-por-malvinas-y-cuestiono-la-compra-de-los-f-16",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "politics",
         "business"
       ]
     }
