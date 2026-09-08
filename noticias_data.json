@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-08T01:19:08Z",
+  "updated_at": "2026-09-08T15:13:56Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Confirmaron la sesión especial pedida por la oposición para tratar proyectos de endeudamiento en Diputados",
-      "source": "chacodiapordia",
-      "published_at": "2026-09-07 13:15:53",
-      "snippet": "La oposición buscará sesionar el próximo miércoles a las 12 en la Cámara de Diputados para emplazar a las comisiones los proyectos vinculados al endeudamiento de familias y la emergencia en discapacidad, mientras el oficialismo busca convencer a sus aliados para que no den quórum para abrir esa reunión del pleno del cuerpo. Los bloques opositores, encabezados por el peronismo, tienen el desafío de mantener unida a la mayoría que construyó en la última sesión, cuando reunió 133 votos para impulsar el debate de esas iniciativas. Además deberá acordar cuáles serán los proyectos que pedirán que se traten en las comisiones del medio centenar que se han presentado, para poder hacer el pedido de emplazamiento ya que tienen diferentes giros. Ahora, con la convocatoria oficial a la sesión realizada por el secretario parlamentario, Adrián Pagan, para el próximo miércoles, se multiplicarán las negociaciones de la oposición para conservar bloques que hasta ahora fueron aliados del Gobierno Nacional y del oficialismo para hacer caer la sesión La Libertad Avanza avanzó con una estrategia de abrir en la comisión de Finanzas, que preside Santiago Pauli, para tratar 35 proyectos con la expectativa de estirar el debate hasta fin de mes, pero ese esquema de trabajo fue rechazado por las bancadas opositores. Esta estrategia de utilizar la comisión como “carnada” para que “piquen” los diputados dialoguistas no es inocente, sino que apunta directamente a quitarle fuerza a la convocatoria del 9 de septiembre, con el argumento de que la sesión carece de sentido, ya que uno de los temas ya está siendo debatido en comisión. “La trampa”, dicen los opositores, es que la reunión de Finanzas será meramente informativa y no tiene como fin último dictaminar para poder llevar los proyectos al recinto. En ese contexto, el oficialismo buscarán convencer a los legisladores que si bien votaron a favor para habilitar el debate no firmaron el pedido de sesión como los tres legisladores de Independencia, y para que no se sumen los radicales que se abstuvieron en la sesión. También aspira a convencer a cuatro legisladores de Provincias Unidas que siempre votan con el oficialismo. Por lo pronto, mañana continuará a las 15 el debate en la comisión de Finanzas donde expondrán invitados propuestos por los opositores. Agencia NA La entrada Confirmaron la sesión especial pedida por la oposición para tratar proyectos de endeudamiento en Diputados se publicó primero en CHACODIAPORDIA.COM .",
-      "url": "https://chacodiapordia.com/confirmaron-la-sesion-especial-pedida-por-la-oposicion-para-tratar-proyectos-de-endeudamiento-en-diputados/",
+      "title": "Oficializan el proyecto de US$ 2.693 millones para producir urea con gas de Vaca Muerta",
+      "source": "flipr_ar",
+      "published_at": "2026-09-08 03:10:35",
+      "snippet": "El Gobierno nacional oficializó la aprobación del proyecto de Fértil Pampa SAU para construir un complejo de fertilizantes en Bahía...",
+      "url": "https://flipr.com.ar/nacionales/gremios/serindustria/oficializan-el-proyecto-de-us-2-693-millones-para-producir-urea-con-gas-de-vaca-muerta/",
       "country": [
         "argentina"
       ],
@@ -18,11 +18,11 @@
       ]
     },
     {
-      "title": "Sturzenegger defendió los créditos del Banco Nación para comprar autos y destacó el plazo de cinco años",
-      "source": "misionesonline",
-      "published_at": "2026-09-07 13:15:20",
-      "snippet": "El ministro de Desregulación y Transformación del Estado respaldó la nueva línea del Banco Nación para financiar la compra de vehículos a una tasa de UVA + 19%. Aseguró que la extensión del plazo puede facilitar el acceso al crédito y planteó que, si el producto demuestra demanda, podría impulsar una mayor oferta de financiamiento [...]",
-      "url": "https://misionesonline.net/2026/09/07/creditos-del-banco-nacion-para-comprar-autos/",
+      "title": "El Gobierno denunciará penalmente a cinco empresas petroleras que operan en Malvinas",
+      "source": "flipr_ar",
+      "published_at": "2026-09-08 03:06:57",
+      "snippet": "La Oficina del Presidente informó que Pablo Quirno presentó una denuncia contra cinco compañías por la exploración y explotación de...",
+      "url": "https://flipr.com.ar/nacionales/politica/ambito/el-gobierno-denunciara-penalmente-a-cinco-empresas-petroleras-que-operan-en-malvinas/",
       "country": [
         "argentina"
       ],
@@ -32,52 +32,37 @@
       ]
     },
     {
-      "title": "Caputo le da US$ 2.000 millones de \"poder de fuego\" a Bausili para intervenir con bonos en el dólar",
-      "source": "clarin",
-      "published_at": "2026-09-07 13:14:41",
-      "snippet": "El Ministerio de Economía le canjea al Banco Central bonos en pesos a cambio de letras vinculadas al tipo de cambio. La autoridad monetaria los suele utilizar para vender en el mercado y aplacar tensiones cambiarias.",
-      "url": "https://www.clarin.com/economia/caputo-da-us-2000-millones-poder-fuego-bausili-intervenir-bonos-dolar_0_Z6KhZeyxjt.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "El Senado concentra la semana en la reforma del Banco Central e Inocencia Fiscal: todos los detalles",
-      "source": "diariolaopinion_ar",
-      "published_at": "2026-09-07 13:12:55",
-      "snippet": "Diario La Opinión, informando a Rafaela desde 1921 con verdadera vocación periodística. Información confiable y de calidad.",
-      "url": "https://www.diariolaopinion.com.ar/nacionales/el-senado-concentra-la-semana-en-la-reforma-del-banco-central-e-inocencia-fiscal-todos-los-detalles.htm",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Chimbas avanza con una nueva plaza en el Loteo Santa Isabel",
-      "source": "elsoldesanjuan",
-      "published_at": "2026-09-07 13:10:20",
-      "snippet": "La intendenta de Chimbas supervisó los trabajos que se realizan en un predio de unos 300 metros cuadrados. La entrada Chimbas avanza con una nueva plaza en el Loteo Santa Isabel se publicó primero en El Sol de San Juan .",
-      "url": "https://elsoldesanjuan.com.ar/chimbas/07/09/2026/chimbas-avanza-con-una-nueva-plaza-en-el-loteo-santa-isabel/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Goldman Sachs advierte que el petróleo podría trepar a u$s120 si escalan los ataques en Medio Oriente",
+      "title": "Dólar blue hoy: a cuánto opera este martes 8 de septiembre",
       "source": "ambito",
-      "published_at": "2026-09-07 13:10:00",
-      "snippet": "El banco de inversión planteó un escenario alcista para el crudo si se intensifican las interrupciones al transporte marítimo en la región. También contempla una baja hacia u$s80 si las exportaciones se normalizan y recomienda cubrirse con posiciones alcistas en gas natural y productos refinados.",
-      "url": "https://www.ambito.com/energia/goldman-sachs-advierte-que-el-petroleo-podria-trepar-us120-si-escalan-los-ataques-medio-oriente-n6319249",
+      "published_at": "2026-09-08 03:06:57",
+      "snippet": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+      "url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-8-septiembre-n6319666",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Dólar hoy: a cuánto cotiza este martes 8 de septiembre",
+      "source": "ambito",
+      "published_at": "2026-09-08 03:06:41",
+      "snippet": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+      "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-8-septiembre-n6319665",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Hay cambios en el directorio del Emprotur Bariloche",
+      "source": "rionegro",
+      "published_at": "2026-09-08 03:05:00",
+      "snippet": "El sector privado hizo modificaciones en sus representantes en el ente de promoción turística y hay tres nuevos titulares.",
+      "url": "https://www.rionegro.com.ar/politica/hay-cambios-en-el-directorio-del-emprotur-bariloche/",
       "country": [
         "argentina"
       ],
@@ -87,11 +72,11 @@
       ]
     },
     {
-      "title": "Las empresas prevén incrementos del 3% en los salarios en 2027",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-07 13:08:25",
-      "snippet": "Las empresas españolas mantendrán la prudencia a la hora de actualizar los salarios en 2027. Así se desprende del 'Estudio sobre Planificación Salarial 2026', elaborado por la consultora WTW. Según los resultados, la mediana del incremento previsto se sitúa en el 3%, mientras que el promedio desciende ligeramente hasta el 2,8%, al incorporar también a las compañías que no prevén ningún aumento salarial.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/07/empresas-preven-incrementos-3-salarios-134036878.html",
+      "title": "Juan y Leopoldo hicieron una promesa hace 12 años y hoy construyen ÓGA, su primer edificio propio en la Patagonia",
+      "source": "rionegro",
+      "published_at": "2026-09-08 03:05:00",
+      "snippet": "Se conocieron trabajando en una obra y con el tiempo se convirtieron en socios. Después de años de construir para terceros, el arquitecto Leopoldo Jauregui y el constructor Juan González crearon Goja Desarrollos y decidieron cumplir aquella idea que habían planteado en 2014: construir un edificio propio. ÓGA ya está en obra en Cipolletti y reunirá 32 departamentos, tres oficinas, un local comercial, cocheras y bauleras.",
+      "url": "https://www.rionegro.com.ar/propiedades/juan-y-leopoldo-hicieron-una-promesa-hace-12-anos-y-hoy-construyen-oga-su-primer-edificio-propio-en-la-patagonia/",
       "country": [
         "argentina"
       ],
@@ -101,15 +86,30 @@
       ]
     },
     {
-      "title": "Los ETF de XRP encadenan 8 semanas verdes consecutivas",
-      "source": "criptonoticias",
-      "published_at": "2026-09-07 13:08:12",
-      "snippet": "Estos instrumentos positivos presentan flujos positivos semanales desde el 17 de julio. La entrada Los ETF de XRP encadenan 8 semanas verdes consecutivas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
-      "url": "https://www.criptonoticias.com/mercados/etf-xrp-encadenan-8-semanas-verdes-consecutivas/",
+      "title": "Estos son los 8 departamentos de Mendoza en los que habrá cortes de luz este martes, según Edemsa",
+      "source": "mdzol",
+      "published_at": "2026-09-08 03:05:00",
+      "snippet": "Según el cronograma de mantenimiento, distintas zonas de la provincia verán afectado el servicio eléctrico a lo largo de la jornada.",
+      "url": "https://www.mdzol.com/sociedad/estos-son-los-8-departamentos-mendoza-los-que-habra-cortes-luz-este-martes-segun-edemsa-n1601867",
       "country": [
         "argentina"
       ],
       "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Cartas de lectores: Desregular, impuestos, puente",
+      "source": "lanacion",
+      "published_at": "2026-09-08 03:05:00",
+      "snippet": null,
+      "url": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-desregular-impuestos-puente-nid08092026/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
         "business"
       ]
     }
