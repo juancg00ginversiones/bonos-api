@@ -1,82 +1,28 @@
 {
-  "updated_at": "2026-09-08T23:17:27Z",
+  "updated_at": "2026-09-08T23:45:02Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Precio del euro hoy en Uruguay: cotización de apertura del 8 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-08 11:16:45",
-      "snippet": "Este fue el comportamiento del euro durante los primeros minutos de la sesión bursátil",
-      "url": "https://www.infobae.com/noticias/2026/09/08/precio-del-euro-hoy-en-uruguay-cotizacion-de-apertura-del-8-de-septiembre/",
+      "title": "Misiones recibió apenas $1 millón de Nación para obras en los primeros siete meses de 2026",
+      "source": "primeraedicion",
+      "published_at": "2026-09-08 11:44:39",
+      "snippet": "Misiones quedó prácticamente excluida del reparto nacional de fondos para obras durante los primeros siete meses de 2026. Las transferencias de capital recibidas por la provincia registraron una caída real del 100% frente al mismo período de 2025, de acuerdo con un informe de Labor, Capital & Growth (LCG). Entre enero y julio, la Nación [...] La entrada Misiones recibió apenas $1 millón de Nación para obras en los primeros siete meses de 2026 se publicó primero en Primera Edición .",
+      "url": "https://www.primeraedicion.com.ar/nota/101140124/misiones-fondos-obras-transferencias-capital-2026/",
       "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
+        "argentina"
       ],
       "category": [
-        "business",
-        "top"
+        "politics",
+        "business"
       ]
     },
     {
-      "title": "Euro hoy en Chile: cotización de apertura del 8 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-08 11:16:29",
-      "snippet": "La moneda europea ha registrado un avance respecto a la jornada anterior",
-      "url": "https://www.infobae.com/noticias/2026/09/08/euro-hoy-en-chile-cotizacion-de-apertura-del-8-de-septiembre/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Bladex concreta exitosa Emisión de Deuda en el Mercado De Capitales Mexicano",
-      "source": "infobae",
-      "published_at": "2026-09-08 11:16:15",
-      "snippet": "Bladex concreta exitosa Emisión de Deuda en el Mercado De Capitales Mexicano",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/bladex-concreta-exitosa-emision-de-deuda-en-el-mercado-de-capitales-mexicano/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Dólar hoy en Uruguay: cotización de apertura del 8 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-08 11:16:12",
-      "snippet": "La divisa estadounidense experimentó un avance respecto a la jornada anterior",
-      "url": "https://www.infobae.com/noticias/2026/09/08/dolar-hoy-en-uruguay-cotizacion-de-apertura-del-8-de-septiembre/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Biocombustibles: cámaras y entidades pidieron al Senado que acelere el tratamiento de la nueva ley",
-      "source": "lagaceta_ar",
-      "published_at": "2026-09-08 11:16:00",
-      "snippet": "Las instituciones vinculadas a la actividad agroindustrial, energética y productiva respaldaron el dictamen de comisiones. Solicitaron que el proyecto sea tratado y aprobado en el recinto.",
-      "url": "https://www.lagaceta.com.ar/nota/1153079/economia/biocombustibles-camaras-entidades-pidieron-al-senado-acelere-tratamiento-nueva-ley.html",
+      "title": "El cobre se dispara, pero Chile no logra aprovecharlo: las exportaciones cayeron a su nivel más bajo en más de un año",
+      "source": "flipr_ar",
+      "published_at": "2026-09-08 11:43:06",
+      "snippet": "Las ventas externas del principal productor mundial de cobre alcanzaron US$4.620 millones en agosto, un 14% menos que en julio....",
+      "url": "https://flipr.com.ar/nacionales/economia/perfil/el-cobre-se-dispara-pero-chile-no-logra-aprovecharlo-las-exportaciones-cayeron-a-su-nivel-mas-bajo-en-mas-de-un-ano/",
       "country": [
         "argentina"
       ],
@@ -86,16 +32,13 @@
       ]
     },
     {
-      "title": "Precio del dólar hoy en Chile: cotización de apertura del 8 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-08 11:15:55",
-      "snippet": "Este fue el comportamiento de la divisa estadounidense durante los primeros minutos de la jornada",
-      "url": "https://www.infobae.com/noticias/2026/09/08/precio-del-dolar-hoy-en-chile-cotizacion-de-apertura-del-8-de-septiembre/",
+      "title": "Para qué sirve colocar una botella de plástico con agua en el techo",
+      "source": "mdzol",
+      "published_at": "2026-09-08 11:40:00",
+      "snippet": "Un método casero y sustentable, la botella con agua en el techo, ilumina espacios oscuros sin generar energía eléctrica, basándose en la física.",
+      "url": "https://www.mdzol.com/tendencias/para-que-sirve-colocar-una-botella-plastico-agua-el-techo-n1598457",
       "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
+        "argentina"
       ],
       "category": [
         "business",
@@ -103,46 +46,67 @@
       ]
     },
     {
-      "title": "Empresa afirma que puede ayudar a enfriar el planeta por US$ 10.000 millones al año. Los científicos dan la voz de alarma",
-      "source": "cnnespanol",
-      "published_at": "2026-09-08 11:12:12",
-      "snippet": "Una empresa tiene un plan que suena sencillo para ayudar a salvar el planeta: tomar un aditivo alimentario y el mineral que endurece las cáscaras de huevo, producir partículas diminutas a partir de ellos, rociarlas en la atmósfera y enfriar el mundo.",
-      "url": "https://cnnespanol.cnn.com/2026/09/08/ciencia/empresa-enfriar-planeta-cientificos-alarma-trax",
+      "title": "Moratoria 2026: septiembre es el último mes para acceder a los beneficios de pago",
+      "source": "eldiaonline",
+      "published_at": "2026-09-08 11:39:55",
+      "snippet": "Los contribuyentes tienen tiempo hasta fin de mes para regularizar deudas tributarias municipales anteriores a 2026. La adhesión se gestiona de manera digital a través de la plataforma GualeActiva.",
+      "url": "https://www.eldiaonline.com/moratoria-2026-septiembre-es-el-ultimo-mes-para-acceder-a-los-beneficios-de-pago",
       "country": [
-        "panama",
-        "guinea",
-        "puerto rico",
-        "el salvador",
-        "guatemala",
-        "mexico",
-        "venezuela",
-        "costa rica",
-        "dominican republic",
-        "peru",
-        "spain",
-        "ecuador",
-        "paraguay",
-        "cuba",
-        "argentina",
-        "uruguay",
-        "bolivia",
-        "nicaragua",
-        "colombia",
-        "chile",
-        "honduras"
+        "argentina"
       ],
       "category": [
         "business",
-        "top",
-        "environment"
+        "top"
       ]
     },
     {
-      "title": "Caen las expectativas de despidos y de hacer cambios de personal en el último trimestre de 2026",
-      "source": "iprofesional",
-      "published_at": "2026-09-08 11:10:00",
-      "snippet": "Un estudio de ManpowerGroup Argentina muestra también un alza de 2 puntos en las intenciones de contratar personal en el final del año",
-      "url": "https://www.iprofesional.com/management/463781-caen-las-expectativas-de-despidos-y-cambios-de-personal-en-el-ultimo-trimestre-de-2026",
+      "title": "Árbitro advirtió dos veces al contrincante de Juani por golpes fuera de lo permitido",
+      "source": "primeraedicion",
+      "published_at": "2026-09-08 11:37:34",
+      "snippet": "Santiago Derli Acosta, el joven de 29 años instructor de kickboxing y quien ofició de árbitro en la exhibición que participó Juan Ignacio Acosta, el adolescente posadeño de 16 años que falleció el 17 de febrero de 2025 por un edema subdural luego de nueve días de agonía, declaró ayer en el Juzgado de Instrucción [...] La entrada Árbitro advirtió dos veces al contrincante de Juani por golpes fuera de lo permitido se publicó primero en Primera Edición .",
+      "url": "https://www.primeraedicion.com.ar/nota/101140138/juani-acosta-arbitro-declaro-golpes-kickboxing/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "politics",
+        "business"
+      ]
+    },
+    {
+      "title": "El Municipio de Arroyito entregó 2 nuevas viviendas del Plan Casa",
+      "source": "viapais_ar",
+      "published_at": "2026-09-08 11:37:22",
+      "snippet": "Completan 257 unidades otorgadas durante estos 7 años de gestión.",
+      "url": "https://viapais.com.ar/arroyito/municipio-arroyito-entrego-2-nuevas-viviendas-plan-casa_0_4EaW7XNzbJ.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Argentina tuvo el peor resultado de las pruebas PISA desde 2006; denunciarán penalmente a las petroleras en Malvinas",
+      "source": "lanacion",
+      "published_at": "2026-09-08 11:36:53",
+      "snippet": "Además, el Banco Nación bajó la tasa para la refinanciación de deudas; Rusia lanzó un ataque contra Kiev luego de la tregua de tres días; Boca se prepara para recibir a San Pablo. Estas son las noticias de la mañana del martes 8 de septiembre de 2026",
+      "url": "https://www.lanacion.com.ar/sociedad/argentina-tuvo-el-peor-resultado-de-las-pruebas-pisa-desde-2006-denunciaran-penalmente-a-las-nid08092026/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Una diputada patagónica tiene deudas irrecuperables por más de $70 millones",
+      "source": "adnsur",
+      "published_at": "2026-09-08 11:35:26",
+      "snippet": "La morosidad de los argentinos llegó al Congreso Nacional. Entre los casos detectados de legisladores que cuentan con abultadas deudas, algunas incobrables, está el de una diputada patagónica.",
+      "url": "https://www.adnsur.com.ar/politica/una-diputada-patagonica-tiene-deudas-irrecuperables-por-mas-de--70-millones_a6a9ff2b8a68e0d8bb0b76a7b",
       "country": [
         "argentina"
       ],
