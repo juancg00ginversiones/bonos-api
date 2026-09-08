@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-09-08T17:39:53Z",
+  "updated_at": "2026-09-08T18:11:55Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
+    {
+      "title": "Las empresas deben detallar el salario base y todos los pluses en los nuevos contratos de trabajo",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-08 05:59:03",
+      "snippet": "El Gobierno tiene previsto aprobar este martes un real decreto que incrementará las obligaciones informativas de las empresas a la hora de ofrecer un contrato de trabajo a un nuevo empleado. El Ejecutivo tiene previsto transponer una directiva europea que incrementa la transparencia a favor de los trabajadores y provocará que las compañías, a partir de la entrada en vigor de la misma, deban especificar en los nuevos contratos de trabajo cuántas horas trabaja al día, al mes y al año esa persona y cuál es su salario base, así como todos los pluses salariales que percibe y porqué los percibe.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/08/contrato-trabajo-reforma-condiciones-laborales-transparentes-fijos-discontinuos-novedades-134054091.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "Ni en Madrid ni en Barcelona: Casa 47 todavía no ha ofertado ninguna vivienda en las ciudades más tensionadas de España",
+      "source": "infobae",
+      "published_at": "2026-09-08 05:58:32",
+      "snippet": "La entidad mantiene siete convocatorias abiertas con 800 inmuebles para alquiler asequible en provincias como Asturias, Valencia, Navarra o Galicia",
+      "url": "https://www.infobae.com/espana/2026/09/08/ni-en-madrid-ni-en-barcelona-casa-47-todavia-no-ha-ofertado-ninguna-vivienda-en-las-ciudades-mas-tensionadas-de-espana/",
+      "country": [
+        "colombia",
+        "argentina",
+        "united states of america",
+        "mexico"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
+    {
+      "title": "El barco que ha viajado desde Finlandia a España usando solo placas solares",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-08 05:55:30",
+      "snippet": "Helios 11 es el nombre de un barco de extraña apariencia, alejado de las glamurosas líneas que este verano se pueden ver en los puertos deportivos españoles. Sin embargo, es el futuro. Esta embarcación ha recorrido ya miles de kilómetros impulsado enteramente por energía solar. Ni velas ni combustibles fósiles. Simplemente un motor eléctrico que se alimenta por el sol.",
+      "url": "https://www.laopinioncoruna.es/medio-ambiente/2026/09/08/barco-viajado-finlandia-espana-usando-134054037.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "top",
+        "business",
+        "environment"
+      ]
+    },
+    {
+      "title": "Rusia y Corea del Norte inauguraron un puente vial sobre el río Tumen para ampliar el comercio y la cooperación estratégica",
+      "source": "infobae",
+      "published_at": "2026-09-08 05:39:18",
+      "snippet": "Los primeros camiones, decorados con las banderas de Moscú y Pyongyang, cruzaron el puente de dos carriles durante una ceremonia en la que el primer ministro ruso, Mikhail Mishustin, y su par norcoreano, Pak Thae Song, participaron por videoconferencia y dirigieron mensajes a trabajadores y funcionarios de ambos países",
+      "url": "https://www.infobae.com/america/mundo/2026/09/08/rusia-y-corea-del-norte-inauguraron-un-puente-vial-sobre-el-rio-tumen-para-ampliar-el-comercio-y-la-cooperacion-estrategica/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "mexico",
+        "colombia"
+      ],
+      "category": [
+        "top",
+        "business"
+      ]
+    },
     {
       "title": "Cómo conservar higos en casa sin conservantes ni colorantes",
       "source": "infobae",
@@ -68,62 +131,6 @@
       "category": [
         "top",
         "business"
-      ]
-    },
-    {
-      "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este martes 8 de septiembre",
-      "source": "tn",
-      "published_at": "2026-09-08 05:00:36",
-      "snippet": "La cotización del dólar minuto a minuto en los bancos, donde desde abril de 2025 se pueden comprar divisas sin límites. También los precios del Blue, el MEP y el Cripto.",
-      "url": "https://tn.com.ar/economia/2026/09/08/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-martes-8-de-septiembre/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Personería logra medida para garantizar potabilidad del agua en El Pando",
-      "source": "elinformador",
-      "published_at": "2026-09-08 05:00:00",
-      "snippet": "El Tribunal Administrativo del Magdalena dio a la Empresa de Servicios Públicos de la ciudad cuatro meses para identificar y atender los focos de contaminación en las redes de acueducto del sector.",
-      "url": "https://www.elinformador.com.co/index.php/la-ciudad/81-distrito/358380-personeria-logra-medida-para-garantizar-potabilidad-del-agua-en-el-pando-2",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "La mejora de las cuentas externas suma reservas y abre margen para una baja del índice de riesgo país de la Argentina",
-      "source": "jujuyaldia_ar",
-      "published_at": "2026-09-08 05:00:00",
-      "snippet": "El BCRA informó que en los primeros siete meses del año el balance del intercambio con el exterior de bienes, servicios y el movimiento financiero fue positivo por primera vez desde 2019 y alcanzó a USD 3.500 millones Jujuy al día ® – El modelo económico de la administración de Javier Milei exhibe algunos lineamientos [...] La entrada La mejora de las cuentas externas suma reservas y abre margen para una baja del índice de riesgo país de la Argentina se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/08/la-mejora-de-las-cuentas-externas-suma-reservas-y-abre-margen-para-una-baja-del-indice-de-riesgo-pais-de-la-argentina/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "top",
-        "business"
-      ]
-    },
-    {
-      "title": "Se definen los amistosos de la Selección",
-      "source": "eldia_ar",
-      "published_at": "2026-09-08 04:49:27",
-      "snippet": "Si bien estaba previsto que el anuncio se hiciera en el comienzo de la semana, varias cuestiones retrasaron la noticia desde AFA",
-      "url": "https://www.eldia.com/deportes/se-definen-los-amistosos-de-la-seleccion-deportes_1788842967",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
       ]
     }
   ]
