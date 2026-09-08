@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-09-08T19:20:12Z",
+  "updated_at": "2026-09-08T19:43:36Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
+    {
+      "title": "Portugal compra a Amancio Ortega el 13,7 % de la estratégica REN por unos 380 millones",
+      "source": "infobae",
+      "published_at": "2026-09-08 07:31:18",
+      "snippet": "Portugal compra a Amancio Ortega el 13,7 % de la estratégica REN por unos 380 millones",
+      "url": "https://www.infobae.com/america/agencias/2026/09/08/portugal-compra-a-amancio-ortega-el-137-de-la-estrategica-ren-por-unos-380-millones/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Barbón reivindica el autogobierno y reclama acuerdos en torno a la vivienda, el peaje o la financiación",
+      "source": "infobae",
+      "published_at": "2026-09-08 07:30:47",
+      "snippet": "Barbón reivindica el autogobierno y reclama acuerdos en torno a la vivienda, el peaje o la financiación",
+      "url": "https://www.infobae.com/america/agencias/2026/09/08/barbon-reivindica-el-autogobierno-y-reclama-acuerdos-en-torno-a-la-vivienda-el-peaje-o-la-financiacion/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top",
+        "politics"
+      ]
+    },
+    {
+      "title": "Honduras. Señor Lagos, ¿acaso toca «orillar» la muerte para ver luz de estabilidad económica?",
+      "source": "resumenlatinoamericano_org",
+      "published_at": "2026-09-08 07:25:39",
+      "snippet": "Por Javier Suazo. Rebelión_Resumen Latinoamericano 8 de septiembre 2026. “El logro de la estabilidad económica no debe condicionar los objetivos de desarrollo nacional, son complementarios y refuerzan mutuamente” (Óscar Núñez Sandoval, PhD en economía y exdirector del Banco Central) Una frase famosa del destacado economista inglés y padre de la macroeconomía moderna John Maynard Keynes, [...] La entrada Honduras. Señor Lagos, ¿acaso toca «orillar» la muerte para ver luz de estabilidad económica? se publicó primero en Resumen Latinoamericano .",
+      "url": "https://www.resumenlatinoamericano.org/2026/09/08/honduras-senor-lagos-acaso-toca-orillar-la-muerte-para-ver-luz-de-estabilidad-economica/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Se adjudicaron los primeros $200.000 millones para impulsar nuevos créditos hipotecarios",
+      "source": "elonce",
+      "published_at": "2026-09-08 07:23:49",
+      "snippet": "ANSES adjudicó $200.000 millones en la primera licitación destinada a fondear bancos y ampliar la oferta de créditos hipotecarios para viviendas.",
+      "url": "https://www.elonce.com/economia/anses-adjudico-200-000-millones-para-impulsar-nuevos-creditos-hipotecarios.htm",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
     {
       "title": "La Bolsa española abre con caídas del 0,37 % mientras el brent sube a 98 dólares",
       "source": "infobae",
@@ -62,68 +125,6 @@
       "url": "https://www.elonce.com/sociedad/se-inicia-el-cronograma-de-pagos-de-prestaciones-de-anses.htm",
       "country": [
         "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El PIB de Japón desacelera su avance al 0,4% en el segundo trimestre, pero sube una décima más de lo esperado",
-      "source": "infobae",
-      "published_at": "2026-09-08 07:01:12",
-      "snippet": "El PIB de Japón desacelera su avance al 0,4% en el segundo trimestre, pero sube una décima más de lo esperado",
-      "url": "https://www.infobae.com/america/agencias/2026/09/08/el-pib-de-japon-desacelera-su-avance-al-04-en-el-segundo-trimestre-pero-sube-una-decima-mas-de-lo-esperado/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Dólar blue hoy: a cuánto cotiza este martes 08 de septiembre",
-      "source": "clarin",
-      "published_at": "2026-09-08 07:00:08",
-      "snippet": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
-      "url": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-martes-08-septiembre_0_hFAndg0UlC.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Otro escandaloso negocio de La Cámpora con la UOM: un compañero de colegio de Máximo embolsó más de $ 100 millones por una obra inconclusa",
-      "source": "jujuyaldia_ar",
-      "published_at": "2026-09-08 06:45:00",
-      "snippet": "En 2023, a través de la AABE, que manejaba la agrupación K, le cedieron a Furlán, el jefe del gremio, un terreno para que hiciera un parque de recreaciones. El sindicato contrató a Mariano Reibel, compañero de escuela de Máximo y hermano del histórico vocero de Cristina, para que haga un estudio de factibilidad, pero [...] La entrada Otro escandaloso negocio de La Cámpora con la UOM: un compañero de colegio de Máximo embolsó más de $ 100 millones por una obra inconclusa se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/08/otro-escandaloso-negocio-de-la-campora-con-la-uom-un-companero-de-colegio-de-maximo-embolso-mas-de-100-millones-por-una-obra-inconclusa/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades este 8 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-08 06:30:48",
-      "snippet": "Como todos los días, el precio actualizado de las gasolinas en seis de las ciudades más importantes de España",
-      "url": "https://www.infobae.com/espana/2026/09/08/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-este-8-de-septiembre/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
       ],
       "category": [
         "business",
