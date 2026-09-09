@@ -1,29 +1,14 @@
 {
-  "updated_at": "2026-09-09T15:13:54Z",
+  "updated_at": "2026-09-09T15:52:54Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Malvinas: Tierra del Fuego pidió derogar el tratado de inversiones con el Reino Unido",
-      "source": "flipr_ar",
-      "published_at": "2026-09-09 03:08:13",
-      "snippet": "Así lo expresó el secretario de Malvinas de Tierra del Fuego, Andrés Dachary. El planteo llega días después de que...",
-      "url": "https://flipr.com.ar/nacionales/politica/ambito/malvinas-tierra-del-fuego-pidio-derogar-el-tratado-de-inversiones-con-el-reino-unido/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top",
-        "politics"
-      ]
-    },
-    {
-      "title": "Antes de la sesión en Diputados, entidades financieras rechazaron una ley para afrontar la morosidad",
-      "source": "flipr_ar",
-      "published_at": "2026-09-09 03:05:01",
-      "snippet": "Invitados por La Libertad Avanza, representantes de prestadores de crédito se posicionaron en contra de una regulación sistémica. ...",
-      "url": "https://flipr.com.ar/nacionales/politica/ambito/antes-de-la-sesion-en-diputados-entidades-financieras-rechazaron-una-ley-para-afrontar-la-morosidad/",
+      "title": "\"Hay más de 6 millones de personas que tienen 90 días de mora\", afirmó Diego Giuliano en QR!",
+      "source": "perfil",
+      "published_at": "2026-09-09 03:45:31",
+      "snippet": "El legislador agregó: \"Ni les cuento cuando avanzamos sobre lo que es el endeudamiento informal porque el 60% de las personas que se endeudan lo hacen para comprar alimentos o pagar otras deudas que ya contrajeron en otro momento\". Leer más",
+      "url": "https://www.perfil.com/noticias/masperfil/hay-mas-de-6-millones-de-personas-que-tienen-90-dias-de-mora-afirmo-diego-giuliano-en-qr.phtml",
       "country": [
         "argentina"
       ],
@@ -33,11 +18,73 @@
       ]
     },
     {
-      "title": "ASÍ LO VEO / Producción automotriz en alza",
+      "title": "Todo listo para el inicio de la Expo Catamarca 2026 en el Predio Ferial",
+      "source": "elancasti_ar",
+      "published_at": "2026-09-09 03:33:00",
+      "snippet": "La segunda edición de la muestra, organizada por la FEC junto al Gobierno provincial, reunirá paneles económicos, actividades y un espacio de descuentos para el consumo local.",
+      "url": "https://www.elancasti.com.ar/edicion-impresa/todo-listo-el-inicio-la-expo-catamarca-2026-el-predio-ferial-n621159",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El gasto en conciertos sanitarios con entidades privadas aumenta un 48% en una década: Cataluña lidera y destina el 21,6% de su presupuesto",
+      "source": "infobae",
+      "published_at": "2026-09-09 03:30:00",
+      "snippet": "La comunidad autónoma casi triplica la media nacional, situada en el 8,5%, mientras Madrid ocupa el segundo lugar con un 12,2% de su gasto sanitario destinado a la privada concertada",
+      "url": "https://www.infobae.com/espana/2026/09/09/el-gasto-en-conciertos-sanitarios-con-entidades-privadas-aumenta-un-48-en-una-decada-cataluna-lidera-y-destina-el-216-de-su-presupuesto/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Uno de cada cuatro jóvenes que busca trabajo en España no lo consigue",
+      "source": "infobae",
+      "published_at": "2026-09-09 03:30:00",
+      "snippet": "El último boletín del Banco de España muestra cómo ha sido la evolución del desempleo juvenil desde 2020 hasta hoy y revela que nuestro país triplica la tasa de paro de Alemania",
+      "url": "https://www.infobae.com/espana/2026/09/09/uno-de-cada-cuatro-jovenes-que-busca-trabajo-en-espana-no-lo-consigue/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Créditos +Autos con BNA: financiamiento en UVA y pesos para 0km y usados",
+      "source": "mdzol",
+      "published_at": "2026-09-09 03:30:00",
+      "snippet": "Banco Nación sumó una modalidad en UVA a su línea de préstamos personales para la compra de vehículos.",
+      "url": "https://www.mdzol.com/mdz-autos/creditos-autos-bna-financiamiento-uva-y-pesos-0km-y-usados-n1601313",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Los ingresos de Neuquén superan la inflación por las regalías y un impuesto ligado a Vaca Muerta",
       "source": "rionegro",
-      "published_at": "2026-09-09 03:05:00",
-      "snippet": "El sector muestra una recuperación mensual, pero aún no logra revertir la tendencia negativa del año”, afirmó Rodrigo Pérez Graziano, presidente de ADEFA.",
-      "url": "https://www.rionegro.com.ar/autos/asi-lo-veo-produccion-automotriz-en-alza/",
+      "published_at": "2026-09-09 03:30:00",
+      "snippet": "La recaudación provincial anotó una leve caída en agosto, aunque la variación interanual se mantuvo en terreno positivo. La actividad hidrocarburífera y el precio del barril de petróleo, otra vez claves para el Gobierno.",
+      "url": "https://www.rionegro.com.ar/politica/los-ingresos-de-neuquen-superan-la-inflacion-por-las-regalias-y-un-impuesto-ligado-a-vaca-muerta/",
       "country": [
         "argentina"
       ],
@@ -47,13 +94,16 @@
       ]
     },
     {
-      "title": "Descubre cuánto ganarás al invertir $2 millones",
-      "source": "titulares",
-      "published_at": "2026-09-09 03:02:27",
-      "snippet": "En esta sección se despliegan las opciones de plazos fijos disponibles, y se debe elegir la que se ajuste a las necesidades del ahorrista, en este caso, la de 30 días para obtener la tasa más alta. Luego, se completan los datos solicitados, como el monto a invertir y la cantidad de días, y se [...]",
-      "url": "https://titulares.ar/descubre-cuanto-ganaras-al-invertir-2-millones/",
+      "title": "EE.UU. aprueba US$10 millones para financiar mipymes en Honduras, pero la mitad estará ligada al comercio estadounidense",
+      "source": "infobae",
+      "published_at": "2026-09-09 03:26:55",
+      "snippet": "La DFC otorgará a MiCrédito una línea equivalente a unos L268,5 millones para ampliar préstamos a pequeños negocios. Al menos US$5 millones deberán respaldar compras de bienes y servicios estadounidenses.",
+      "url": "https://www.infobae.com/honduras/2026/09/09/eeuu-aprueba-us10-millones-para-financiar-mipymes-en-honduras-pero-la-mitad-estara-ligada-al-comercio-estadounidense/",
       "country": [
-        "argentina"
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
       ],
       "category": [
         "business",
@@ -61,54 +111,11 @@
       ]
     },
     {
-      "title": "Se recauda más, pero no se invierte en rutas",
-      "source": "surenio_ar",
-      "published_at": "2026-09-09 03:01:00",
-      "snippet": "El impuesto a los combustibles se disparó y es el tributo que más creció en lo que va de la gestión de Javier Milei, pero los recursos no se vuelcan... La entrada Se recauda más, pero no se invierte en rutas se publicó primero en Diario El Sureño .",
-      "url": "https://www.surenio.com.ar/se-recauda-mas-pero-no-se-invierte-en-rutas/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "SUTEF cumple el día 37 de paro por tiempo indeterminado",
-      "source": "surenio_ar",
-      "published_at": "2026-09-09 03:01:00",
-      "snippet": "El gremio fue convocado por legisladores para un encuentro este miércoles, con el objeto de debatir las propuestas para un fondo de financiamiento educativo. El jueves tienen previsto un encuentro... La entrada SUTEF cumple el día 37 de paro por tiempo indeterminado se publicó primero en Diario El Sureño .",
-      "url": "https://www.surenio.com.ar/sutef-cumple-el-dia-37-de-paro-por-tiempo-indeterminado/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top",
-        "politics"
-      ]
-    },
-    {
-      "title": "La industria ante reclamos sin respuestas",
-      "source": "losandes",
-      "published_at": "2026-09-09 03:00:00",
-      "snippet": "En el gobierno nacional deben entender que la microeconomía también hace su aporte para la construcción de la macroeconomía y que cuando cae la actividad se pierde empleo, se debilita el consumo y se afecta seriamente a la capacidad productiva de las empresas. Y que el ataque oficial, además generalizado, hacia la industria nacional, no nos conduce a nada bueno.",
-      "url": "https://www.losandes.com.ar/editorial/la-industria-reclamos-respuestas-n6005230",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Vaca Muerta: 13 petroleras adelantarán u$s154,5 millones para financiar rutas clave en Neuquén",
+      "title": "Dólar hoy: a cuánto cotiza este miércoles 9 de septiembre",
       "source": "ambito",
-      "published_at": "2026-09-09 03:00:00",
-      "snippet": "YPF, Chevron, Pampa Energía, Pan American Energy, Pluspetrol, Shell, Vista y otras operadoras acordaron con el gobierno de Rolando Figueroa un esquema de anticipos de regalías, cánones y peajes para obras viales.",
-      "url": "https://www.ambito.com/energia/vaca-muerta-13-petroleras-adelantaran-us1545-millones-financiar-rutas-clave-neuquen-n6320102",
+      "published_at": "2026-09-09 03:26:09",
+      "snippet": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+      "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-9-septiembre-n6320136",
       "country": [
         "argentina"
       ],
