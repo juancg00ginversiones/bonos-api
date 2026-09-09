@@ -6,11 +6,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 10.3,
         "_meta": {
-          "ytm": 0.073659,
-          "duration": 1.42,
-          "precio": 54.68,
+          "ytm": 0.073144,
+          "duration": 1.421,
+          "precio": 54.72,
           "residual": 61.05,
-          "parity": 89.5659
+          "parity": 89.6314
         }
       },
       {
@@ -39,11 +39,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 10.3,
         "_meta": {
-          "ytm": 0.054115,
-          "duration": 1.459,
-          "precio": 56.24,
+          "ytm": 0.05693,
+          "duration": 1.4533,
+          "precio": 56.01,
           "residual": 61.05,
-          "parity": 92.1212
+          "parity": 91.7445
         }
       },
       {
@@ -72,11 +72,11 @@
         "fecha": "2026-09-30",
         "flujo_calc": 0.5,
         "_meta": {
-          "ytm": 0.090174,
-          "duration": 1.8442,
-          "precio": 94.95,
+          "ytm": 0.09006,
+          "duration": 1.8444,
+          "precio": 94.97,
           "residual": 100.0,
-          "parity": 94.95
+          "parity": 94.97
         }
       },
       {
@@ -185,11 +185,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 8.24,
         "_meta": {
-          "ytm": 0.083373,
-          "duration": 1.8195,
-          "precio": 56.06,
+          "ytm": 0.083275,
+          "duration": 1.8198,
+          "precio": 56.07,
           "residual": 65.92,
-          "parity": 85.0425
+          "parity": 85.0576
         }
       },
       {
@@ -226,11 +226,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 8.24,
         "_meta": {
-          "ytm": 0.062371,
-          "duration": 1.8794,
-          "precio": 58.28,
+          "ytm": 0.062645,
+          "duration": 1.8786,
+          "precio": 58.25,
           "residual": 65.92,
-          "parity": 88.4102
+          "parity": 88.3647
         }
       },
       {
@@ -267,11 +267,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 2.0625,
         "_meta": {
-          "ytm": 0.102071,
-          "duration": 4.9364,
-          "precio": 76.48,
+          "ytm": 0.101859,
+          "duration": 4.9382,
+          "precio": 76.56,
           "residual": 100.0,
-          "parity": 76.48
+          "parity": 76.56
         }
       },
       {
@@ -348,11 +348,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 2.0625,
         "_meta": {
-          "ytm": 0.092901,
-          "duration": 5.0142,
-          "precio": 80.05,
+          "ytm": 0.093025,
+          "duration": 5.0132,
+          "precio": 80.0,
           "residual": 100.0,
-          "parity": 80.05
+          "parity": 80.0
         }
       },
       {
@@ -530,11 +530,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 2.5,
         "_meta": {
-          "ytm": 0.090265,
-          "duration": 4.3436,
-          "precio": 84.04,
+          "ytm": 0.090019,
+          "duration": 4.3466,
+          "precio": 84.13,
           "residual": 100.0,
-          "parity": 84.04
+          "parity": 84.13
         }
       },
       {
@@ -631,11 +631,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 1.5625,
         "_meta": {
-          "ytm": 0.093602,
-          "duration": 5.5144,
-          "precio": 71.15,
+          "ytm": 0.093474,
+          "duration": 5.5166,
+          "precio": 71.2,
           "residual": 100.0,
-          "parity": 71.15
+          "parity": 71.2
         }
       },
       {
@@ -760,11 +760,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 1.5625,
         "_meta": {
-          "ytm": 0.085295,
-          "duration": 5.6611,
-          "precio": 74.53,
+          "ytm": 0.084893,
+          "duration": 5.6683,
+          "precio": 74.7,
           "residual": 100.0,
-          "parity": 74.53
+          "parity": 74.7
         }
       },
       {
@@ -954,11 +954,11 @@
         "fecha": "2026-11-30",
         "flujo_calc": 3.25,
         "_meta": {
-          "ytm": 0.100327,
-          "duration": 2.6299,
-          "precio": 92.83,
+          "ytm": 0.10086,
+          "duration": 2.6284,
+          "precio": 92.7,
           "residual": 100.0,
-          "parity": 92.83
+          "parity": 92.7
         }
       },
       {
@@ -991,11 +991,11 @@
         "fecha": "2026-11-02",
         "flujo_calc": 2.5,
         "_meta": {
-          "ytm": 0.02433,
-          "duration": 0.8488,
-          "precio": 104.05,
+          "ytm": 0.023764,
+          "duration": 0.8493,
+          "precio": 104.1,
           "residual": 100.0,
-          "parity": 104.05
+          "parity": 104.1
         }
       },
       {
