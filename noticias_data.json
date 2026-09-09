@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T20:30:50Z",
+  "updated_at": "2026-09-09T21:29:28Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "\"La economía sigue bipolar: la inflación será la más baja de la era Milei pero cayeron la construcción y la industria\"",
-      "source": "diariopanorama",
-      "published_at": "2026-09-09 08:20:00",
-      "snippet": "Así lo explicó en su columna de este miércoles para Radio Panorama el licenciado Osvaldo Granados.",
-      "url": "https://diariopanorama.com/noticia/565864/economia-sigue-bipolar-inflacion-sera-mas-baja-era-milei-pero-cayeron-construccion-industria",
+      "title": "Patricia Bullrich cerró con los dialoguistas la agenda del Senado antes de que llegue el Presupuesto 2027",
+      "source": "mdzol",
+      "published_at": "2026-09-09 09:28:00",
+      "snippet": "El Gobierno acordó con la UCR, el PRO y los bloques provinciales. El miércoles firman los dictámenes del Banco Central e Inocencia Fiscal II.",
+      "url": "https://www.mdzol.com/politica/patricia-bullrich-cerro-los-dialoguistas-la-agenda-del-senado-antes-que-llegue-el-presupuesto-2027-n1602738",
       "country": [
         "argentina"
       ],
@@ -18,41 +18,11 @@
       ]
     },
     {
-      "title": "Díaz asegura que modificará la indemnización por despido para cumplir las normas europeas",
-      "source": "infobae",
-      "published_at": "2026-09-09 08:18:05",
-      "snippet": "Díaz asegura que modificará la indemnización por despido para cumplir las normas europeas",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/09/diaz-asegura-que-modificara-la-indemnizacion-por-despido-para-cumplir-las-normas-europeas/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Tether apunta al campo y Circle a la banca ¿qué significa para las stablecoins?",
-      "source": "criptonoticias",
-      "published_at": "2026-09-09 08:13:00",
-      "snippet": "600 millones en tierra sudamericana y 400 millones en una red bancaria global, el pulso de las stablecoins se parte en dos estrategias opuestas. La entrada Tether apunta al campo y Circle a la banca ¿qué significa para las stablecoins? se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
-      "url": "https://www.criptonoticias.com/comunidad/adopcion/tether-campo-circle-banca-significa-stablecoins/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Hidrovía: extendieron una bonificación del 16,7% sobre el peaje para buques",
+      "title": "Desde este miércoles, más de 200 trámites municipales se pueden iniciar de manera online",
       "source": "elonce",
-      "published_at": "2026-09-09 08:08:05",
-      "snippet": "Extendieron la bonificación del peaje de la Hidrovía: será del 16,7% para los buques que utilicen el Canal Martín García.",
-      "url": "https://www.elonce.com/politica/hidrovia-extendieron-una-bonificacion-del-16-7-sobre-el-peaje-para-buques.htm",
+      "published_at": "2026-09-09 09:26:41",
+      "snippet": "Desde este miércoles, más de 200 trámites y gestiones del ámbito municipal solo se podrán iniciar mediante la plataforma Mi Paraná.",
+      "url": "https://www.elonce.com/parana/mas-de-200-tramites-municipales-se-podran-iniciar-de-manera-online.htm",
       "country": [
         "argentina"
       ],
@@ -62,11 +32,25 @@
       ]
     },
     {
-      "title": "Brasileños abandonan concesión estadio José María Minella en Mar del Plata",
-      "source": "titulares",
-      "published_at": "2026-09-09 08:07:42",
-      "snippet": "La incertidumbre sobre el futuro del estadio José María Minella de Mar del Plata se cierne sobre la ciudad costera, que ve cómo una de sus infraestructuras deportivas más emblemáticas se encuentra en un estado de abandono y deterioro que pone en riesgo su funcionalidad y su relevancia en el ámbito deportivo nacional. La privatización [...]",
-      "url": "https://titulares.ar/brasilenos-abandonan-concesion-estadio-jose-maria-minella-en-mar-del-plata/",
+      "title": "El petróleo supera los 100 dólares por barril tras una nueva ola de ataques en Oriente Medio",
+      "source": "clarin",
+      "published_at": "2026-09-09 09:20:08",
+      "snippet": "El crudo Brent superó los 100 dólares tras ataques en Oriente Medio que amenazan el suministro, impactando potencialmente costos de transporte. La tensión en la región, con ataques a petroleros e instalaciones, eleva riesgos para el mercado energético global y precios de combustibles.",
+      "url": "https://www.clarin.com/estados-unidos/el-petroleo-supera-los-100-dolares-por-barril-tras-una-nueva-ola-de-ataques-en-oriente-medio_0_7NoK0KBZHg.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La administración Trump critica la alianza de Ford y Geely en Almussafes (Valencia)",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-09 09:19:56",
+      "snippet": "El secretario de Estado de Transportes de EE UU, Sean P. Duffy, ha asegurado en una carta que la alianza entre Ford y Geely en Almussafes es una cuestión de \"preocupación\" en materia de \"seguridad nacional\". En una misiva destinada al consejero delegado de Ford, Jim Farley, Duffy censura la \"continua dependencia\" del fabricante de tecnología y capital chinos, señalando de forma expresa la alianza de Ford con Geely en su planta de valència.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/09/administracion-trump-critica-alianza-ford-134099781.html",
       "country": [
         "argentina"
       ],
@@ -75,16 +59,16 @@
       ]
     },
     {
-      "title": "El Ibex 35 cae un 0,9% en la apertura, lastrado por Inditex (-3%) y con el crudo a más de 99 dólares",
+      "title": "Arcadi España agradece en el Congreso a Canarias su voto al nuevo modelo de financiación",
       "source": "infobae",
-      "published_at": "2026-09-09 08:01:49",
-      "snippet": "El Ibex 35 cae un 0,9% en la apertura, lastrado por Inditex (-3%) y con el crudo a más de 99 dólares",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/el-ibex-35-cae-un-09-en-la-apertura-lastrado-por-inditex-3-y-con-el-crudo-a-mas-de-99-dolares/",
+      "published_at": "2026-09-09 09:18:52",
+      "snippet": "Arcadi España agradece en el Congreso a Canarias su voto al nuevo modelo de financiación",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/09/arcadi-espana-agradece-en-el-congreso-a-canarias-su-voto-al-nuevo-modelo-de-financiacion/",
       "country": [
         "mexico",
-        "united states of america",
+        "argentina",
         "colombia",
-        "argentina"
+        "united states of america"
       ],
       "category": [
         "business",
@@ -92,28 +76,46 @@
       ]
     },
     {
-      "title": "Trump regaló 45.000 dólares a su asesora Natalie Harp, la \"impresora humana\" (medios)",
-      "source": "clarin",
-      "published_at": "2026-09-09 08:00:15",
-      "snippet": "El líder estadounidense entregó dinero en efectivo a tres colaboradoras cercanas, incluyendo a su asistente ejecutiva, en gesto navideño. Las destinatarias, que trabajan en la residencia oficial, describieron los obsequios como parte de una tradición del mandatario.",
-      "url": "https://www.clarin.com/estados-unidos/trump-regalo-45-000-dolares-a-su-asesora-natalie-harp-la-impresora-humana-medios_0_ao59YgZ7ne.html",
+      "title": "Alerta en Lightning: se detecta vulnerabilidad en Alby",
+      "source": "criptonoticias",
+      "published_at": "2026-09-09 09:18:13",
+      "snippet": "Se recomienda actualizar el software a la más reciente versión de Alby Hub. La entrada Alerta en Lightning: se detecta vulnerabilidad en Alby se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
+      "url": "https://www.criptonoticias.com/seguridad-bitcoin/alerta-lightning-reportan-presuntas-perdidas-fondos-vinculadas-alby-hub/",
       "country": [
         "argentina"
       ],
       "category": [
-        "business",
-        "top",
-        "politics"
+        "business"
       ]
     },
     {
-      "title": "La actividad textil cayó más de 24% interanual en el primer semestre y ya cierran unas 30 empresas por mes",
-      "source": "jujuyaldia_ar",
-      "published_at": "2026-09-09 08:00:00",
-      "snippet": "El sector no encuentra piso y preocupa la pérdida de puestos de trabajo y de establecimientos. La importancia de las exportaciones Jujuy al día ® – La actividad textil sigue en crisis y en los primeros meses del año profundizó su deterioro, al registrar una caída interanual de 15,9% en junio. De este modo, acumula [...] La entrada La actividad textil cayó más de 24% interanual en el primer semestre y ya cierran unas 30 empresas por mes se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/09/la-actividad-textil-cayo-mas-de-24-interanual-en-el-primer-semestre-y-ya-cierran-unas-30-empresas-por-mes/",
+      "title": "Merz y Weidel libran duelo sobre economía e inmigración tras ganar AfD en Sajonia-Anhalt",
+      "source": "infobae",
+      "published_at": "2026-09-09 09:17:28",
+      "snippet": "Merz y Weidel libran duelo sobre economía e inmigración tras ganar AfD en Sajonia-Anhalt",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/merz-y-weidel-libran-duelo-sobre-economia-e-inmigracion-tras-ganar-afd-en-sajonia-anhalt/",
       "country": [
-        "argentina"
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "AQR aflora un corto en Ferrovial sobre el 0,5% de su capital",
+      "source": "infobae",
+      "published_at": "2026-09-09 09:16:33",
+      "snippet": "AQR aflora un corto en Ferrovial sobre el 0,5% de su capital",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/aqr-aflora-un-corto-en-ferrovial-sobre-el-05-de-su-capital/",
+      "country": [
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
       ],
       "category": [
         "business",
