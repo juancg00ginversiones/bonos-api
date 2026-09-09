@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T23:07:42Z",
+  "updated_at": "2026-09-09T23:39:42Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "UVA o tasa fija: cuál es la diferencia entre los créditos del Banco Nación para comprar un auto",
-      "source": "elsol",
-      "published_at": "2026-09-09 11:04:17",
-      "snippet": "El Banco Nación incorporó una nueva línea de créditos para la compra de vehículos que permite financiar hasta el 100% del valor de la unidad, con un límite de $100 millones por usuario y sin necesidad de constituir una prenda. La propuesta está disponible tanto para clientes como para quienes no tienen sus haberes depositados [...] The post UVA o tasa fija: cuál es la diferencia entre los créditos del Banco Nación para comprar un auto appeared first on Diario El Sol Mendoza .",
-      "url": "https://www.elsol.com.ar/el-pais/uva-o-tasa-fija-cual-es-la-diferencia-entre-los-creditos-del-banco-nacion-para-comprar-un-auto/",
+      "title": "Los hogares argentinos no recurren más al crédito en 2026: lo que cambió es que no pueden pagarlos",
+      "source": "elesquiu",
+      "published_at": "2026-09-09 11:38:24",
+      "snippet": "Un nuevo informe revela que el aumento de la morosidad, que alcanzó un nuevo récord en julio, no se explica por mayor crédito disponible ni porque más hogares recurran al financiamiento. Del análisis de datos de la última década, se observa que el año en que más hogares tomaron deuda fue 2019",
+      "url": "https://www.elesquiu.com/politica/2026/9/9/los-hogares-argentinos-no-recurren-mas-al-credito-en-2026-lo-que-cambio-es-que-no-pueden-pagarlos-595837.html",
       "country": [
         "argentina"
       ],
@@ -18,24 +18,43 @@
       ]
     },
     {
-      "title": "Faltas, ausencias y hasta una capacitación en EE.UU.: por qué echaron a siete estatales en Neuquén",
+      "title": "Atlanta acepta vender su cárcel del centro al condado de Fulton por 68 millones de dólares",
+      "source": "infobae",
+      "published_at": "2026-09-09 11:37:03",
+      "snippet": "El acuerdo impulsado por el alcalde Andre Dickens busca sumar 1.300 camas al sistema de detención local y podría modificar los planes de reformas en la prisión de Rice Street",
+      "url": "https://www.infobae.com/estados-unidos/2026/09/09/atlanta-acepta-vender-su-carcel-del-centro-al-condado-de-fulton-por-68-millones-de-dolares/",
+      "country": [
+        "united states of america",
+        "colombia",
+        "argentina",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top",
+        "politics"
+      ]
+    },
+    {
+      "title": "Cuánto hay que ganar para ser de clase media en CABA",
+      "source": "cronista",
+      "published_at": "2026-09-09 11:34:11",
+      "snippet": "El Gobierno porteño publicó las canastas de consumo correspondientes al octavo mes del año, que determinan el ingreso mínimo necesario para que un hogar no sea considerado pobre.",
+      "url": "https://www.cronista.com/economia-politica/cuanto-hay-que-ganar-para-ser-de-clase-media-en-caba-2/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Plottier empieza a recuperar terreno con una obra clave para sus vecinos",
       "source": "adnsur",
-      "published_at": "2026-09-09 11:04:02",
-      "snippet": "El gobierno provincial concretó la mayor cantidad de cesantías en una sola jornada.",
-      "url": "https://www.adnsur.com.ar/sociedad/faltas--ausencias-y-hasta-una-capacitacion-en-ee-uu---por-que-echaron-a-siete-estatales-en-neuquen_a6aa13ccba68e0d8bb0dc46a8",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "El petróleo se dispara y supera los US$100 tras los nuevos ataques de Estados Unidos a buques iraníes",
-      "source": "mdzol",
-      "published_at": "2026-09-09 11:04:00",
-      "snippet": "El barril de Brent volvió a cruzar la barrera de los 100 dólares y alcanzó su precio más alto desde julio.",
-      "url": "https://www.mdzol.com/dinero/el-petroleo-se-dispara-y-supera-los-us100-los-nuevos-ataques-estados-unidos-buques-iranies-n1602910",
+      "published_at": "2026-09-09 11:32:43",
+      "snippet": "El Gobierno provincial llamó a licitación para construir un edificio multipropósito de 1.500 metros cuadrados.",
+      "url": "https://www.adnsur.com.ar/sociedad/plottier-empieza-a-recuperar-terreno-con-una-obra-clave-para-sus-vecinos_a6aa14394a68e0d8bb0dd2c1a",
       "country": [
         "argentina"
       ],
@@ -45,11 +64,11 @@
       ]
     },
     {
-      "title": "Más incertidumbre, más oro: cómo los bancos centrales están rearmando sus reservas",
-      "source": "rosario3",
-      "published_at": "2026-09-09 11:03:00",
-      "snippet": "Autoridades monetarias compraron 23 toneladas netas de oro durante julio y acumulan cerca de 130 toneladas en lo que va del año. El rol de China y Polonia",
-      "url": "https://www.rosario3.com/ecos365/noticias/mas-incertidumbre-mas-oro-como-los-bancos-centrales-estan-rearmando-sus-reservas-20260909-0005.html",
+      "title": "Las pymes españolas generan 42.841 euros anuales por trabajador, un 17% menos que la media europea y muy por debajo de Alemania o Francia",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-09 11:30:38",
+      "snippet": "Las pymes españolas, que representan un 99,9% del tejido productivo del país, generan 42.841 euros anuales por trabajador, un 17% menos que la media de la Unión Europea (UE), de 51.718 millones, y aún menos que las alemanas (62.089 euros) o las francesas (59.803 euros). Esta es una de las principales conclusiones del informe “Dimensión empresarial: diagnóstico y propuestas”, elaborado por Pimec y el Observatorio de la Pyme de Cataluña. El acto ha contado con las intervenciones del presidente de Pimec, Antoni Cañete; el presidente del Observatorio de la Pyme de Cataluña, Oriol Amat, y el delegado permanente de Pimec en Madrid, Ferran Bel.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/09/pymes-espanolas-generan-42-841-134109857.html",
       "country": [
         "argentina"
       ],
@@ -59,15 +78,12 @@
       ]
     },
     {
-      "title": "Yolanda Díaz dice que un despido cuesta de media 8.000 euros y promete una reforma: \"Es baratísimo\"",
-      "source": "infobae",
-      "published_at": "2026-09-09 11:02:16",
-      "snippet": "Yolanda Díaz dice que un despido cuesta de media 8.000 euros y promete una reforma: \"Es baratísimo\"",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/yolanda-diaz-dice-que-un-despido-cuesta-de-media-8000-euros-y-promete-una-reforma-es-baratisimo/",
+      "title": "El petróleo volvió a superar los US$100 tras nuevos ataques en el estrecho de Ormuz",
+      "source": "elonce",
+      "published_at": "2026-09-09 11:30:00",
+      "snippet": "El petróleo Brent superó los US$100 por barril tras nuevos ataques en el estrecho de Ormuz y crecieron los temores por el suministro mundial.",
+      "url": "https://www.elonce.com/economia/el-petroleo-volvio-a-superar-los-us100-tras-nuevos-ataques-en-el-estrecho-de-ormuz.htm",
       "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
         "argentina"
       ],
       "category": [
@@ -76,15 +92,12 @@
       ]
     },
     {
-      "title": "Ciudad de México: cuál es el precio de la gasolina este 9 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-09 11:01:47",
-      "snippet": "La Comisión Nacional de Energía es la entidad responsable de informar todos los días el precio de las gasolinas en México",
-      "url": "https://www.infobae.com/mexico/2026/09/09/ciudad-de-mexico-cual-es-el-precio-de-la-gasolina-este-9-de-septiembre/",
+      "title": "El aumento a estatales de Corrientes llegaría en octubre",
+      "source": "corrienteshoy",
+      "published_at": "2026-09-09 11:29:16",
+      "snippet": "Portal de noticias de la ciudad de Corrientes, actualidad, galerías de fotos, sociales, eventos, carnavales. Información general y radio en vivo.",
+      "url": "https://www.corrienteshoy.com/economia/el-aumento-a-estatales-de-corrientes-llegaria-en-octubre.htm",
       "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
         "argentina"
       ],
       "category": [
@@ -93,32 +106,12 @@
       ]
     },
     {
-      "title": "Euro hoy en Brasil: cotización de apertura del 9 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-09 11:01:25",
-      "snippet": "La moneda europea registra un descenso respecto a la jornada anterior",
-      "url": "https://www.infobae.com/noticias/2026/09/09/euro-hoy-en-brasil-cotizacion-de-apertura-del-9-de-septiembre/",
+      "title": "YPF va por U$S 154.000 millones bajo el RIGI: un tercer buque de GNL y más petróleo de Vaca Muerta",
+      "source": "clarin",
+      "published_at": "2026-09-09 11:28:55",
+      "snippet": "La petrolera proyecta reunir ese monto en inversiones junto con sus socios. La cifra incluye proyectos ya presentados, nuevas ampliaciones y desembolsos distribuidos durante varias décadas.",
+      "url": "https://www.clarin.com/energia-y-mineria/ypf-va-us-154000-millones-rigi-tercer-buque-gnl-petroleo-vaca-muerta_0_Z4R2DW5Mv6.html",
       "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Hacienda afea que la Memoria sobre la incidencia del Estatuto Marco no estime el impacto de los costes de personal",
-      "source": "infobae",
-      "published_at": "2026-09-09 11:01:23",
-      "snippet": "Hacienda afea que la Memoria sobre la incidencia del Estatuto Marco no estime el impacto de los costes de personal",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/hacienda-afea-que-la-memoria-sobre-la-incidencia-del-estatuto-marco-no-estime-el-impacto-de-los-costes-de-personal/",
-      "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
         "argentina"
       ],
       "category": [
