@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T17:25:31Z",
+  "updated_at": "2026-09-09T18:10:33Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Cómo está el euro frente al dólar este 9 de septiembre",
+      "title": "Inditex gana la cifra récord de 2.980 millones en el primer semestre, un 6,8 % más",
       "source": "infobae",
-      "published_at": "2026-09-09 05:16:04",
-      "snippet": "La moneda europea mostró fluctuaciones en su cotización de este día",
-      "url": "https://www.infobae.com/espana/2026/09/09/como-esta-el-euro-frente-al-dolar-este-9-de-septiembre/",
+      "published_at": "2026-09-09 06:01:24",
+      "snippet": "Inditex gana la cifra récord de 2.980 millones en el primer semestre, un 6,8 % más",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/09/inditex-gana-la-cifra-record-de-2980-millones-en-el-primer-semestre-un-68-mas/",
       "country": [
         "argentina",
         "united states of america",
@@ -21,28 +21,11 @@
       ]
     },
     {
-      "title": "Los sectores “perdedores” del modelo no encuentran un piso y se complica la reactivación de la economía",
-      "source": "infobae",
-      "published_at": "2026-09-09 05:12:01",
-      "snippet": "La caída abrupta de 5% en industria y construcción en julio fue más profunda que lo anticipado por los analistas. Advierten por un aumento de la morosidad también en las empresas industriales",
-      "url": "https://www.infobae.com/economia/2026/09/09/los-sectores-perdedores-del-modelo-no-encuentran-un-piso-y-se-complica-la-reactivacion-de-la-economia/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "YPF invertirá u$s 3 millones por hora en 2028",
-      "source": "titulares",
-      "published_at": "2026-09-09 05:05:00",
-      "snippet": "El gobernador de Neuquén, Rolando Figueroa, destacó que «Vaca Muerta es un motor fundamental para el desarrollo económico de la región«, y resaltó la importancia de contar con un marco normativo que incentive la inversión y la generación de empleo. Por su parte, Alberto Weretilneck, gobernador de Río Negro, subrayó que «estamos ante una oportunidad [...]",
-      "url": "https://titulares.ar/ypf-invertira-us-3-millones-por-hora-en-2028/",
+      "title": "«Me parece sano plantearlo»: Patricia Bullrich volvió mostrar preocupación por la economía",
+      "source": "elintransigente",
+      "published_at": "2026-09-09 05:56:22",
+      "snippet": "La senadora advirtió que la industria, la construcción y el comercio atraviesan dificultades, aunque destacó el desempeño de sectores exportadores. The post «Me parece sano plantearlo»: Patricia Bullrich volvió mostrar preocupación por la economía appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+      "url": "https://elintransigente.com/2026/09/patricia-bullrich-economia-sectores/",
       "country": [
         "argentina"
       ],
@@ -52,58 +35,11 @@
       ]
     },
     {
-      "title": "Tung Chee-hwa, el empresario que Pekín eligió para dirigir la Hong Kong poscolonial",
-      "source": "infobae",
-      "published_at": "2026-09-09 05:01:12",
-      "snippet": "Tung Chee-hwa, el empresario que Pekín eligió para dirigir la Hong Kong poscolonial",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/tung-chee-hwa-el-empresario-que-pekin-eligio-para-dirigir-la-hong-kong-poscolonial/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Petroperú recibe los primeros 475 millones de dólares de crédito para mantener operaciones",
-      "source": "infobae",
-      "published_at": "2026-09-09 05:00:39",
-      "snippet": "Petroperú recibe los primeros 475 millones de dólares de crédito para mantener operaciones",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/petroperu-recibe-los-primeros-475-millones-de-dolares-de-credito-para-mantener-operaciones/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Convocan a emprendimientos para participar del Bariloche a la Carta 2026",
-      "source": "elcordillerano",
-      "published_at": "2026-09-09 05:00:37",
-      "snippet": "La Secretaría de Producción y Empleo del Municipio de San Carlos de Bariloche invita a emprendimientos locales de alimentos y bebidas a participar del Stand Colectivo de Comercialización de Bariloche a la Carta (BALC), que se desarrollará del jueves 9 al lunes 12 de octubre de 2026 en el Centro Cívico de Bariloche.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/08/260711-convocan-a-emprendimientos-para-participar-del-bariloche-a-la-carta-2026",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este miércoles 9 de septiembre",
-      "source": "tn",
-      "published_at": "2026-09-09 05:00:36",
-      "snippet": "La cotización del dólar minuto a minuto en los bancos, donde desde abril de 2025 se pueden comprar divisas sin límites. También los precios del Blue, el MEP y el Cripto.",
-      "url": "https://tn.com.ar/economia/2026/09/09/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-miercoles-9-de-septiembre/",
+      "title": "Cambian la fecha del Día del Empleado de Comercio",
+      "source": "eldia_ar",
+      "published_at": "2026-09-09 05:55:58",
+      "snippet": "Tras un acuerdo alcanzado entre la Federación Argentina de Empleados de Comercio y Servicios (FAECYS) y las principales cámaras empresarias del sector, se confirmó de manera oficial el traslado de la conmemoración del Día del Empleado de Comercio, una medida que modificará el ritmo habitual de la actividad comercial...",
+      "url": "https://www.eldia.com/la-ciudad/cambian-la-fecha-del-dia-del-empleado-de-comercio-la-ciudad_1788933358",
       "country": [
         "argentina"
       ],
@@ -113,18 +49,73 @@
       ]
     },
     {
-      "title": "Ahorro de energía tendrá nuevas reglas durante seis meses por el fenómeno de El Niño",
-      "source": "elinformador",
-      "published_at": "2026-09-09 05:00:00",
-      "snippet": "La CREG puso en marcha un esquema transitorio que establece metas individuales de consumo y contempla incentivos para quienes reduzcan su demanda y cobros adicionales en caso de superar determinados límites.",
-      "url": "https://www.elinformador.com.co/index.php/general/79-nacional/358463-ahorro-de-energia-tendra-nuevas-reglas-durante-seis-meses-por-el-fenomeno-de-el-nino",
+      "title": "Inditex vuelve a pisar el acelerador: roza los 20.000 millones de ventas y firma otro récord en el primer semestre",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-09 05:55:15",
+      "snippet": "Inditex ha vuelto a acelerar el paso tras la fuerte moderación de 2025 y ha cerrado el primer semestre fiscal, entre febrero y julio, con nuevos máximos históricos. “Estos excelentes resultados ponen de manifiesto la extraordinaria capacidad de nuestros equipos, que en un entorno global muy complejo han conseguido hacer llegar cada día a nuestros clientes en todo el mundo el producto y la experiencia de moda que demandan. La ambición, la flexibilidad y la innovación son elementos diferenciales que refuerzan el potencial de crecimiento a largo plazo de Inditex”, ha destacado el consejero delegado de la compañía, Óscar García Maceiras.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/09/inditex-vuelve-pisar-acelerador-semestre-134079639.html",
       "country": [
         "argentina"
       ],
       "category": [
         "business",
-        "top",
-        "environment"
+        "top"
+      ]
+    },
+    {
+      "title": "En la Región solo seis estaciones de servicio cuentan con expendio de GNC",
+      "source": "eldia_ar",
+      "published_at": "2026-09-09 05:54:58",
+      "snippet": "Continúan las restricciones en el expendio de GNC en las estaciones de servicio de la Región, una situación que volvió a instalarse con el descenso de las temperaturas registrado en los últimos días.Según informó Camuzzi a este diario, la medida responde al fuerte incremento de la demanda de gas y tiene como...",
+      "url": "https://www.eldia.com/la-ciudad/en-la-region-solo-seis-estaciones-de-servicio-cuentan-con-expendio-de-gnc-la-ciudad_1788933298",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Basural a cielo abierto preocupa a vecinos cerca del Bosque",
+      "source": "eldia_ar",
+      "published_at": "2026-09-09 05:49:58",
+      "snippet": "Vecinos de 72 y 119 denunciaron la formación de un basural a cielo abierto por la acumulación de bolsas rotas, cartones, plásticos y restos de comida sobre la rambla. Advierten que la basura genera malos olores. Además, reclaman una limpieza integral y recolección urgente.",
+      "url": "https://www.eldia.com/la-ciudad/basural-a-cielo-abierto-preocupa-a-vecinos-cerca-del-bosque-la-ciudad_1788932998",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "En picada: industria y construcción retomaron el retroceso",
+      "source": "eldia_ar",
+      "published_at": "2026-09-09 05:42:11",
+      "snippet": "Estos dos rubros claves de la economía cayeron más del 4% en julio. El sector manufacturero sufrió su mayor derrumbe mensual desde marzo de 2025. Cuáles fueron los más castigados",
+      "url": "https://www.eldia.com/politica-y-economia/en-picada-industria-y-construccion-retomaron-el-retroceso-politica-y-economia_1788932531",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Misión comercial de Alak a China, con eje en la producción local",
+      "source": "eldia_ar",
+      "published_at": "2026-09-09 05:38:11",
+      "snippet": "El Intendente viajará para reunirse con empresarios de Shangai, con el fin de promover inversiones para la Ciudad",
+      "url": "https://www.eldia.com/politica-y-economia/mision-comercial-de-alak-a-china-con-eje-en-la-produccion-local-politica-y-economia_1788932291",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
       ]
     }
   ]

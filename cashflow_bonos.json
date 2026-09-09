@@ -39,11 +39,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 10.3,
         "_meta": {
-          "ytm": 0.055458,
-          "duration": 1.4562,
-          "precio": 56.13,
+          "ytm": 0.057052,
+          "duration": 1.453,
+          "precio": 56.0,
           "residual": 61.05,
-          "parity": 91.941
+          "parity": 91.7281
         }
       },
       {
@@ -72,11 +72,11 @@
         "fecha": "2026-09-30",
         "flujo_calc": 0.5,
         "_meta": {
-          "ytm": 0.09086,
-          "duration": 1.843,
-          "precio": 94.83,
+          "ytm": 0.091032,
+          "duration": 1.8426,
+          "precio": 94.8,
           "residual": 100.0,
-          "parity": 94.83
+          "parity": 94.8
         }
       },
       {
@@ -226,11 +226,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 8.24,
         "_meta": {
-          "ytm": 0.064019,
-          "duration": 1.8746,
-          "precio": 58.1,
+          "ytm": 0.063194,
+          "duration": 1.877,
+          "precio": 58.19,
           "residual": 65.92,
-          "parity": 88.1371
+          "parity": 88.2737
         }
       },
       {
@@ -267,11 +267,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 2.0625,
         "_meta": {
-          "ytm": 0.102681,
-          "duration": 4.9313,
-          "precio": 76.25,
+          "ytm": 0.102415,
+          "duration": 4.9335,
+          "precio": 76.35,
           "residual": 100.0,
-          "parity": 76.25
+          "parity": 76.35
         }
       },
       {
@@ -429,11 +429,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 2.5,
         "_meta": {
-          "ytm": 0.105244,
-          "duration": 4.1693,
-          "precio": 78.85,
+          "ytm": 0.105031,
+          "duration": 4.1717,
+          "precio": 78.92,
           "residual": 100.0,
-          "parity": 78.85
+          "parity": 78.92
         }
       },
       {
@@ -530,11 +530,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 2.5,
         "_meta": {
-          "ytm": 0.090457,
-          "duration": 4.3413,
-          "precio": 83.97,
+          "ytm": 0.090649,
+          "duration": 4.3391,
+          "precio": 83.9,
           "residual": 100.0,
-          "parity": 83.97
+          "parity": 83.9
         }
       },
       {
@@ -631,11 +631,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 1.5625,
         "_meta": {
-          "ytm": 0.093806,
-          "duration": 5.5109,
-          "precio": 71.07,
+          "ytm": 0.094292,
+          "duration": 5.5024,
+          "precio": 70.88,
           "residual": 100.0,
-          "parity": 71.07
+          "parity": 70.88
         }
       },
       {
@@ -760,11 +760,11 @@
         "fecha": "2027-01-09",
         "flujo_calc": 1.5625,
         "_meta": {
-          "ytm": 0.085818,
-          "duration": 5.6517,
-          "precio": 74.31,
+          "ytm": 0.085889,
+          "duration": 5.6504,
+          "precio": 74.28,
           "residual": 100.0,
-          "parity": 74.31
+          "parity": 74.28
         }
       },
       {
@@ -954,11 +954,11 @@
         "fecha": "2026-11-30",
         "flujo_calc": 3.25,
         "_meta": {
-          "ytm": 0.101435,
-          "duration": 2.6267,
-          "precio": 92.56,
+          "ytm": 0.1016,
+          "duration": 2.6262,
+          "precio": 92.52,
           "residual": 100.0,
-          "parity": 92.56
+          "parity": 92.52
         }
       },
       {
@@ -991,11 +991,11 @@
         "fecha": "2026-11-02",
         "flujo_calc": 2.5,
         "_meta": {
-          "ytm": 0.02433,
-          "duration": 0.8488,
-          "precio": 104.05,
+          "ytm": 0.023764,
+          "duration": 0.8493,
+          "precio": 104.1,
           "residual": 100.0,
-          "parity": 104.05
+          "parity": 104.1
         }
       },
       {
