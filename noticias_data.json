@@ -1,29 +1,14 @@
 {
-  "updated_at": "2026-09-09T22:07:32Z",
+  "updated_at": "2026-09-09T23:07:42Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Guardá los bulbos en la heladera: el secreto para tener tulipanes de hasta 25 centímetros en primavera",
-      "source": "mdzol",
-      "published_at": "2026-09-09 10:05:00",
-      "snippet": "Guardar los bulbos en heladera es la clave para lograr tulipanes fuertes en primavera, evitando su proximidad con frutas que liberan etileno.",
-      "url": "https://www.mdzol.com/tendencias/guarda-los-bulbos-la-heladera-el-secreto-tener-tulipanes-25-centimetros-primavera-n1602221",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top",
-        "environment"
-      ]
-    },
-    {
-      "title": "Morosidad: con los altos intereses, los bancos compensaron sus pérdidas por cargos de incobrabilidad",
-      "source": "chacodiapordia",
-      "published_at": "2026-09-09 10:02:56",
-      "snippet": "La pérdida de los bancos por las deudas de los morosos “irrecuperables” fue compensada por los intereses netos, según aseguró la Gerencia de Estudios Económicos del Banco Provincia (Bapro). Frente a la elevada morosidad, los bancos están refinanciando las deudas y en el mercado esperan que haya un mayor racionamiento del crédito. En el mercado no esperan que las tasas sigan subiendo y consideran que las refinanciaciones implementadas por las entidades financieras pueden ayudar a sanear el porcentaje de financiamiento en situación irregular, pero avizoran un mayor racionamiento del crédito en moneda local, que difícilmente vuelva a ser en el corto plazo un motor de la actividad económica. “El sistema financiero ganó lo mismo por intereses netos (cobros por préstamos menos pagos por depósitos) de lo que perdió por cargos por incobrabilidad: $16,1 billones”, sostuvo el Bapro. El crecimiento de la morosidad desde fines de 2024 es uno de los temas que domina la agenda pública ya desde hace tiempo. Las causas de este incremento son varias e incluyen el boom del crédito que hubo a inicios del gobierno de Javier Milei, pero fundamentalmente el deterioro del poder adquisitivo de la población argentina y las elevadas tasas de interés a las cuales se endeudaron las familias argentinas en un contexto en el cual la inflación recién comenzaba a desacelerarse. Un informe de 1816 mostró que la Tasa Efectiva Anual (TEA) en agosto fue del 89,2% para los préstamos personales de bancos. Las cifras superaron ampliamente a una inflación que fue del 33,8% en los últimos 12 meses y que se espera ceda al 21,8% de acá a un año. “La suba en la morosidad se ve representada en la fuerte suba de la carga por incobrabilidad sobre el activo de los bancos, evidenciando el aumento absoluto y relativo. En mayo los cargos por incobrabilidad del sector financiero alcanzaron 3,9% frente al 1,1% de 2024”, dijo al respecto el Centro de Economía Política Argentina (CEPA). Según un informe de EcoGo, los bancos suprimieron de sus balances 143.143 préstamos considerados “irrecuperables”. Entre los préstamos en pesos, el monto que se dio de baja representó unos $2,9 billones. Los créditos refinanciados ganan cada vez más peso y se espera un mayor racionamiento de préstamos hacia adelante 1816 estimó que la morosidad en familias trepó del 12,8% al 12,9% en julio, luego de una muy tenue mejora en el mes previo. Este aumento no se dio porque haya subido el saldo en pesos del financiamiento en situación irregular, sino porque cayó el denominador, es decir, el saldo total del crédito. Asimismo, el saldo refinanciado representó el 3,7% del crédito total a familias, un nuevo récord en décadas. Hacia adelante, en LCG ven que el crédito a las familias no va a resurgir fuertemente como en 2024, ya que “los bancos estarán más cautelosos”. La consultora señaló que suele haber dos modelos de estrategia crediticia: ampliar la base de deudores, y que frente a problemas de repago se compense con mayores tasas de interés, o limitar la tasa, restringiendo la cantidad de sujetos de crédito. Frente a ese dilema, intuyen que ocurrirá lo segundo. Ámbito La entrada Morosidad: con los altos intereses, los bancos compensaron sus pérdidas por cargos de incobrabilidad se publicó primero en CHACODIAPORDIA.COM .",
-      "url": "https://chacodiapordia.com/morosidad-con-los-altos-intereses-los-bancos-compensaron-sus-perdidas-por-cargos-de-incobrabilidad/",
+      "title": "UVA o tasa fija: cuál es la diferencia entre los créditos del Banco Nación para comprar un auto",
+      "source": "elsol",
+      "published_at": "2026-09-09 11:04:17",
+      "snippet": "El Banco Nación incorporó una nueva línea de créditos para la compra de vehículos que permite financiar hasta el 100% del valor de la unidad, con un límite de $100 millones por usuario y sin necesidad de constituir una prenda. La propuesta está disponible tanto para clientes como para quienes no tienen sus haberes depositados [...] The post UVA o tasa fija: cuál es la diferencia entre los créditos del Banco Nación para comprar un auto appeared first on Diario El Sol Mendoza .",
+      "url": "https://www.elsol.com.ar/el-pais/uva-o-tasa-fija-cual-es-la-diferencia-entre-los-creditos-del-banco-nacion-para-comprar-un-auto/",
       "country": [
         "argentina"
       ],
@@ -33,56 +18,11 @@
       ]
     },
     {
-      "title": "El ayuntamiento de Elda confirma el principio de acuerdo de Messi para la compra del Eldense",
-      "source": "infobae",
-      "published_at": "2026-09-09 10:02:13",
-      "snippet": "El ayuntamiento de Elda confirma el principio de acuerdo de Messi para la compra del Eldense",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/el-ayuntamiento-de-elda-confirma-el-principio-de-acuerdo-de-messi-para-la-compra-del-eldense/",
-      "country": [
-        "mexico",
-        "argentina",
-        "colombia",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El \"inminente\" paso que darán YPF y Quintana-TSB en la Vaca Muerta mendocina",
-      "source": "mdzol",
-      "published_at": "2026-09-09 10:02:00",
-      "snippet": "Las empresas aceleraron sus planes de inversión en Vaca Muerta Mendoza y comenzarán a perforar nuevos pozos que originalmente tenían compromisos previstos para 2028. En menos de 45 días deberían comenzar los trabajos, según el Gobierno Provincial.",
-      "url": "https://www.mdzol.com/politica/el-inminente-paso-que-daran-ypf-y-quintana-tsb-la-vaca-muerta-mendocina-n1602303",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El petróleo escala y vuelve a US$100 ante mayor tensión entre Estados Unidos e Irán",
-      "source": "chacodiapordia",
-      "published_at": "2026-09-09 10:01:34",
-      "snippet": "Los precios internacionales del petróleo siguen en alza y vuelven a alcanzar los US$100 este miércoles, ante la reactivación de los ataques entre Estados Unidos e Irán y la inseguridad del tránsito fluvial por el estrecho de Ormuz. El Brent, referencia para Europa, avanza durante esta jornada 2,56%, cotizando a 100,43 dólares por barril, mientras que el crudo West Texas Intermediate (WTI), de referencia en Estados Unidos, trepa un 2,12% y se ubica en 95,01 dólares por barril. Antes de la ofensiva estadounidense e israelí contra Teherán, el 28 de febrero, el Brent cotizaba en torno a los 73 dólares por barril, valor al que retornó tras el acuerdo de paz alcanzado entre los países involucrados, pero en las últimas semanas volvió a avanzar por nuevos desencuentros. De esta manera, en lo que va del mes el Brent escala cerca de un 20% y vuelve a los US$100 después de poco más de un mes, ya que la última vez que se había ubicado en ese valor fue el pasado 23 de julio. A pesar de algunos lapsos de calma, el retorno de la tendencia alcista en el precio del crudo se da frente al cese de una nueva tregua entre Estados Unidos e Irán, que se extendió cerca de un mes. La última reanudación de los ataques de ambos lados se da desde fines de agosto. La continuidad de las agresiones y la profundización del alejamiento de las negociaciones producen la inestabilidad del tránsito fluvial seguro en la vía navegable por la que transita una quinta parte del suministro mundial de petróleo. En las últimas horas, Estados Unidos lanzó una serie de ataques contra cinco buques petroleros iraníes. Desde Teherán respondieron con un ataque contra dos buques y una base militar estadounidense en Jordania y ocho petroleros en el Golfo Pérsico. Los mercados temen que los enfrentamientos se incrementen. Al respecto, el secretario de Estado estadounidense, Marco Rubio, sostuvo que “Irán sigue intentando atacar buques de la Armada estadounidense, y cada vez que lo hagan o intenten hacerlo, perderán petroleros”. Agencia NA La entrada El petróleo escala y vuelve a US$100 ante mayor tensión entre Estados Unidos e Irán se publicó primero en CHACODIAPORDIA.COM .",
-      "url": "https://chacodiapordia.com/el-petroleo-escala-y-vuelve-a-us100-ante-mayor-tension-entre-estados-unidos-e-iran/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Gulf celebra sus 125 años con la apertura de su primer centro de distribución para el agro en Tucuman",
-      "source": "elciudadanoweb",
-      "published_at": "2026-09-09 10:00:30",
-      "snippet": "La icónica compañía fortalece su negocio con la inauguración de Gulf Agro, su primer centro de distribución exclusivo para este segmento. La operación permitirá multiplicar el abastecimiento en la región y reducir hasta un 85% los tiempos de entrega, con el objetivo de mejorar la disponibilidad de su línea de curafrutales y acompañar el crecimiento de una de las principales zonas productivas del país La entrada Gulf celebra sus 125 años con la apertura de su primer centro de distribución para el agro en Tucuman se publicó primero en El Ciudadano .",
-      "url": "https://elciudadanoweb.com/gulf-celebra-sus-125-anos-con-la-apertura-de-su-primer-centro-de-distribucion-para-el-agro-en-tucuman/",
+      "title": "Faltas, ausencias y hasta una capacitación en EE.UU.: por qué echaron a siete estatales en Neuquén",
+      "source": "adnsur",
+      "published_at": "2026-09-09 11:04:02",
+      "snippet": "El gobierno provincial concretó la mayor cantidad de cesantías en una sola jornada.",
+      "url": "https://www.adnsur.com.ar/sociedad/faltas--ausencias-y-hasta-una-capacitacion-en-ee-uu---por-que-echaron-a-siete-estatales-en-neuquen_a6aa13ccba68e0d8bb0dc46a8",
       "country": [
         "argentina"
       ],
@@ -91,11 +31,11 @@
       ]
     },
     {
-      "title": "A cuánto cotiza el euro blue hoy, miércoles 9 de septiembre",
-      "source": "perfil",
-      "published_at": "2026-09-09 10:00:00",
-      "snippet": "La divisa europea informal cotiza al alza la tercera rueda cambiaria de la semana, tras una suba de $12 registrada el último lunes. Leer más",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-miercoles-9-de-septiembre.phtml",
+      "title": "El petróleo se dispara y supera los US$100 tras los nuevos ataques de Estados Unidos a buques iraníes",
+      "source": "mdzol",
+      "published_at": "2026-09-09 11:04:00",
+      "snippet": "El barril de Brent volvió a cruzar la barrera de los 100 dólares y alcanzó su precio más alto desde julio.",
+      "url": "https://www.mdzol.com/dinero/el-petroleo-se-dispara-y-supera-los-us100-los-nuevos-ataques-estados-unidos-buques-iranies-n1602910",
       "country": [
         "argentina"
       ],
@@ -105,12 +45,80 @@
       ]
     },
     {
-      "title": "A cuánto cotiza el dólar blue hoy, miércoles 9 de septiembre",
-      "source": "perfil",
-      "published_at": "2026-09-09 10:00:00",
-      "snippet": "La divisa norteamericana paralela cotiza al alza, presentado una leve suba de $5 en la tercera rueda cambiaria de la semana. Leer más",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-9-de-septiembre.phtml",
+      "title": "Más incertidumbre, más oro: cómo los bancos centrales están rearmando sus reservas",
+      "source": "rosario3",
+      "published_at": "2026-09-09 11:03:00",
+      "snippet": "Autoridades monetarias compraron 23 toneladas netas de oro durante julio y acumulan cerca de 130 toneladas en lo que va del año. El rol de China y Polonia",
+      "url": "https://www.rosario3.com/ecos365/noticias/mas-incertidumbre-mas-oro-como-los-bancos-centrales-estan-rearmando-sus-reservas-20260909-0005.html",
       "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Yolanda Díaz dice que un despido cuesta de media 8.000 euros y promete una reforma: \"Es baratísimo\"",
+      "source": "infobae",
+      "published_at": "2026-09-09 11:02:16",
+      "snippet": "Yolanda Díaz dice que un despido cuesta de media 8.000 euros y promete una reforma: \"Es baratísimo\"",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/yolanda-diaz-dice-que-un-despido-cuesta-de-media-8000-euros-y-promete-una-reforma-es-baratisimo/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Ciudad de México: cuál es el precio de la gasolina este 9 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-09 11:01:47",
+      "snippet": "La Comisión Nacional de Energía es la entidad responsable de informar todos los días el precio de las gasolinas en México",
+      "url": "https://www.infobae.com/mexico/2026/09/09/ciudad-de-mexico-cual-es-el-precio-de-la-gasolina-este-9-de-septiembre/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Euro hoy en Brasil: cotización de apertura del 9 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-09 11:01:25",
+      "snippet": "La moneda europea registra un descenso respecto a la jornada anterior",
+      "url": "https://www.infobae.com/noticias/2026/09/09/euro-hoy-en-brasil-cotizacion-de-apertura-del-9-de-septiembre/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Hacienda afea que la Memoria sobre la incidencia del Estatuto Marco no estime el impacto de los costes de personal",
+      "source": "infobae",
+      "published_at": "2026-09-09 11:01:23",
+      "snippet": "Hacienda afea que la Memoria sobre la incidencia del Estatuto Marco no estime el impacto de los costes de personal",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/hacienda-afea-que-la-memoria-sobre-la-incidencia-del-estatuto-marco-no-estime-el-impacto-de-los-costes-de-personal/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
         "argentina"
       ],
       "category": [
