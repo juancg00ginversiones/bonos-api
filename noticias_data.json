@@ -1,14 +1,29 @@
 {
-  "updated_at": "2026-09-09T01:24:22Z",
+  "updated_at": "2026-09-09T15:13:54Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Reapareció Mauricio Novelli para vender un curso de trading financiero tras el escándalo de $LIBRA",
-      "source": "lanacion",
-      "published_at": "2026-09-08 13:23:45",
-      "snippet": "Difundió un video por redes sociales en el que se ufanó de su recorrido profesional e invitó a “aprender” de él; es uno de los protagonistas del caso de la criptomoneda que involucra a Milei",
-      "url": "https://www.lanacion.com.ar/politica/reaparecio-mauricio-novelli-para-vender-un-curso-de-trading-financiero-tras-el-escandalo-de-libra-nid08092026/",
+      "title": "Malvinas: Tierra del Fuego pidió derogar el tratado de inversiones con el Reino Unido",
+      "source": "flipr_ar",
+      "published_at": "2026-09-09 03:08:13",
+      "snippet": "Así lo expresó el secretario de Malvinas de Tierra del Fuego, Andrés Dachary. El planteo llega días después de que...",
+      "url": "https://flipr.com.ar/nacionales/politica/ambito/malvinas-tierra-del-fuego-pidio-derogar-el-tratado-de-inversiones-con-el-reino-unido/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top",
+        "politics"
+      ]
+    },
+    {
+      "title": "Antes de la sesión en Diputados, entidades financieras rechazaron una ley para afrontar la morosidad",
+      "source": "flipr_ar",
+      "published_at": "2026-09-09 03:05:01",
+      "snippet": "Invitados por La Libertad Avanza, representantes de prestadores de crédito se posicionaron en contra de una regulación sistémica. ...",
+      "url": "https://flipr.com.ar/nacionales/politica/ambito/antes-de-la-sesion-en-diputados-entidades-financieras-rechazaron-una-ley-para-afrontar-la-morosidad/",
       "country": [
         "argentina"
       ],
@@ -18,105 +33,84 @@
       ]
     },
     {
-      "title": "El crédito en pesos volvió a caer: el consumo retrocedió en agosto y la morosidad sigue presionando",
+      "title": "ASÍ LO VEO / Producción automotriz en alza",
+      "source": "rionegro",
+      "published_at": "2026-09-09 03:05:00",
+      "snippet": "El sector muestra una recuperación mensual, pero aún no logra revertir la tendencia negativa del año”, afirmó Rodrigo Pérez Graziano, presidente de ADEFA.",
+      "url": "https://www.rionegro.com.ar/autos/asi-lo-veo-produccion-automotriz-en-alza/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Descubre cuánto ganarás al invertir $2 millones",
+      "source": "titulares",
+      "published_at": "2026-09-09 03:02:27",
+      "snippet": "En esta sección se despliegan las opciones de plazos fijos disponibles, y se debe elegir la que se ajuste a las necesidades del ahorrista, en este caso, la de 30 días para obtener la tasa más alta. Luego, se completan los datos solicitados, como el monto a invertir y la cantidad de días, y se [...]",
+      "url": "https://titulares.ar/descubre-cuanto-ganaras-al-invertir-2-millones/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Se recauda más, pero no se invierte en rutas",
+      "source": "surenio_ar",
+      "published_at": "2026-09-09 03:01:00",
+      "snippet": "El impuesto a los combustibles se disparó y es el tributo que más creció en lo que va de la gestión de Javier Milei, pero los recursos no se vuelcan... La entrada Se recauda más, pero no se invierte en rutas se publicó primero en Diario El Sureño .",
+      "url": "https://www.surenio.com.ar/se-recauda-mas-pero-no-se-invierte-en-rutas/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "SUTEF cumple el día 37 de paro por tiempo indeterminado",
+      "source": "surenio_ar",
+      "published_at": "2026-09-09 03:01:00",
+      "snippet": "El gremio fue convocado por legisladores para un encuentro este miércoles, con el objeto de debatir las propuestas para un fondo de financiamiento educativo. El jueves tienen previsto un encuentro... La entrada SUTEF cumple el día 37 de paro por tiempo indeterminado se publicó primero en Diario El Sureño .",
+      "url": "https://www.surenio.com.ar/sutef-cumple-el-dia-37-de-paro-por-tiempo-indeterminado/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top",
+        "politics"
+      ]
+    },
+    {
+      "title": "La industria ante reclamos sin respuestas",
+      "source": "losandes",
+      "published_at": "2026-09-09 03:00:00",
+      "snippet": "En el gobierno nacional deben entender que la microeconomía también hace su aporte para la construcción de la macroeconomía y que cuando cae la actividad se pierde empleo, se debilita el consumo y se afecta seriamente a la capacidad productiva de las empresas. Y que el ataque oficial, además generalizado, hacia la industria nacional, no nos conduce a nada bueno.",
+      "url": "https://www.losandes.com.ar/editorial/la-industria-reclamos-respuestas-n6005230",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Vaca Muerta: 13 petroleras adelantarán u$s154,5 millones para financiar rutas clave en Neuquén",
       "source": "ambito",
-      "published_at": "2026-09-08 13:21:00",
-      "snippet": "El financiamiento al sector privado bajó 1% real durante agosto, la primera contracción desde marzo. Las tarjetas explicaron buena parte del retroceso, mientras los hipotecarios y los préstamos en dólares mantuvieron su crecimiento.",
-      "url": "https://www.ambito.com/finanzas/el-credito-pesos-volvio-caer-el-consumo-retrocedio-agosto-y-la-morosidad-sigue-presionando-n6319772",
+      "published_at": "2026-09-09 03:00:00",
+      "snippet": "YPF, Chevron, Pampa Energía, Pan American Energy, Pluspetrol, Shell, Vista y otras operadoras acordaron con el gobierno de Rolando Figueroa un esquema de anticipos de regalías, cánones y peajes para obras viales.",
+      "url": "https://www.ambito.com/energia/vaca-muerta-13-petroleras-adelantaran-us1545-millones-financiar-rutas-clave-neuquen-n6320102",
       "country": [
         "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Nuevas ballenas sostienen a bitcoin cerca de USD 80.000, pero crece el riesgo de ventas",
-      "source": "criptonoticias",
-      "published_at": "2026-09-08 13:20:03",
-      "snippet": "La oferta en manos de holders de largo plazo aumentó durante la corrección, una señal que el analista Darkfost asocia con un piso más sólido. La entrada Nuevas ballenas sostienen a bitcoin cerca de USD 80.000, pero crece el riesgo de ventas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
-      "url": "https://www.criptonoticias.com/mercados/nuevas-ballenas-bitcoin-precio-ventas/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Por qué el petróleo no supera los u$s100 pese a la crisis en Medio Oriente",
-      "source": "ambito",
-      "published_at": "2026-09-08 13:19:00",
-      "snippet": "El Brent se mantiene cerca de u$s95 pese a la crisis entre Estados Unidos e Irán y las interrupciones en Ormuz. Rutas alternativas, mayor oferta no OPEP, menor demanda china y reservas elevadas ayudan a contener una suba por encima de u$s100.",
-      "url": "https://www.ambito.com/energia/por-que-el-petroleo-no-supera-los-us100-pese-la-crisis-medio-oriente-n6319757",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Ascienden a 112 las personas llegadas este martes en cinco pateras a Baleares",
-      "source": "infobae",
-      "published_at": "2026-09-08 13:18:33",
-      "snippet": "Ascienden a 112 las personas llegadas este martes en cinco pateras a Baleares",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/08/ascienden-a-112-las-personas-llegadas-este-martes-en-cinco-pateras-a-baleares/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Programas Bienestar 2026: qué beneficiarios reciben su pago de hasta 24 mil pesos",
-      "source": "infobae",
-      "published_at": "2026-09-08 13:17:55",
-      "snippet": "os depósitos se realizan de forma directa mediante la tarjeta del Bienestar y alcanzan montos desde 7,300 pesos hasta los 24 mil pesos",
-      "url": "https://www.infobae.com/mexico/2026/09/08/programas-bienestar-2026-que-beneficiarios-reciben-su-pago-de-hasta-24-mil-pesos/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Confirmado: el intendente de Villa Pehuenia-Moquehue irá por la reelección para terminar los proyectos de gestión",
-      "source": "mejorinformado",
-      "published_at": "2026-09-08 13:17:45",
-      "snippet": "Arturo de Gregorio, quien transita su primer mandato como intendente de la localidad neuquina, volverá a postularse el año que viene para darle continuidad a su gestión hasta el 2031.",
-      "url": "https://www.mejorinformado.com/regionales/confirmado-intendente-villa-pehuenia-moquehue-ira-reeleccion-terminar-proyectos-gestion_1788873465",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Euro hoy en Panamá : cotización de apertura del 8 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-08 13:17:01",
-      "snippet": "Este fue el comportamiento de la principal moneda europea en la apertura de divisas",
-      "url": "https://www.infobae.com/noticias/2026/09/08/euro-hoy-en-panama-cotizacion-de-apertura-del-8-de-septiembre/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
       ],
       "category": [
         "business",
