@@ -1,84 +1,105 @@
 {
-  "updated_at": "2026-09-08T23:45:02Z",
+  "updated_at": "2026-09-09T01:10:28Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Misiones recibió apenas $1 millón de Nación para obras en los primeros siete meses de 2026",
-      "source": "primeraedicion",
-      "published_at": "2026-09-08 11:44:39",
-      "snippet": "Misiones quedó prácticamente excluida del reparto nacional de fondos para obras durante los primeros siete meses de 2026. Las transferencias de capital recibidas por la provincia registraron una caída real del 100% frente al mismo período de 2025, de acuerdo con un informe de Labor, Capital & Growth (LCG). Entre enero y julio, la Nación [...] La entrada Misiones recibió apenas $1 millón de Nación para obras en los primeros siete meses de 2026 se publicó primero en Primera Edición .",
-      "url": "https://www.primeraedicion.com.ar/nota/101140124/misiones-fondos-obras-transferencias-capital-2026/",
+      "title": "Estiba, temperatura y despachantes: la logística detrás de exportar alimentos",
+      "source": "infobae",
+      "published_at": "2026-09-08 13:09:51",
+      "snippet": "Marcos Crisistelli, responsable de logística internacional en la industria alimenticia, cuenta cómo la temperatura, la estiba y la elección del despachante definen cada operación de comercio exterior",
+      "url": "https://www.infobae.com/movant/2026/09/07/estiba-temperatura-y-despachantes-la-logistica-detras-de-exportar-alimentos/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Vuelve el cobro de alimentos en 219 escuelas de Miami-Dade mientras caen los fondos federales",
+      "source": "infobae",
+      "published_at": "2026-09-08 13:09:18",
+      "snippet": "El distrito escolar prevé recaudar más por desayunos y almuerzos pagos, mientras baja el aporte federal y persisten dudas sobre cuántas familias deberán asumir el costo completo",
+      "url": "https://www.infobae.com/estados-unidos/2026/09/08/vuelve-el-cobro-de-alimentos-en-219-escuelas-de-miami-dade-mientras-caen-los-fondos-federales/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Imputaron al dueño de Cerdo Negro por una investigación de trata laboral",
+      "source": "nuevodiariodesalta_ar",
+      "published_at": "2026-09-08 13:09:13",
+      "snippet": "La Justicia imputó al propietario de la firma gastronómica Cerdo Negro en el marco de una investigación por presunta trata de personas con fines de explotación laboral agravada. La causa se originó a",
+      "url": "https://nuevodiariodesalta.com.ar/imputaron-al-dueno-de-cerdo-negro-por-una-investigacion-de-trata-laboral/",
       "country": [
         "argentina"
       ],
       "category": [
-        "politics",
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "¿Qué pasa cuando desaparecen 4.000 BTC y la ley no sabe si es un delito?",
+      "source": "criptonoticias",
+      "published_at": "2026-09-08 13:09:11",
+      "snippet": "El hackeo a Liquid Network no forzó ninguna clave. Pero dejó un vacío legal, afectados sin voz y aseguradoras que no pagan. La entrada ¿Qué pasa cuando desaparecen 4.000 BTC y la ley no sabe si es un delito? se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
+      "url": "https://www.criptonoticias.com/tecnologia/4000-btc-desaparecidos-ley-delito/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
         "business"
       ]
     },
     {
-      "title": "El cobre se dispara, pero Chile no logra aprovecharlo: las exportaciones cayeron a su nivel más bajo en más de un año",
-      "source": "flipr_ar",
-      "published_at": "2026-09-08 11:43:06",
-      "snippet": "Las ventas externas del principal productor mundial de cobre alcanzaron US$4.620 millones en agosto, un 14% menos que en julio....",
-      "url": "https://flipr.com.ar/nacionales/economia/perfil/el-cobre-se-dispara-pero-chile-no-logra-aprovecharlo-las-exportaciones-cayeron-a-su-nivel-mas-bajo-en-mas-de-un-ano/",
+      "title": "India: Avícolas advierten que existe un déficit de 1,5 millones de toneladas de harina de soja y piden la apertura de un cupo de importación",
+      "source": "bichosdecampo",
+      "published_at": "2026-09-08 13:08:57",
+      "snippet": "India no suele estar el “radar” del sistema de formación de precios de la harina de soja porque el cultivo está ultra protegido por el gobierno central. Sin embargo, eso podría llegar a cambiar ante la necesidad de consolidar la seguridad alimentaria de la población. La oficina del USDA en Nueva Delhi acaba de recortar [...]",
+      "url": "https://bichosdecampo.com/india-avicolas-advierten-que-existe-un-deficit-de-15-millones-de-toneladas-de-harina-de-soja-y-piden-la-apertura-de-un-cupo-de-importacion/",
       "country": [
         "argentina"
       ],
       "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Para qué sirve colocar una botella de plástico con agua en el techo",
-      "source": "mdzol",
-      "published_at": "2026-09-08 11:40:00",
-      "snippet": "Un método casero y sustentable, la botella con agua en el techo, ilumina espacios oscuros sin generar energía eléctrica, basándose en la física.",
-      "url": "https://www.mdzol.com/tendencias/para-que-sirve-colocar-una-botella-plastico-agua-el-techo-n1598457",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Moratoria 2026: septiembre es el último mes para acceder a los beneficios de pago",
-      "source": "eldiaonline",
-      "published_at": "2026-09-08 11:39:55",
-      "snippet": "Los contribuyentes tienen tiempo hasta fin de mes para regularizar deudas tributarias municipales anteriores a 2026. La adhesión se gestiona de manera digital a través de la plataforma GualeActiva.",
-      "url": "https://www.eldiaonline.com/moratoria-2026-septiembre-es-el-ultimo-mes-para-acceder-a-los-beneficios-de-pago",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Árbitro advirtió dos veces al contrincante de Juani por golpes fuera de lo permitido",
-      "source": "primeraedicion",
-      "published_at": "2026-09-08 11:37:34",
-      "snippet": "Santiago Derli Acosta, el joven de 29 años instructor de kickboxing y quien ofició de árbitro en la exhibición que participó Juan Ignacio Acosta, el adolescente posadeño de 16 años que falleció el 17 de febrero de 2025 por un edema subdural luego de nueve días de agonía, declaró ayer en el Juzgado de Instrucción [...] La entrada Árbitro advirtió dos veces al contrincante de Juani por golpes fuera de lo permitido se publicó primero en Primera Edición .",
-      "url": "https://www.primeraedicion.com.ar/nota/101140138/juani-acosta-arbitro-declaro-golpes-kickboxing/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "politics",
         "business"
       ]
     },
     {
-      "title": "El Municipio de Arroyito entregó 2 nuevas viviendas del Plan Casa",
-      "source": "viapais_ar",
-      "published_at": "2026-09-08 11:37:22",
-      "snippet": "Completan 257 unidades otorgadas durante estos 7 años de gestión.",
-      "url": "https://viapais.com.ar/arroyito/municipio-arroyito-entrego-2-nuevas-viviendas-plan-casa_0_4EaW7XNzbJ.html",
+      "title": "Uruguay mira a India para comercio: Orsi recibió al primer embajador de la historia y el canciller gestiona visita",
+      "source": "infobae",
+      "published_at": "2026-09-08 13:08:42",
+      "snippet": "El gobierno quiere aprovechar el crecimiento de la economía india para aumentar las exportaciones en áreas como alimentos, tecnología, farmacéutica y robótica, y prepara una eventual visita presidencial para 2027",
+      "url": "https://www.infobae.com/america/america-latina/2026/09/08/uruguay-mira-a-india-para-comercio-orsi-recibio-al-primer-embajador-de-la-historia-y-el-canciller-gestiona-visita/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El nuevo beneficio para empresas de Río Negro permite acceder a créditos con 5 puntos menos de tasa",
+      "source": "rionegro",
+      "published_at": "2026-09-08 13:06:07",
+      "snippet": "El nuevo Certificado de Triple Impacto Rionegrino permitirá acceder a una reducción en la tasa de interés de créditos estatales, además de otorgar ventajas en compras públicas y acciones de promoción comercial.",
+      "url": "https://www.rionegro.com.ar/politica/el-nuevo-beneficio-para-empresas-de-rio-negro-permite-acceder-a-creditos-con-5-puntos-menos-de-tasa-4713093/",
       "country": [
         "argentina"
       ],
@@ -88,25 +109,11 @@
       ]
     },
     {
-      "title": "Argentina tuvo el peor resultado de las pruebas PISA desde 2006; denunciarán penalmente a las petroleras en Malvinas",
-      "source": "lanacion",
-      "published_at": "2026-09-08 11:36:53",
-      "snippet": "Además, el Banco Nación bajó la tasa para la refinanciación de deudas; Rusia lanzó un ataque contra Kiev luego de la tregua de tres días; Boca se prepara para recibir a San Pablo. Estas son las noticias de la mañana del martes 8 de septiembre de 2026",
-      "url": "https://www.lanacion.com.ar/sociedad/argentina-tuvo-el-peor-resultado-de-las-pruebas-pisa-desde-2006-denunciaran-penalmente-a-las-nid08092026/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Una diputada patagónica tiene deudas irrecuperables por más de $70 millones",
-      "source": "adnsur",
-      "published_at": "2026-09-08 11:35:26",
-      "snippet": "La morosidad de los argentinos llegó al Congreso Nacional. Entre los casos detectados de legisladores que cuentan con abultadas deudas, algunas incobrables, está el de una diputada patagónica.",
-      "url": "https://www.adnsur.com.ar/politica/una-diputada-patagonica-tiene-deudas-irrecuperables-por-mas-de--70-millones_a6a9ff2b8a68e0d8bb0b76a7b",
+      "title": "Los pesos cambian de destino: qué opciones tienen hoy los ahorristas",
+      "source": "lacalle_ar",
+      "published_at": "2026-09-08 13:04:30",
+      "snippet": "Las tasas volvieron a moverse y ampliaron las diferencias entre bancos, billeteras virtuales y fondos de inversión. Para quienes buscan hacer rendir sus pesos, la decisión ya no pasa solamente por encontrar la tasa más alta, sino por cuánto tiempo pueden dejar el dinero invertido. El movimiento de las tasas volvió a cambiar el escenario [...]",
+      "url": "https://lacalle.com.ar/los-pesos-cambian-de-destino-que-opciones-tienen-hoy-los-ahorristas/",
       "country": [
         "argentina"
       ],
