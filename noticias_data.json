@@ -1,117 +1,126 @@
 {
-  "updated_at": "2026-09-09T18:10:33Z",
+  "updated_at": "2026-09-09T19:09:24Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Inditex gana la cifra récord de 2.980 millones en el primer semestre, un 6,8 % más",
+      "title": "CEOE celebra hoy en Ceuta la reunión de su junta directiva como muestra de apoyo a la ciudad autónoma",
       "source": "infobae",
-      "published_at": "2026-09-09 06:01:24",
-      "snippet": "Inditex gana la cifra récord de 2.980 millones en el primer semestre, un 6,8 % más",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/09/inditex-gana-la-cifra-record-de-2980-millones-en-el-primer-semestre-un-68-mas/",
+      "published_at": "2026-09-09 07:01:13",
+      "snippet": "CEOE celebra hoy en Ceuta la reunión de su junta directiva como muestra de apoyo a la ciudad autónoma",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/ceoe-celebra-hoy-en-ceuta-la-reunion-de-su-junta-directiva-como-muestra-de-apoyo-a-la-ciudad-autonoma/",
+      "country": [
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Dólar blue hoy: a cuánto cotiza este miércoles 09 de septiembre",
+      "source": "clarin",
+      "published_at": "2026-09-09 07:00:07",
+      "snippet": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "url": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-miercoles-09-septiembre_0_DuCQBJlQvy.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Dimite Josep Lluís Trapero, director general de los Mossos",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-09 06:50:17",
+      "snippet": "El director general de los Mossos d’Esquadra, Josep Lluís Trapero, ha presentado esta mañana su dimisión del cargo en el marco de una jornada donde estaba previsto el anuncio de la remodelación del cuerpo policial.",
+      "url": "https://www.laopinioncoruna.es/espana/2026/09/09/dimite-josep-lluis-trapero-mossos-esquadra-cataluna-134093190.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Inditex acelera crecimiento y gana el récord de 2.980 millones en el semestre, un 6,8% más",
+      "source": "infobae",
+      "published_at": "2026-09-09 06:46:32",
+      "snippet": "Inditex acelera crecimiento y gana el récord de 2.980 millones en el semestre, un 6,8% más",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/09/inditex-acelera-crecimiento-y-gana-el-record-de-2980-millones-en-el-semestre-un-68-mas/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Niños a 47.000 euros la pieza",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-09 06:33:56",
+      "snippet": "Alarmadas por la baja producción de bebés de su país, las autoridades de Singapur ofrecen el equivalente a 47.000 euros por niño, pagaderos en cómodos plazos hasta que cumplan los 17 años. Para que luego hablen aquí de las paguitas.",
+      "url": "https://www.laopinioncoruna.es/opinion/2026/09/09/ninos-47-000-euros-pieza-134092945.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El precio del petróleo prosigue su escalada y acecha ya los 100 dólares tras nuevos ataques entre EEUU e Irán",
+      "source": "infobae",
+      "published_at": "2026-09-09 06:30:38",
+      "snippet": "El precio del petróleo prosigue su escalada y acecha ya los 100 dólares tras nuevos ataques entre EEUU e Irán",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/el-precio-del-petroleo-prosigue-su-escalada-y-acecha-ya-los-100-dolares-tras-nuevos-ataques-entre-eeuu-e-iran/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Nuevos créditos hipotecarios: el Gobierno licitó los primeros $200.000 millones para ampliar la oferta de los préstamos",
+      "source": "jujuyaldia_ar",
+      "published_at": "2026-09-09 06:30:00",
+      "snippet": "Se adjudicaron depósitos a plazo entre 13 bancos para aportar recursos a la línea destinada a financiar la compra de viviendas Jujuy al día ® – El gobierno de Javier Milei efectuó la primera licitación de $200.000 millones para poner en marcha el esquema de los nuevos créditos hipotecarios UVA, con recursos que buscarán ampliar [...] La entrada Nuevos créditos hipotecarios: el Gobierno licitó los primeros $200.000 millones para ampliar la oferta de los préstamos se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/09/nuevos-creditos-hipotecarios-el-gobierno-licito-los-primeros-200-000-millones-para-ampliar-la-oferta-de-los-prestamos/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Inditex suma un beneficio récord de 2.980 millones en su primer semestre y acelera las ventas un 9% en el arranque del otoño",
+      "source": "infobae",
+      "published_at": "2026-09-09 06:21:36",
+      "snippet": "El grupo textil fundado por Amancio Ortega elevó su beneficio neto un 6,8% entre febrero y julio, impulsado por las colecciones de primavera, y la nueva temporada llega con ventas al alza",
+      "url": "https://www.infobae.com/espana/2026/09/09/inditex-suma-un-beneficio-record-de-2980-millones-en-su-primer-semestre-y-acelera-las-ventas-un-9-en-el-arranque-del-otono/",
       "country": [
         "argentina",
         "united states of america",
         "colombia",
         "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "«Me parece sano plantearlo»: Patricia Bullrich volvió mostrar preocupación por la economía",
-      "source": "elintransigente",
-      "published_at": "2026-09-09 05:56:22",
-      "snippet": "La senadora advirtió que la industria, la construcción y el comercio atraviesan dificultades, aunque destacó el desempeño de sectores exportadores. The post «Me parece sano plantearlo»: Patricia Bullrich volvió mostrar preocupación por la economía appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-      "url": "https://elintransigente.com/2026/09/patricia-bullrich-economia-sectores/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Cambian la fecha del Día del Empleado de Comercio",
-      "source": "eldia_ar",
-      "published_at": "2026-09-09 05:55:58",
-      "snippet": "Tras un acuerdo alcanzado entre la Federación Argentina de Empleados de Comercio y Servicios (FAECYS) y las principales cámaras empresarias del sector, se confirmó de manera oficial el traslado de la conmemoración del Día del Empleado de Comercio, una medida que modificará el ritmo habitual de la actividad comercial...",
-      "url": "https://www.eldia.com/la-ciudad/cambian-la-fecha-del-dia-del-empleado-de-comercio-la-ciudad_1788933358",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Inditex vuelve a pisar el acelerador: roza los 20.000 millones de ventas y firma otro récord en el primer semestre",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-09 05:55:15",
-      "snippet": "Inditex ha vuelto a acelerar el paso tras la fuerte moderación de 2025 y ha cerrado el primer semestre fiscal, entre febrero y julio, con nuevos máximos históricos. “Estos excelentes resultados ponen de manifiesto la extraordinaria capacidad de nuestros equipos, que en un entorno global muy complejo han conseguido hacer llegar cada día a nuestros clientes en todo el mundo el producto y la experiencia de moda que demandan. La ambición, la flexibilidad y la innovación son elementos diferenciales que refuerzan el potencial de crecimiento a largo plazo de Inditex”, ha destacado el consejero delegado de la compañía, Óscar García Maceiras.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/09/inditex-vuelve-pisar-acelerador-semestre-134079639.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "En la Región solo seis estaciones de servicio cuentan con expendio de GNC",
-      "source": "eldia_ar",
-      "published_at": "2026-09-09 05:54:58",
-      "snippet": "Continúan las restricciones en el expendio de GNC en las estaciones de servicio de la Región, una situación que volvió a instalarse con el descenso de las temperaturas registrado en los últimos días.Según informó Camuzzi a este diario, la medida responde al fuerte incremento de la demanda de gas y tiene como...",
-      "url": "https://www.eldia.com/la-ciudad/en-la-region-solo-seis-estaciones-de-servicio-cuentan-con-expendio-de-gnc-la-ciudad_1788933298",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Basural a cielo abierto preocupa a vecinos cerca del Bosque",
-      "source": "eldia_ar",
-      "published_at": "2026-09-09 05:49:58",
-      "snippet": "Vecinos de 72 y 119 denunciaron la formación de un basural a cielo abierto por la acumulación de bolsas rotas, cartones, plásticos y restos de comida sobre la rambla. Advierten que la basura genera malos olores. Además, reclaman una limpieza integral y recolección urgente.",
-      "url": "https://www.eldia.com/la-ciudad/basural-a-cielo-abierto-preocupa-a-vecinos-cerca-del-bosque-la-ciudad_1788932998",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "En picada: industria y construcción retomaron el retroceso",
-      "source": "eldia_ar",
-      "published_at": "2026-09-09 05:42:11",
-      "snippet": "Estos dos rubros claves de la economía cayeron más del 4% en julio. El sector manufacturero sufrió su mayor derrumbe mensual desde marzo de 2025. Cuáles fueron los más castigados",
-      "url": "https://www.eldia.com/politica-y-economia/en-picada-industria-y-construccion-retomaron-el-retroceso-politica-y-economia_1788932531",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Misión comercial de Alak a China, con eje en la producción local",
-      "source": "eldia_ar",
-      "published_at": "2026-09-09 05:38:11",
-      "snippet": "El Intendente viajará para reunirse con empresarios de Shangai, con el fin de promover inversiones para la Ciudad",
-      "url": "https://www.eldia.com/politica-y-economia/mision-comercial-de-alak-a-china-con-eje-en-la-produccion-local-politica-y-economia_1788932291",
-      "country": [
-        "argentina"
       ],
       "category": [
         "business",
