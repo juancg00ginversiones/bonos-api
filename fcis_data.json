@@ -10,10 +10,10 @@
       "rescate": "T+0",
       "riesgo": "Conservador",
       "nombre_api": "Balanz Capital Money Market - Clase B",
-      "fecha": "2026-09-07",
-      "vcp": 12776.11,
-      "patrimonio": 144590740572.76,
-      "tna": 18.86
+      "fecha": "2026-09-08",
+      "vcp": 12782.915,
+      "patrimonio": 163219116716.14,
+      "tna": 19.44
     },
     {
       "broker": "Balanz",
@@ -23,10 +23,10 @@
       "rescate": "T+0",
       "riesgo": "Conservador",
       "nombre_api": "Balanz Lecaps - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 2119.972,
-      "patrimonio": 79105706610.15,
-      "tna": 22.29
+      "fecha": "2026-09-08",
+      "vcp": 2121.2,
+      "patrimonio": 79072273349.43,
+      "tna": 21.14
     },
     {
       "broker": "Balanz",
@@ -36,10 +36,10 @@
       "rescate": "T+1",
       "riesgo": "Conservador",
       "nombre_api": "Balanz Capital Ahorro - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 247018.857,
-      "patrimonio": 426684606028.85,
-      "tna": 9.29
+      "fecha": "2026-09-08",
+      "vcp": 247148.061,
+      "patrimonio": 427561869960,
+      "tna": 19.09
     },
     {
       "broker": "Balanz",
@@ -49,10 +49,10 @@
       "rescate": "T+1",
       "riesgo": "Moderado",
       "nombre_api": "Balanz Credito Privado - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 1471.347,
-      "patrimonio": 87613320692.67,
-      "tna": 19.81
+      "fecha": "2026-09-08",
+      "vcp": 1472.358,
+      "patrimonio": 88330874402.83,
+      "tna": 25.08
     },
     {
       "broker": "Balanz",
@@ -62,10 +62,10 @@
       "rescate": "T+1",
       "riesgo": "Moderado",
       "nombre_api": "Balanz Performance III - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 10091.477,
-      "patrimonio": 23864132275.83,
-      "tna": 40.44
+      "fecha": "2026-09-08",
+      "vcp": 10060.867,
+      "patrimonio": 23720046142.83,
+      "tna": null
     },
     {
       "broker": "Balanz",
@@ -75,10 +75,10 @@
       "rescate": "T+1",
       "riesgo": "Moderado",
       "nombre_api": "Balanz Institucional - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 121780.072,
-      "patrimonio": 107643188637.96,
-      "tna": 22.09
+      "fecha": "2026-09-08",
+      "vcp": 121735.504,
+      "patrimonio": 107582963046.23,
+      "tna": -13.36
     },
     {
       "broker": "Balanz",
@@ -88,10 +88,10 @@
       "rescate": "T+0",
       "riesgo": "Moderado",
       "nombre_api": "Balanz Opportunity - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 42073.381,
-      "patrimonio": 17677735942.03,
-      "tna": 18.73
+      "fecha": "2026-09-08",
+      "vcp": 42101.548,
+      "patrimonio": 17644351096.3,
+      "tna": 24.44
     },
     {
       "broker": "Balanz",
@@ -101,10 +101,10 @@
       "rescate": "T+1",
       "riesgo": "Audaz",
       "nombre_api": "Balanz Long Pesos - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 2221.328,
-      "patrimonio": 20746605221.63,
-      "tna": 6.01
+      "fecha": "2026-09-08",
+      "vcp": 2223.576,
+      "patrimonio": 20659787297.02,
+      "tna": 36.94
     },
     {
       "broker": "Balanz",
@@ -114,10 +114,10 @@
       "rescate": "T+1",
       "riesgo": "Audaz",
       "nombre_api": "Balanz Capital Renta Fija - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 237780.745,
-      "patrimonio": 51101850090.38,
-      "tna": 12.53
+      "fecha": "2026-09-08",
+      "vcp": 237498.825,
+      "patrimonio": 51059069384.54,
+      "tna": -43.28
     },
     {
       "broker": "Balanz",
@@ -127,10 +127,10 @@
       "rescate": "T+1",
       "riesgo": "Moderado",
       "nombre_api": "Balanz Excalibur Regisseur - Clase B",
-      "fecha": "2026-09-07",
-      "vcp": 172192.385,
-      "patrimonio": 76491186773.92,
-      "tna": 16.86
+      "fecha": "2026-09-08",
+      "vcp": 172121.834,
+      "patrimonio": 76459846570.95,
+      "tna": -14.95
     },
     {
       "broker": "Balanz",
@@ -140,10 +140,10 @@
       "rescate": "T+1",
       "riesgo": "Conservador",
       "nombre_api": "Balanz Capital Estrategia I USD - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 1171.666,
-      "patrimonio": 340263991.17,
-      "tna": 2.83
+      "fecha": "2026-09-08",
+      "vcp": 1171.841,
+      "patrimonio": 341862200.11,
+      "tna": 5.45
     },
     {
       "broker": "Balanz",
@@ -179,10 +179,10 @@
       "rescate": "T+2",
       "riesgo": "Moderado",
       "nombre_api": "Balanz Capital Sudamericano - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 1068.004,
-      "patrimonio": 6909359.15,
-      "tna": 0.3
+      "fecha": "2026-09-08",
+      "vcp": 1068.096,
+      "patrimonio": 6885694.26,
+      "tna": 3.14
     },
     {
       "broker": "IOL",
@@ -192,10 +192,10 @@
       "rescate": "T+0",
       "riesgo": "Conservador",
       "nombre_api": "Consultatio Renta Nacional - Clase B",
-      "fecha": "2026-09-07",
-      "vcp": 255964.473,
-      "patrimonio": 85569060658.04,
-      "tna": 4.77
+      "fecha": "2026-09-08",
+      "vcp": 256155.488,
+      "patrimonio": 85683709407.83,
+      "tna": 27.24
     },
     {
       "broker": "IOL",
@@ -205,10 +205,10 @@
       "rescate": "T+1",
       "riesgo": "Conservador",
       "nombre_api": "Consultatio Ahorro Plus Argentina F.C.I. - Clase B",
-      "fecha": "2026-09-07",
-      "vcp": 246549.804,
-      "patrimonio": 40757575852.55,
-      "tna": 9.25
+      "fecha": "2026-09-08",
+      "vcp": 246629.397,
+      "patrimonio": 40573233242.16,
+      "tna": 11.78
     },
     {
       "broker": "IOL",
@@ -218,10 +218,10 @@
       "rescate": "T+1",
       "riesgo": "Moderado",
       "nombre_api": "Consultatio Renta Local - Clase B",
-      "fecha": "2026-09-07",
-      "vcp": 125255.792,
-      "patrimonio": 28456627210.44,
-      "tna": 16.16
+      "fecha": "2026-09-08",
+      "vcp": 125313.04,
+      "patrimonio": 32645410817.9,
+      "tna": 16.68
     },
     {
       "broker": "IOL",
@@ -231,10 +231,10 @@
       "rescate": "T+1",
       "riesgo": "Moderado",
       "nombre_api": "Consultatio Multimercado I - Clase C",
-      "fecha": "2026-09-07",
-      "vcp": 1739.166,
-      "patrimonio": 16520407597.58,
-      "tna": 26.09
+      "fecha": "2026-09-08",
+      "vcp": 1741.196,
+      "patrimonio": 16539688325.52,
+      "tna": 42.6
     },
     {
       "broker": "IOL",
@@ -244,10 +244,10 @@
       "rescate": "T+1",
       "riesgo": "Audaz",
       "nombre_api": "Consultatio Retorno Total - Clase B",
-      "fecha": "2026-09-07",
-      "vcp": 81452.199,
-      "patrimonio": 99227768.77,
-      "tna": 2.42
+      "fecha": "2026-09-08",
+      "vcp": 81518.012,
+      "patrimonio": 99307945.05,
+      "tna": 29.49
     },
     {
       "broker": "IOL",
@@ -257,10 +257,10 @@
       "rescate": "T+1",
       "riesgo": "Moderado",
       "nombre_api": "SBS Patrimonio IX - Clase B",
-      "fecha": "2026-09-07",
-      "vcp": 1077.809,
-      "patrimonio": 52353130683.7,
-      "tna": 10.13
+      "fecha": "2026-09-08",
+      "vcp": 1079.047,
+      "patrimonio": 52413270576.82,
+      "tna": 41.92
     },
     {
       "broker": "IOL",
@@ -270,10 +270,10 @@
       "rescate": "T+1",
       "riesgo": "Moderado",
       "nombre_api": "IOL Portafolio Potenciado - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 1593.817,
-      "patrimonio": 29039749908.39,
-      "tna": 18.12
+      "fecha": "2026-09-08",
+      "vcp": 1596.134,
+      "patrimonio": 29040577844.41,
+      "tna": 53.06
     },
     {
       "broker": "IOL",
@@ -283,10 +283,10 @@
       "rescate": "T+1",
       "riesgo": "Conservador",
       "nombre_api": "IOL Cash Management - Clase A",
-      "fecha": "2026-09-07",
-      "vcp": 12077.052,
-      "patrimonio": 93631877473.01,
-      "tna": 3.92
+      "fecha": "2026-09-08",
+      "vcp": 12083.961,
+      "patrimonio": 93590615573.93,
+      "tna": 20.88
     },
     {
       "broker": "IOL",

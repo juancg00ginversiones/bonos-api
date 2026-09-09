@@ -1,48 +1,14 @@
 {
-  "updated_at": "2026-09-09T01:10:28Z",
+  "updated_at": "2026-09-09T01:24:22Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Estiba, temperatura y despachantes: la logística detrás de exportar alimentos",
-      "source": "infobae",
-      "published_at": "2026-09-08 13:09:51",
-      "snippet": "Marcos Crisistelli, responsable de logística internacional en la industria alimenticia, cuenta cómo la temperatura, la estiba y la elección del despachante definen cada operación de comercio exterior",
-      "url": "https://www.infobae.com/movant/2026/09/07/estiba-temperatura-y-despachantes-la-logistica-detras-de-exportar-alimentos/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Vuelve el cobro de alimentos en 219 escuelas de Miami-Dade mientras caen los fondos federales",
-      "source": "infobae",
-      "published_at": "2026-09-08 13:09:18",
-      "snippet": "El distrito escolar prevé recaudar más por desayunos y almuerzos pagos, mientras baja el aporte federal y persisten dudas sobre cuántas familias deberán asumir el costo completo",
-      "url": "https://www.infobae.com/estados-unidos/2026/09/08/vuelve-el-cobro-de-alimentos-en-219-escuelas-de-miami-dade-mientras-caen-los-fondos-federales/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Imputaron al dueño de Cerdo Negro por una investigación de trata laboral",
-      "source": "nuevodiariodesalta_ar",
-      "published_at": "2026-09-08 13:09:13",
-      "snippet": "La Justicia imputó al propietario de la firma gastronómica Cerdo Negro en el marco de una investigación por presunta trata de personas con fines de explotación laboral agravada. La causa se originó a",
-      "url": "https://nuevodiariodesalta.com.ar/imputaron-al-dueno-de-cerdo-negro-por-una-investigacion-de-trata-laboral/",
+      "title": "Reapareció Mauricio Novelli para vender un curso de trading financiero tras el escándalo de $LIBRA",
+      "source": "lanacion",
+      "published_at": "2026-09-08 13:23:45",
+      "snippet": "Difundió un video por redes sociales en el que se ufanó de su recorrido profesional e invitó a “aprender” de él; es uno de los protagonistas del caso de la criptomoneda que involucra a Milei",
+      "url": "https://www.lanacion.com.ar/politica/reaparecio-mauricio-novelli-para-vender-un-curso-de-trading-financiero-tras-el-escandalo-de-libra-nid08092026/",
       "country": [
         "argentina"
       ],
@@ -52,11 +18,25 @@
       ]
     },
     {
-      "title": "¿Qué pasa cuando desaparecen 4.000 BTC y la ley no sabe si es un delito?",
+      "title": "El crédito en pesos volvió a caer: el consumo retrocedió en agosto y la morosidad sigue presionando",
+      "source": "ambito",
+      "published_at": "2026-09-08 13:21:00",
+      "snippet": "El financiamiento al sector privado bajó 1% real durante agosto, la primera contracción desde marzo. Las tarjetas explicaron buena parte del retroceso, mientras los hipotecarios y los préstamos en dólares mantuvieron su crecimiento.",
+      "url": "https://www.ambito.com/finanzas/el-credito-pesos-volvio-caer-el-consumo-retrocedio-agosto-y-la-morosidad-sigue-presionando-n6319772",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Nuevas ballenas sostienen a bitcoin cerca de USD 80.000, pero crece el riesgo de ventas",
       "source": "criptonoticias",
-      "published_at": "2026-09-08 13:09:11",
-      "snippet": "El hackeo a Liquid Network no forzó ninguna clave. Pero dejó un vacío legal, afectados sin voz y aseguradoras que no pagan. La entrada ¿Qué pasa cuando desaparecen 4.000 BTC y la ley no sabe si es un delito? se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
-      "url": "https://www.criptonoticias.com/tecnologia/4000-btc-desaparecidos-ley-delito/",
+      "published_at": "2026-09-08 13:20:03",
+      "snippet": "La oferta en manos de holders de largo plazo aumentó durante la corrección, una señal que el analista Darkfost asocia con un piso más sólido. La entrada Nuevas ballenas sostienen a bitcoin cerca de USD 80.000, pero crece el riesgo de ventas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
+      "url": "https://www.criptonoticias.com/mercados/nuevas-ballenas-bitcoin-precio-ventas/",
       "country": [
         "argentina"
       ],
@@ -65,24 +45,25 @@
       ]
     },
     {
-      "title": "India: Avícolas advierten que existe un déficit de 1,5 millones de toneladas de harina de soja y piden la apertura de un cupo de importación",
-      "source": "bichosdecampo",
-      "published_at": "2026-09-08 13:08:57",
-      "snippet": "India no suele estar el “radar” del sistema de formación de precios de la harina de soja porque el cultivo está ultra protegido por el gobierno central. Sin embargo, eso podría llegar a cambiar ante la necesidad de consolidar la seguridad alimentaria de la población. La oficina del USDA en Nueva Delhi acaba de recortar [...]",
-      "url": "https://bichosdecampo.com/india-avicolas-advierten-que-existe-un-deficit-de-15-millones-de-toneladas-de-harina-de-soja-y-piden-la-apertura-de-un-cupo-de-importacion/",
+      "title": "Por qué el petróleo no supera los u$s100 pese a la crisis en Medio Oriente",
+      "source": "ambito",
+      "published_at": "2026-09-08 13:19:00",
+      "snippet": "El Brent se mantiene cerca de u$s95 pese a la crisis entre Estados Unidos e Irán y las interrupciones en Ormuz. Rutas alternativas, mayor oferta no OPEP, menor demanda china y reservas elevadas ayudan a contener una suba por encima de u$s100.",
+      "url": "https://www.ambito.com/energia/por-que-el-petroleo-no-supera-los-us100-pese-la-crisis-medio-oriente-n6319757",
       "country": [
         "argentina"
       ],
       "category": [
-        "business"
+        "business",
+        "top"
       ]
     },
     {
-      "title": "Uruguay mira a India para comercio: Orsi recibió al primer embajador de la historia y el canciller gestiona visita",
+      "title": "Ascienden a 112 las personas llegadas este martes en cinco pateras a Baleares",
       "source": "infobae",
-      "published_at": "2026-09-08 13:08:42",
-      "snippet": "El gobierno quiere aprovechar el crecimiento de la economía india para aumentar las exportaciones en áreas como alimentos, tecnología, farmacéutica y robótica, y prepara una eventual visita presidencial para 2027",
-      "url": "https://www.infobae.com/america/america-latina/2026/09/08/uruguay-mira-a-india-para-comercio-orsi-recibio-al-primer-embajador-de-la-historia-y-el-canciller-gestiona-visita/",
+      "published_at": "2026-09-08 13:18:33",
+      "snippet": "Ascienden a 112 las personas llegadas este martes en cinco pateras a Baleares",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/08/ascienden-a-112-las-personas-llegadas-este-martes-en-cinco-pateras-a-baleares/",
       "country": [
         "argentina",
         "united states of america",
@@ -95,11 +76,28 @@
       ]
     },
     {
-      "title": "El nuevo beneficio para empresas de Río Negro permite acceder a créditos con 5 puntos menos de tasa",
-      "source": "rionegro",
-      "published_at": "2026-09-08 13:06:07",
-      "snippet": "El nuevo Certificado de Triple Impacto Rionegrino permitirá acceder a una reducción en la tasa de interés de créditos estatales, además de otorgar ventajas en compras públicas y acciones de promoción comercial.",
-      "url": "https://www.rionegro.com.ar/politica/el-nuevo-beneficio-para-empresas-de-rio-negro-permite-acceder-a-creditos-con-5-puntos-menos-de-tasa-4713093/",
+      "title": "Programas Bienestar 2026: qué beneficiarios reciben su pago de hasta 24 mil pesos",
+      "source": "infobae",
+      "published_at": "2026-09-08 13:17:55",
+      "snippet": "os depósitos se realizan de forma directa mediante la tarjeta del Bienestar y alcanzan montos desde 7,300 pesos hasta los 24 mil pesos",
+      "url": "https://www.infobae.com/mexico/2026/09/08/programas-bienestar-2026-que-beneficiarios-reciben-su-pago-de-hasta-24-mil-pesos/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Confirmado: el intendente de Villa Pehuenia-Moquehue irá por la reelección para terminar los proyectos de gestión",
+      "source": "mejorinformado",
+      "published_at": "2026-09-08 13:17:45",
+      "snippet": "Arturo de Gregorio, quien transita su primer mandato como intendente de la localidad neuquina, volverá a postularse el año que viene para darle continuidad a su gestión hasta el 2031.",
+      "url": "https://www.mejorinformado.com/regionales/confirmado-intendente-villa-pehuenia-moquehue-ira-reeleccion-terminar-proyectos-gestion_1788873465",
       "country": [
         "argentina"
       ],
@@ -109,13 +107,16 @@
       ]
     },
     {
-      "title": "Los pesos cambian de destino: qué opciones tienen hoy los ahorristas",
-      "source": "lacalle_ar",
-      "published_at": "2026-09-08 13:04:30",
-      "snippet": "Las tasas volvieron a moverse y ampliaron las diferencias entre bancos, billeteras virtuales y fondos de inversión. Para quienes buscan hacer rendir sus pesos, la decisión ya no pasa solamente por encontrar la tasa más alta, sino por cuánto tiempo pueden dejar el dinero invertido. El movimiento de las tasas volvió a cambiar el escenario [...]",
-      "url": "https://lacalle.com.ar/los-pesos-cambian-de-destino-que-opciones-tienen-hoy-los-ahorristas/",
+      "title": "Euro hoy en Panamá : cotización de apertura del 8 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-08 13:17:01",
+      "snippet": "Este fue el comportamiento de la principal moneda europea en la apertura de divisas",
+      "url": "https://www.infobae.com/noticias/2026/09/08/euro-hoy-en-panama-cotizacion-de-apertura-del-8-de-septiembre/",
       "country": [
-        "argentina"
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
       ],
       "category": [
         "business",
