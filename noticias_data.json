@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T15:52:54Z",
+  "updated_at": "2026-09-09T16:58:22Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "\"Hay más de 6 millones de personas que tienen 90 días de mora\", afirmó Diego Giuliano en QR!",
-      "source": "perfil",
-      "published_at": "2026-09-09 03:45:31",
-      "snippet": "El legislador agregó: \"Ni les cuento cuando avanzamos sobre lo que es el endeudamiento informal porque el 60% de las personas que se endeudan lo hacen para comprar alimentos o pagar otras deudas que ya contrajeron en otro momento\". Leer más",
-      "url": "https://www.perfil.com/noticias/masperfil/hay-mas-de-6-millones-de-personas-que-tienen-90-dias-de-mora-afirmo-diego-giuliano-en-qr.phtml",
+      "title": "La suba del crudo golpea a Wall Street",
+      "source": "eldia_ar",
+      "published_at": "2026-09-09 04:54:30",
+      "snippet": "Wall Street cerró ayer con pérdidas, presionada por la fuerte suba del precio del petróleo, que eleva los costos para las empresas y alimenta de nuevo los temores sobre la inflación. El Dow Jones cayó 1,17%, el Nasdaq cedió 0,32% y el S&P 500 retrocedió 0,58%.Las tensiones geopolíticas en Medio Oriente volvieron...",
+      "url": "https://www.eldia.com/el-mundo/la-suba-del-crudo-golpea-a-wall-street-el-mundo_1788929670",
       "country": [
         "argentina"
       ],
@@ -18,91 +18,15 @@
       ]
     },
     {
-      "title": "Todo listo para el inicio de la Expo Catamarca 2026 en el Predio Ferial",
-      "source": "elancasti_ar",
-      "published_at": "2026-09-09 03:33:00",
-      "snippet": "La segunda edición de la muestra, organizada por la FEC junto al Gobierno provincial, reunirá paneles económicos, actividades y un espacio de descuentos para el consumo local.",
-      "url": "https://www.elancasti.com.ar/edicion-impresa/todo-listo-el-inicio-la-expo-catamarca-2026-el-predio-ferial-n621159",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El gasto en conciertos sanitarios con entidades privadas aumenta un 48% en una década: Cataluña lidera y destina el 21,6% de su presupuesto",
+      "title": "La Argentina resistió la turbulencia global, pero el mercado espera dos datos clave que definirán el ánimo de los inversores",
       "source": "infobae",
-      "published_at": "2026-09-09 03:30:00",
-      "snippet": "La comunidad autónoma casi triplica la media nacional, situada en el 8,5%, mientras Madrid ocupa el segundo lugar con un 12,2% de su gasto sanitario destinado a la privada concertada",
-      "url": "https://www.infobae.com/espana/2026/09/09/el-gasto-en-conciertos-sanitarios-con-entidades-privadas-aumenta-un-48-en-una-decada-cataluna-lidera-y-destina-el-216-de-su-presupuesto/",
+      "published_at": "2026-09-09 04:50:39",
+      "snippet": "La suba del petróleo y de los rendimientos internacionales presionó a los activos, aunque los bonos y las acciones argentinas lograron sortear las caídas. La inflación y la licitación del Tesoro, en la mira de los mercados",
+      "url": "https://www.infobae.com/economia/2026/09/09/la-argentina-resistio-la-turbulencia-global-pero-el-mercado-espera-dos-datos-clave-que-definiran-el-animo-de-los-inversores/",
       "country": [
         "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Uno de cada cuatro jóvenes que busca trabajo en España no lo consigue",
-      "source": "infobae",
-      "published_at": "2026-09-09 03:30:00",
-      "snippet": "El último boletín del Banco de España muestra cómo ha sido la evolución del desempleo juvenil desde 2020 hasta hoy y revela que nuestro país triplica la tasa de paro de Alemania",
-      "url": "https://www.infobae.com/espana/2026/09/09/uno-de-cada-cuatro-jovenes-que-busca-trabajo-en-espana-no-lo-consigue/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Créditos +Autos con BNA: financiamiento en UVA y pesos para 0km y usados",
-      "source": "mdzol",
-      "published_at": "2026-09-09 03:30:00",
-      "snippet": "Banco Nación sumó una modalidad en UVA a su línea de préstamos personales para la compra de vehículos.",
-      "url": "https://www.mdzol.com/mdz-autos/creditos-autos-bna-financiamiento-uva-y-pesos-0km-y-usados-n1601313",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Los ingresos de Neuquén superan la inflación por las regalías y un impuesto ligado a Vaca Muerta",
-      "source": "rionegro",
-      "published_at": "2026-09-09 03:30:00",
-      "snippet": "La recaudación provincial anotó una leve caída en agosto, aunque la variación interanual se mantuvo en terreno positivo. La actividad hidrocarburífera y el precio del barril de petróleo, otra vez claves para el Gobierno.",
-      "url": "https://www.rionegro.com.ar/politica/los-ingresos-de-neuquen-superan-la-inflacion-por-las-regalias-y-un-impuesto-ligado-a-vaca-muerta/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "EE.UU. aprueba US$10 millones para financiar mipymes en Honduras, pero la mitad estará ligada al comercio estadounidense",
-      "source": "infobae",
-      "published_at": "2026-09-09 03:26:55",
-      "snippet": "La DFC otorgará a MiCrédito una línea equivalente a unos L268,5 millones para ampliar préstamos a pequeños negocios. Al menos US$5 millones deberán respaldar compras de bienes y servicios estadounidenses.",
-      "url": "https://www.infobae.com/honduras/2026/09/09/eeuu-aprueba-us10-millones-para-financiar-mipymes-en-honduras-pero-la-mitad-estara-ligada-al-comercio-estadounidense/",
-      "country": [
-        "argentina",
-        "colombia",
         "mexico",
+        "colombia",
         "united states of america"
       ],
       "category": [
@@ -111,12 +35,91 @@
       ]
     },
     {
-      "title": "Dólar hoy: a cuánto cotiza este miércoles 9 de septiembre",
-      "source": "ambito",
-      "published_at": "2026-09-09 03:26:09",
-      "snippet": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-      "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-9-septiembre-n6320136",
+      "title": "Supermiércoles en el Senado: Banco Central, Inocencia Fiscal II, inversiones y obra pública",
+      "source": "infobae",
+      "published_at": "2026-09-09 04:49:02",
+      "snippet": "Festín de comisiones desde las 10.30. Intentos libertarios para dictaminar las iniciativas relacionadas con la entidad monetaria y los dólares “del colchón”. A las 14 habrá Labor Parlamentaria y se confirmará la sesión de mañana",
+      "url": "https://www.infobae.com/politica/2026/09/09/supermiercoles-en-el-senado-banco-central-inocencia-fiscal-ii-inversiones-y-obra-publica/",
       "country": [
+        "argentina",
+        "mexico",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Entre Malvinas y la economía: el Gobierno busca evitar que la agenda se le escape",
+      "source": "infobae",
+      "published_at": "2026-09-09 04:47:05",
+      "snippet": "Fuerte caída de la industria y la construcción a pesar del mensaje oficial. La oposición conseguirá quórum para debatir morosidad y emergencia en discapacidad. Reforma electoral y desconfianza de aliados. Ausencia camporista en homenaje a De La Sota. Brito, presente",
+      "url": "https://www.infobae.com/politica/2026/09/09/entre-malvinas-y-la-economia-el-gobierno-busca-evitar-que-la-agenda-se-le-escape/",
+      "country": [
+        "argentina",
+        "mexico",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Denuncian más contratados foráneos en la Municipalidad de Tartagal",
+      "source": "nuevodiariodesalta_ar",
+      "published_at": "2026-09-09 04:32:00",
+      "snippet": "La contratación de periodistas, consultores políticos, diseñadores y creadores de contenido que no residen en Tartagal volvió a sembrar alarma. La ex concejal Silvia Zabala difundió documentación corr",
+      "url": "https://nuevodiariodesalta.com.ar/denuncian-mas-contratados-foraneos-en-la-municipalidad-de-tartagal/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Jubilaciones y asignaciones de Anses: quiénes cobran el miércoles 9",
+      "source": "elcordillerano",
+      "published_at": "2026-09-09 04:30:40",
+      "snippet": null,
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/09/260957-jubilaciones-y-asignaciones-de-anses-quienes-cobran-el-miercoles-9",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Paritarias estatales en Jujuy: el Gobierno prometió pagar un millón de pesos, como mínimo",
+      "source": "viapais_ar",
+      "published_at": "2026-09-09 04:18:40",
+      "snippet": "Citados este martes a retomar la discusión salarial, los sindicatos lograron un 6% de aumento, además del compromiso de un pago extraordinario en diciembre.",
+      "url": "https://viapais.com.ar/jujuy/paritarias-estatales-jujuy-gobierno-prometio-pagar-millon-pesos-minimo_0_DWMdrxlYSV.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Gobierno panameño autoriza subsidio temporal para evitar incremento de la tarifa eléctrica",
+      "source": "infobae",
+      "published_at": "2026-09-09 04:16:42",
+      "snippet": "La Autoridad Nacional de los Servicios Públicos aprobó las tarifas que corresponden al período comprendido entre septiembre y diciembre de este año",
+      "url": "https://www.infobae.com/panama/2026/09/09/gobierno-panameno-autoriza-aporte-temporal-para-evitar-incremento-de-la-tarifa-electrica/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
         "argentina"
       ],
       "category": [
