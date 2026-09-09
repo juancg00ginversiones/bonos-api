@@ -1,8 +1,90 @@
 {
-  "updated_at": "2026-09-09T19:09:24Z",
+  "updated_at": "2026-09-09T19:36:05Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
+    {
+      "title": "Paquete Económico 2027: Gobierno proyecta apoyo a Pemex y a CFE",
+      "source": "infobae",
+      "published_at": "2026-09-09 07:26:07",
+      "snippet": "El gobierno federal estima un superávit financiero de 95.1 mmdp en Pemex; CFE registra 25 mmdp",
+      "url": "https://www.infobae.com/mexico/2026/09/09/paquete-economico-2027-gobierno-proyecta-apoyo-a-pemex-y-a-cfe/",
+      "country": [
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La Bolsa española abre con una caída del 1 % lastrada por Inditex y pendiente del crudo",
+      "source": "infobae",
+      "published_at": "2026-09-09 07:18:00",
+      "snippet": "La Bolsa española abre con una caída del 1 % lastrada por Inditex y pendiente del crudo",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/09/la-bolsa-espanola-abre-con-una-caida-del-1-lastrada-por-inditex-y-pendiente-del-crudo/",
+      "country": [
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Rusia sigue destruyendo logística de la industria alimentaria en la región de Kiev",
+      "source": "infobae",
+      "published_at": "2026-09-09 07:16:35",
+      "snippet": "Rusia sigue destruyendo logística de la industria alimentaria en la región de Kiev",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/rusia-sigue-destruyendo-logistica-de-la-industria-alimentaria-en-la-region-de-kiev/",
+      "country": [
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La inflación industrial de China escala al 3,8% en agosto y el IPC se acelera al 0,8%",
+      "source": "infobae",
+      "published_at": "2026-09-09 07:15:41",
+      "snippet": "La inflación industrial de China escala al 3,8% en agosto y el IPC se acelera al 0,8%",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/la-inflacion-industrial-de-china-escala-al-38-en-agosto-y-el-ipc-se-acelera-al-08/",
+      "country": [
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Casi tres de cada diez hogares pidieron dinero prestado para llegar a fin de mes",
+      "source": "elonce",
+      "published_at": "2026-09-09 07:12:07",
+      "snippet": "El 27,4% de los hogares argentinos pidió dinero para cubrir gastos habituales. Entre las familias pobres, la proporción alcanzó el 44,4%.",
+      "url": "https://www.elonce.com/economia/hogares-argentinos-pidieron-dinero-para-llegar-a-fin-de-mes.htm",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
     {
       "title": "CEOE celebra hoy en Ceuta la reunión de su junta directiva como muestra de apoyo a la ciudad autónoma",
       "source": "infobae",
@@ -42,85 +124,6 @@
       "url": "https://www.laopinioncoruna.es/espana/2026/09/09/dimite-josep-lluis-trapero-mossos-esquadra-cataluna-134093190.html",
       "country": [
         "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Inditex acelera crecimiento y gana el récord de 2.980 millones en el semestre, un 6,8% más",
-      "source": "infobae",
-      "published_at": "2026-09-09 06:46:32",
-      "snippet": "Inditex acelera crecimiento y gana el récord de 2.980 millones en el semestre, un 6,8% más",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/09/inditex-acelera-crecimiento-y-gana-el-record-de-2980-millones-en-el-semestre-un-68-mas/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Niños a 47.000 euros la pieza",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-09 06:33:56",
-      "snippet": "Alarmadas por la baja producción de bebés de su país, las autoridades de Singapur ofrecen el equivalente a 47.000 euros por niño, pagaderos en cómodos plazos hasta que cumplan los 17 años. Para que luego hablen aquí de las paguitas.",
-      "url": "https://www.laopinioncoruna.es/opinion/2026/09/09/ninos-47-000-euros-pieza-134092945.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El precio del petróleo prosigue su escalada y acecha ya los 100 dólares tras nuevos ataques entre EEUU e Irán",
-      "source": "infobae",
-      "published_at": "2026-09-09 06:30:38",
-      "snippet": "El precio del petróleo prosigue su escalada y acecha ya los 100 dólares tras nuevos ataques entre EEUU e Irán",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/el-precio-del-petroleo-prosigue-su-escalada-y-acecha-ya-los-100-dolares-tras-nuevos-ataques-entre-eeuu-e-iran/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Nuevos créditos hipotecarios: el Gobierno licitó los primeros $200.000 millones para ampliar la oferta de los préstamos",
-      "source": "jujuyaldia_ar",
-      "published_at": "2026-09-09 06:30:00",
-      "snippet": "Se adjudicaron depósitos a plazo entre 13 bancos para aportar recursos a la línea destinada a financiar la compra de viviendas Jujuy al día ® – El gobierno de Javier Milei efectuó la primera licitación de $200.000 millones para poner en marcha el esquema de los nuevos créditos hipotecarios UVA, con recursos que buscarán ampliar [...] La entrada Nuevos créditos hipotecarios: el Gobierno licitó los primeros $200.000 millones para ampliar la oferta de los préstamos se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/09/nuevos-creditos-hipotecarios-el-gobierno-licito-los-primeros-200-000-millones-para-ampliar-la-oferta-de-los-prestamos/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Inditex suma un beneficio récord de 2.980 millones en su primer semestre y acelera las ventas un 9% en el arranque del otoño",
-      "source": "infobae",
-      "published_at": "2026-09-09 06:21:36",
-      "snippet": "El grupo textil fundado por Amancio Ortega elevó su beneficio neto un 6,8% entre febrero y julio, impulsado por las colecciones de primavera, y la nueva temporada llega con ventas al alza",
-      "url": "https://www.infobae.com/espana/2026/09/09/inditex-suma-un-beneficio-record-de-2980-millones-en-su-primer-semestre-y-acelera-las-ventas-un-9-en-el-arranque-del-otono/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
       ],
       "category": [
         "business",
