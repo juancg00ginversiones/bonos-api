@@ -1,130 +1,130 @@
 {
-  "updated_at": "2026-09-09T16:58:22Z",
+  "updated_at": "2026-09-09T17:25:31Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "La suba del crudo golpea a Wall Street",
-      "source": "eldia_ar",
-      "published_at": "2026-09-09 04:54:30",
-      "snippet": "Wall Street cerró ayer con pérdidas, presionada por la fuerte suba del precio del petróleo, que eleva los costos para las empresas y alimenta de nuevo los temores sobre la inflación. El Dow Jones cayó 1,17%, el Nasdaq cedió 0,32% y el S&P 500 retrocedió 0,58%.Las tensiones geopolíticas en Medio Oriente volvieron...",
-      "url": "https://www.eldia.com/el-mundo/la-suba-del-crudo-golpea-a-wall-street-el-mundo_1788929670",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "La Argentina resistió la turbulencia global, pero el mercado espera dos datos clave que definirán el ánimo de los inversores",
+      "title": "Cómo está el euro frente al dólar este 9 de septiembre",
       "source": "infobae",
-      "published_at": "2026-09-09 04:50:39",
-      "snippet": "La suba del petróleo y de los rendimientos internacionales presionó a los activos, aunque los bonos y las acciones argentinas lograron sortear las caídas. La inflación y la licitación del Tesoro, en la mira de los mercados",
-      "url": "https://www.infobae.com/economia/2026/09/09/la-argentina-resistio-la-turbulencia-global-pero-el-mercado-espera-dos-datos-clave-que-definiran-el-animo-de-los-inversores/",
+      "published_at": "2026-09-09 05:16:04",
+      "snippet": "La moneda europea mostró fluctuaciones en su cotización de este día",
+      "url": "https://www.infobae.com/espana/2026/09/09/como-esta-el-euro-frente-al-dolar-este-9-de-septiembre/",
       "country": [
         "argentina",
-        "mexico",
-        "colombia",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Supermiércoles en el Senado: Banco Central, Inocencia Fiscal II, inversiones y obra pública",
-      "source": "infobae",
-      "published_at": "2026-09-09 04:49:02",
-      "snippet": "Festín de comisiones desde las 10.30. Intentos libertarios para dictaminar las iniciativas relacionadas con la entidad monetaria y los dólares “del colchón”. A las 14 habrá Labor Parlamentaria y se confirmará la sesión de mañana",
-      "url": "https://www.infobae.com/politica/2026/09/09/supermiercoles-en-el-senado-banco-central-inocencia-fiscal-ii-inversiones-y-obra-publica/",
-      "country": [
-        "argentina",
-        "mexico",
-        "colombia",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Entre Malvinas y la economía: el Gobierno busca evitar que la agenda se le escape",
-      "source": "infobae",
-      "published_at": "2026-09-09 04:47:05",
-      "snippet": "Fuerte caída de la industria y la construcción a pesar del mensaje oficial. La oposición conseguirá quórum para debatir morosidad y emergencia en discapacidad. Reforma electoral y desconfianza de aliados. Ausencia camporista en homenaje a De La Sota. Brito, presente",
-      "url": "https://www.infobae.com/politica/2026/09/09/entre-malvinas-y-la-economia-el-gobierno-busca-evitar-que-la-agenda-se-le-escape/",
-      "country": [
-        "argentina",
-        "mexico",
-        "colombia",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Denuncian más contratados foráneos en la Municipalidad de Tartagal",
-      "source": "nuevodiariodesalta_ar",
-      "published_at": "2026-09-09 04:32:00",
-      "snippet": "La contratación de periodistas, consultores políticos, diseñadores y creadores de contenido que no residen en Tartagal volvió a sembrar alarma. La ex concejal Silvia Zabala difundió documentación corr",
-      "url": "https://nuevodiariodesalta.com.ar/denuncian-mas-contratados-foraneos-en-la-municipalidad-de-tartagal/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Jubilaciones y asignaciones de Anses: quiénes cobran el miércoles 9",
-      "source": "elcordillerano",
-      "published_at": "2026-09-09 04:30:40",
-      "snippet": null,
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/09/260957-jubilaciones-y-asignaciones-de-anses-quienes-cobran-el-miercoles-9",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Paritarias estatales en Jujuy: el Gobierno prometió pagar un millón de pesos, como mínimo",
-      "source": "viapais_ar",
-      "published_at": "2026-09-09 04:18:40",
-      "snippet": "Citados este martes a retomar la discusión salarial, los sindicatos lograron un 6% de aumento, además del compromiso de un pago extraordinario en diciembre.",
-      "url": "https://viapais.com.ar/jujuy/paritarias-estatales-jujuy-gobierno-prometio-pagar-millon-pesos-minimo_0_DWMdrxlYSV.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Gobierno panameño autoriza subsidio temporal para evitar incremento de la tarifa eléctrica",
-      "source": "infobae",
-      "published_at": "2026-09-09 04:16:42",
-      "snippet": "La Autoridad Nacional de los Servicios Públicos aprobó las tarifas que corresponden al período comprendido entre septiembre y diciembre de este año",
-      "url": "https://www.infobae.com/panama/2026/09/09/gobierno-panameno-autoriza-aporte-temporal-para-evitar-incremento-de-la-tarifa-electrica/",
-      "country": [
-        "colombia",
         "united states of america",
-        "mexico",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Los sectores “perdedores” del modelo no encuentran un piso y se complica la reactivación de la economía",
+      "source": "infobae",
+      "published_at": "2026-09-09 05:12:01",
+      "snippet": "La caída abrupta de 5% en industria y construcción en julio fue más profunda que lo anticipado por los analistas. Advierten por un aumento de la morosidad también en las empresas industriales",
+      "url": "https://www.infobae.com/economia/2026/09/09/los-sectores-perdedores-del-modelo-no-encuentran-un-piso-y-se-complica-la-reactivacion-de-la-economia/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "YPF invertirá u$s 3 millones por hora en 2028",
+      "source": "titulares",
+      "published_at": "2026-09-09 05:05:00",
+      "snippet": "El gobernador de Neuquén, Rolando Figueroa, destacó que «Vaca Muerta es un motor fundamental para el desarrollo económico de la región«, y resaltó la importancia de contar con un marco normativo que incentive la inversión y la generación de empleo. Por su parte, Alberto Weretilneck, gobernador de Río Negro, subrayó que «estamos ante una oportunidad [...]",
+      "url": "https://titulares.ar/ypf-invertira-us-3-millones-por-hora-en-2028/",
+      "country": [
         "argentina"
       ],
       "category": [
         "business",
         "top"
+      ]
+    },
+    {
+      "title": "Tung Chee-hwa, el empresario que Pekín eligió para dirigir la Hong Kong poscolonial",
+      "source": "infobae",
+      "published_at": "2026-09-09 05:01:12",
+      "snippet": "Tung Chee-hwa, el empresario que Pekín eligió para dirigir la Hong Kong poscolonial",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/tung-chee-hwa-el-empresario-que-pekin-eligio-para-dirigir-la-hong-kong-poscolonial/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Petroperú recibe los primeros 475 millones de dólares de crédito para mantener operaciones",
+      "source": "infobae",
+      "published_at": "2026-09-09 05:00:39",
+      "snippet": "Petroperú recibe los primeros 475 millones de dólares de crédito para mantener operaciones",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/petroperu-recibe-los-primeros-475-millones-de-dolares-de-credito-para-mantener-operaciones/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Convocan a emprendimientos para participar del Bariloche a la Carta 2026",
+      "source": "elcordillerano",
+      "published_at": "2026-09-09 05:00:37",
+      "snippet": "La Secretaría de Producción y Empleo del Municipio de San Carlos de Bariloche invita a emprendimientos locales de alimentos y bebidas a participar del Stand Colectivo de Comercialización de Bariloche a la Carta (BALC), que se desarrollará del jueves 9 al lunes 12 de octubre de 2026 en el Centro Cívico de Bariloche.",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/08/260711-convocan-a-emprendimientos-para-participar-del-bariloche-a-la-carta-2026",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este miércoles 9 de septiembre",
+      "source": "tn",
+      "published_at": "2026-09-09 05:00:36",
+      "snippet": "La cotización del dólar minuto a minuto en los bancos, donde desde abril de 2025 se pueden comprar divisas sin límites. También los precios del Blue, el MEP y el Cripto.",
+      "url": "https://tn.com.ar/economia/2026/09/09/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-miercoles-9-de-septiembre/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Ahorro de energía tendrá nuevas reglas durante seis meses por el fenómeno de El Niño",
+      "source": "elinformador",
+      "published_at": "2026-09-09 05:00:00",
+      "snippet": "La CREG puso en marcha un esquema transitorio que establece metas individuales de consumo y contempla incentivos para quienes reduzcan su demanda y cobros adicionales en caso de superar determinados límites.",
+      "url": "https://www.elinformador.com.co/index.php/general/79-nacional/358463-ahorro-de-energia-tendra-nuevas-reglas-durante-seis-meses-por-el-fenomeno-de-el-nino",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top",
+        "environment"
       ]
     }
   ]
