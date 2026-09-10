@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-10T17:57:30Z",
+  "updated_at": "2026-09-10T19:01:47Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Malvinas: más denuncias por el petróleo",
-      "source": "eldia_ar",
-      "published_at": "2026-09-10 05:48:34",
-      "snippet": "El Gobierno apunta contra empresas y directivos de petroleras involucrados en la explotación. Críticas del presidente Javier Milei",
-      "url": "https://www.eldia.com/politica-y-economia/malvinas-mas-denuncias-por-el-petroleo-politica-y-economia_1789019314",
+      "title": "Dólar blue hoy: a cuánto cotiza este jueves 10 de septiembre",
+      "source": "clarin",
+      "published_at": "2026-09-10 07:00:07",
+      "snippet": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+      "url": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-jueves-10-septiembre_0_iWkLfo1nNy.html",
       "country": [
         "argentina"
       ],
@@ -18,15 +18,15 @@
       ]
     },
     {
-      "title": "El ala política del Gobierno quiso continuar con medidas para recomponer ingresos y actividad pero Milei terminó con el “Estado presente”",
+      "title": "La inflación de Alemania se acelera al 2,9% en agosto por el aumento de los precios energéticos",
       "source": "infobae",
-      "published_at": "2026-09-10 05:48:29",
-      "snippet": "Con la cadena nacional sobre Malvinas, el Ejecutivo retomó la iniciativa y cortó con el modo reactivo que arrastraba desde hace tiempo. Mientras tanto, Milei tiene previsto viajar a Londres. Hace 28 años que un presidente argentino no visita la capital británica. El último fue Carlos Menem en 1998. Un viaje de este tipo carga ineludiblemente con el peso de la historia",
-      "url": "https://www.infobae.com/politica/2026/09/10/el-ala-politica-del-gobierno-quiso-continuar-con-medidas-para-recomponer-ingresos-y-actividad-pero-milei-termino-con-el-estado-presente/",
+      "published_at": "2026-09-10 06:45:49",
+      "snippet": "La inflación de Alemania se acelera al 2,9% en agosto por el aumento de los precios energéticos",
+      "url": "https://www.infobae.com/america/agencias/2026/09/10/la-inflacion-de-alemania-se-acelera-al-29-en-agosto-por-el-aumento-de-los-precios-energeticos/",
       "country": [
         "argentina",
-        "mexico",
         "colombia",
+        "mexico",
         "united states of america"
       ],
       "category": [
@@ -35,90 +35,96 @@
       ]
     },
     {
-      "title": "Casi el 60% de las familias recurre al financiamiento",
-      "source": "eldia_ar",
-      "published_at": "2026-09-10 05:47:34",
-      "snippet": "El 58,7% de los hogares urbanos recurrió a algún tipo de préstamo como cuotas, fiado, ayuda de familiares o amigos y otros",
-      "url": "https://www.eldia.com/politica-y-economia/casi-el-60-de-las-familias-recurre-al-financiamiento-politica-y-economia_1789019254",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Avanza la reforma de la carta orgánica del Central",
-      "source": "eldia_ar",
-      "published_at": "2026-09-10 05:42:34",
-      "snippet": "El proyecto de reforma de la Carta Orgánica del Banco Central de la República Argentina (BCRA) que impulsa el Gobierno consiguió ayer dictamen en un plenario de comisiones en el Senado.Aprobado sin cambios con relación a la versión que salió de la Cámara de Diputados el pasado 26 de agosto, el texto quedó en...",
-      "url": "https://www.eldia.com/politica-y-economia/avanza-la-reforma-de-la-carta-organica-del-central-politica-y-economia_1789018954",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Subieron los dólares y también el riesgo país",
-      "source": "eldia_ar",
-      "published_at": "2026-09-10 05:40:34",
-      "snippet": "El dólar mayorista extendió su tendencia alcista, hasta los $1.514, el spread con el blue se redujo al 1,7%, mínimo desde el 8 de julio.El blue se mantuvo estable y cerró a $1.520 para la compra y a $1.540 para la venta.En el segmento mayorista, que es la referencia del mercado, cerró a $1.514 para la venta.El dólar...",
-      "url": "https://www.eldia.com/politica-y-economia/subieron-los-dolares-y-tambien-el-riesgo-pais-politica-y-economia_1789018834",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Histórico: se firmó el primer crédito hipotecario financiado con fondos de la Anses",
-      "source": "elcordillerano",
-      "published_at": "2026-09-10 05:30:31",
-      "snippet": "El Banco Hipotecario concretó una operación por 50 millones de pesos en Santa Cruz a pagar en 15 años.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/09/261188-historico-se-firmo-el-primer-credito-hipotecario-financiado-con-fondos-de-la-anses",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El brent cae ligeramente, pero se mantiene por encima de los 101 dólares el barril",
-      "source": "infobae",
-      "published_at": "2026-09-10 05:30:19",
-      "snippet": "El brent cae ligeramente, pero se mantiene por encima de los 101 dólares el barril",
-      "url": "https://www.infobae.com/america/agencias/2026/09/10/el-brent-cae-ligeramente-pero-se-mantiene-por-encima-de-los-101-dolares-el-barril/",
-      "country": [
-        "argentina",
-        "mexico",
-        "colombia",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El mercado da por hecha la subida de tipos del BCE este jueves, aunque duda de que sea suficiente para domar la inflación",
+      "title": "Fernando Clavijo: \"Tenemos que dejar encarriladas la vivienda, la financiación y el marco de la UE en lo que queda de legislatura\"",
       "source": "laopinioncoruna",
-      "published_at": "2026-09-10 05:27:27",
-      "snippet": "Muy pocas veces en los últimos años había estado tan clara la próxima decisión del Banco Central Europeo (BCE) sobre los tipos de interés. Ante el inclemente repunte de la inflación, que marcó una tasa del 3,6% en la Eurozona en el mes de agosto, la más alta en tres años, el consenso de analistas y mercado descuenta un alza de 25 puntos básicos en el precio del dinero el próximo jueves, lo que lo situaría el tipo de interés en el 2,50%, su nivel más elevado desde marzo de 2025.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/10/mercado-da-hecha-subida-tipos-134130557.html",
+      "published_at": "2026-09-10 06:41:25",
+      "snippet": "El presidente del Gobierno de Canarias, Fernando Clavijo, 55 años, afronta el último curso de su segunda legislatura -no consecutiva- con varias prioridades aún pendientes: vivienda, financiación autonómica, el nuevo marco financiero europeo o el reto demográfico. El también secretario general de Coalición Canaria (CC) aspira a lograr un tercer mandato al frente de la Presidencia tras la elecciones de mayo de 2027.",
+      "url": "https://www.laopinioncoruna.es/espana/2026/09/10/fernando-clavijo-encarriladas-vivienda-financiacion-134131603.html",
       "country": [
         "argentina"
       ],
       "category": [
         "business",
         "top"
+      ]
+    },
+    {
+      "title": "Los gigantes de los centros de datos se ‘arman’ con un ejército de bufetes de abogados contra el decreto del Gobierno",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-10 06:34:29",
+      "snippet": "Operadores, promotores, grandes grupos empresariales, eléctricas, compañías renovables, patronales y hasta varias comunidades autónomas preparan alegaciones contra el decreto con el que el Gobierno quiere regular los centros de datos. Un texto que ha caído como un jarro de agua fría en una industria que proyecta inversiones multimillonarias en España y ha obligado a estos a movilizarse y contratar a un ejército de despachos de abogados —entre ellos Garrigues, Uría Menéndez, Cuatrecasas o Pérez Llorca— con los que defenderse.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/10/centros-datos-abogados-134131424.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Los mercados descuentan una subida de 25 puntos en los tipos de interés en la reunión del BCE de este jueves",
+      "source": "infobae",
+      "published_at": "2026-09-10 06:31:09",
+      "snippet": "Los mercados descuentan una subida de 25 puntos en los tipos de interés en la reunión del BCE de este jueves",
+      "url": "https://www.infobae.com/america/agencias/2026/09/10/los-mercados-descuentan-una-subida-de-25-puntos-en-los-tipos-de-interes-en-la-reunion-del-bce-de-este-jueves/",
+      "country": [
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Del sándwich al torniquete: el efecto que sirve par explicar la caída sin freno de la industria argentina",
+      "source": "jujuyaldia_ar",
+      "published_at": "2026-09-10 06:30:00",
+      "snippet": "Las proyecciones para 2026 anticipan que la desventaja competitiva y el encarecimiento del financiamiento golpearán con fuerza la estructura productiva Jujuy al día ® – La actividad industrial cayó otra vez en julio y el informe de septiembre de la consultora I+D advirtió que el sector arrastra más de un año de estancamiento con tendencia [...] La entrada Del sándwich al torniquete: el efecto que sirve par explicar la caída sin freno de la industria argentina se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/10/del-sandwich-al-torniquete-el-efecto-que-sirve-par-explicar-la-caida-sin-freno-de-la-industria-argentina/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La suba del petróleo y la liquidación de deuda de empresas aseguran una buena oferta de dólares hasta fin de año",
+      "source": "infobae",
+      "published_at": "2026-09-10 06:13:07",
+      "snippet": "Ayer colocó un bono YPF en el mercado internacional por USD 1.200 millones. El Central sigue comprando divisas, pero bajó su nivel de intervención para no impulsar el tipo de cambio",
+      "url": "https://www.infobae.com/economia/2026/09/10/la-suba-del-petroleo-y-la-liquidacion-de-deuda-de-empresas-aseguran-una-buena-oferta-de-dolares-hasta-fin-de-ano/",
+      "country": [
+        "mexico",
+        "united states of america",
+        "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El Indec da a conocer hoy el dato de inflación de agosto: qué adelantan las consultoras",
+      "source": "infobae",
+      "published_at": "2026-09-10 06:12:23",
+      "snippet": "Este jueves, a las 16 horas, el Instituto va a dar a conocer de cuánto fueron los aumentos en el octavo mes del año. En caso de ubicarse por debajo de 1,5% podría ser la cifra más baja en lo que va de mandato de Javier Milei",
+      "url": "https://www.infobae.com/economia/2026/09/10/el-indec-da-a-conocer-hoy-el-dato-de-inflacion-de-agosto-que-adelantan-las-consultoras/",
+      "country": [
+        "mexico",
+        "united states of america",
+        "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top",
+        "science"
       ]
     }
   ]
