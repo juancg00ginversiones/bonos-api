@@ -1,8 +1,116 @@
 {
-  "updated_at": "2026-09-10T19:01:47Z",
+  "updated_at": "2026-09-10T19:27:26Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
+    {
+      "title": "El Indec difunde hoy la inflación de agosto: los analistas estiman que se ubicará por debajo del 2%",
+      "source": "lagaceta_ar",
+      "published_at": "2026-09-10 07:23:00",
+      "snippet": "Hasta ahora, el dato más bajo del año se registró en junio, cuando el IPC avanzó 1,9%.",
+      "url": "https://www.lagaceta.com.ar/nota/1153372/economia/indec-difunde-hoy-inflacion-agosto-analistas-estiman-se-ubicara-debajo-2porciento.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Jordi Martí, arquitecto, reflexiona sobre el uso del agua en las urbanizaciones: “Quizá la próxima sequía ya ha empezado”",
+      "source": "infobae",
+      "published_at": "2026-09-10 07:20:49",
+      "snippet": "Algunos edificios ya han comenzado a incluir infraestructuras que permitan tratar y reutilizar este recurso",
+      "url": "https://www.infobae.com/espana/2026/09/10/jordi-marti-arquitecto-reflexiona-sobre-el-uso-del-agua-en-las-urbanizaciones-quiza-la-proxima-sequia-ya-ha-empezado/",
+      "country": [
+        "mexico",
+        "united states of america",
+        "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top",
+        "environment"
+      ]
+    },
+    {
+      "title": "La Bolsa española abre con un alza del 0,36 % pendiente del BCE y del precio del crudo",
+      "source": "infobae",
+      "published_at": "2026-09-10 07:16:44",
+      "snippet": "La Bolsa española abre con un alza del 0,36 % pendiente del BCE y del precio del crudo",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/10/la-bolsa-espanola-abre-con-un-alza-del-036-pendiente-del-bce-y-del-precio-del-crudo/",
+      "country": [
+        "mexico",
+        "united states of america",
+        "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "AIE: La crisis de Ormuz impulsa la demanda mundial de carbón y alcanzará un récord en 2026",
+      "source": "infobae",
+      "published_at": "2026-09-10 07:16:09",
+      "snippet": "AIE: La crisis de Ormuz impulsa la demanda mundial de carbón y alcanzará un récord en 2026",
+      "url": "https://www.infobae.com/america/agencias/2026/09/10/aie-la-crisis-de-ormuz-impulsa-la-demanda-mundial-de-carbon-y-alcanzara-un-record-en-2026/",
+      "country": [
+        "mexico",
+        "united states of america",
+        "colombia",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El Gobierno avanzó en el Senado con dos reformas clave para su programa económico",
+      "source": "elonce",
+      "published_at": "2026-09-10 07:12:27",
+      "snippet": "El oficialismo obtuvo dictámenes para reformar el Banco Central e impulsar Inocencia Fiscal II y buscará llevar ambas iniciativas al recinto la próxima semana.",
+      "url": "https://www.elonce.com/politica/el-gobierno-avanzo-en-el-senado-con-dos-reformas-clave-para-su-programa-economico.htm",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Tras su manto de neblinas... la educación",
+      "source": "diariopanorama",
+      "published_at": "2026-09-10 07:09:00",
+      "snippet": "Los pésimos resultados de los alumnos argentinos en la prueba PISA generaron un rebote mucho menor que las Malvinas. ¿Por qué a las islas se las percibe como una causa nacional y a la gravísima crisis educativa casi que se la ignora?",
+      "url": "https://diariopanorama.com/noticia/565962/tras-manto-neblinas-educacion",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Oficial y confirmado | El IRS depositará hasta 5.120 dólares en las cuentas bancarias de todas las familias que obtengan el Formulario 1040 y cumplan estos requisitos",
+      "source": "clarin",
+      "published_at": "2026-09-10 07:02:14",
+      "snippet": "Permite el reembolso de gastos relacionados con la adopción de un menor de edad. Incluye los honorarios de abogados, los servicios de agencias y gastos de alojamiento.",
+      "url": "https://www.clarin.com/estados-unidos/oficial-confirmado-irs-depositara-5120-dolares-cuentas-bancarias-todas-familias-obtengan-formulario-1040-cumplan-requisitos_0_fCc4GsLvOv.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
     {
       "title": "Dólar blue hoy: a cuánto cotiza este jueves 10 de septiembre",
       "source": "clarin",
@@ -15,116 +123,6 @@
       "category": [
         "business",
         "top"
-      ]
-    },
-    {
-      "title": "La inflación de Alemania se acelera al 2,9% en agosto por el aumento de los precios energéticos",
-      "source": "infobae",
-      "published_at": "2026-09-10 06:45:49",
-      "snippet": "La inflación de Alemania se acelera al 2,9% en agosto por el aumento de los precios energéticos",
-      "url": "https://www.infobae.com/america/agencias/2026/09/10/la-inflacion-de-alemania-se-acelera-al-29-en-agosto-por-el-aumento-de-los-precios-energeticos/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Fernando Clavijo: \"Tenemos que dejar encarriladas la vivienda, la financiación y el marco de la UE en lo que queda de legislatura\"",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-10 06:41:25",
-      "snippet": "El presidente del Gobierno de Canarias, Fernando Clavijo, 55 años, afronta el último curso de su segunda legislatura -no consecutiva- con varias prioridades aún pendientes: vivienda, financiación autonómica, el nuevo marco financiero europeo o el reto demográfico. El también secretario general de Coalición Canaria (CC) aspira a lograr un tercer mandato al frente de la Presidencia tras la elecciones de mayo de 2027.",
-      "url": "https://www.laopinioncoruna.es/espana/2026/09/10/fernando-clavijo-encarriladas-vivienda-financiacion-134131603.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Los gigantes de los centros de datos se ‘arman’ con un ejército de bufetes de abogados contra el decreto del Gobierno",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-10 06:34:29",
-      "snippet": "Operadores, promotores, grandes grupos empresariales, eléctricas, compañías renovables, patronales y hasta varias comunidades autónomas preparan alegaciones contra el decreto con el que el Gobierno quiere regular los centros de datos. Un texto que ha caído como un jarro de agua fría en una industria que proyecta inversiones multimillonarias en España y ha obligado a estos a movilizarse y contratar a un ejército de despachos de abogados —entre ellos Garrigues, Uría Menéndez, Cuatrecasas o Pérez Llorca— con los que defenderse.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/10/centros-datos-abogados-134131424.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Los mercados descuentan una subida de 25 puntos en los tipos de interés en la reunión del BCE de este jueves",
-      "source": "infobae",
-      "published_at": "2026-09-10 06:31:09",
-      "snippet": "Los mercados descuentan una subida de 25 puntos en los tipos de interés en la reunión del BCE de este jueves",
-      "url": "https://www.infobae.com/america/agencias/2026/09/10/los-mercados-descuentan-una-subida-de-25-puntos-en-los-tipos-de-interes-en-la-reunion-del-bce-de-este-jueves/",
-      "country": [
-        "argentina",
-        "colombia",
-        "mexico",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Del sándwich al torniquete: el efecto que sirve par explicar la caída sin freno de la industria argentina",
-      "source": "jujuyaldia_ar",
-      "published_at": "2026-09-10 06:30:00",
-      "snippet": "Las proyecciones para 2026 anticipan que la desventaja competitiva y el encarecimiento del financiamiento golpearán con fuerza la estructura productiva Jujuy al día ® – La actividad industrial cayó otra vez en julio y el informe de septiembre de la consultora I+D advirtió que el sector arrastra más de un año de estancamiento con tendencia [...] La entrada Del sándwich al torniquete: el efecto que sirve par explicar la caída sin freno de la industria argentina se publicó primero en Jujuy al día .",
-      "url": "https://www.jujuyaldia.com.ar/2026/09/10/del-sandwich-al-torniquete-el-efecto-que-sirve-par-explicar-la-caida-sin-freno-de-la-industria-argentina/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "La suba del petróleo y la liquidación de deuda de empresas aseguran una buena oferta de dólares hasta fin de año",
-      "source": "infobae",
-      "published_at": "2026-09-10 06:13:07",
-      "snippet": "Ayer colocó un bono YPF en el mercado internacional por USD 1.200 millones. El Central sigue comprando divisas, pero bajó su nivel de intervención para no impulsar el tipo de cambio",
-      "url": "https://www.infobae.com/economia/2026/09/10/la-suba-del-petroleo-y-la-liquidacion-de-deuda-de-empresas-aseguran-una-buena-oferta-de-dolares-hasta-fin-de-ano/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El Indec da a conocer hoy el dato de inflación de agosto: qué adelantan las consultoras",
-      "source": "infobae",
-      "published_at": "2026-09-10 06:12:23",
-      "snippet": "Este jueves, a las 16 horas, el Instituto va a dar a conocer de cuánto fueron los aumentos en el octavo mes del año. En caso de ubicarse por debajo de 1,5% podría ser la cifra más baja en lo que va de mandato de Javier Milei",
-      "url": "https://www.infobae.com/economia/2026/09/10/el-indec-da-a-conocer-hoy-el-dato-de-inflacion-de-agosto-que-adelantan-las-consultoras/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top",
-        "science"
       ]
     }
   ]
