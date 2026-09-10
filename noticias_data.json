@@ -1,56 +1,43 @@
 {
-  "updated_at": "2026-09-10T22:07:42Z",
+  "updated_at": "2026-09-10T23:03:20Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Inspectores rionegrinos abordaron el buque Seminole para fiscalizar la soldadura del ducto submarino de Vaca Muerta Oil Sur",
-      "source": "mejorinformado",
-      "published_at": "2026-09-10 10:06:59",
-      "snippet": "Técnicos de las secretarías de Ambiente y de Hidrocarburos subieron a la embarcación italiana con colaboración de Prefectura Naval para controlar el cumplimiento ambiental y la calidad constructiva del ducto offshore que conectará Punta Colorada con las dos monoboyas de exportación",
-      "url": "https://www.mejorinformado.com/regionales/inspectores-rionegrinos-abordaron-buque-seminole-fiscalizar-soldadura-ducto-submarino-vaca-muerta-oil-sur_1789034819",
+      "title": "Qué pasó con la ley de biocombustibles y la sesión del Senado nacional",
+      "source": "lagaceta_ar",
+      "published_at": "2026-09-10 11:02:00",
+      "snippet": "La falta de consenso sobre el papel de las pymes de biodiésel trabó el tratamiento del proyecto. Realizan negociaciones para introducir cambios en el proyecto oficialista.",
+      "url": "https://www.lagaceta.com.ar/nota/1153403/economia/que-paso-ley-biocombustibles-sesion-senado-nacional.html",
       "country": [
         "argentina"
       ],
       "category": [
         "business",
         "top",
-        "crime"
+        "environment"
       ]
     },
     {
-      "title": "El conocido empresario que quiere ser intendente de Maipú",
-      "source": "mdzol",
-      "published_at": "2026-09-10 10:04:41",
-      "snippet": "Daniel Guerrero, el empresario que es desarrollador inmobiliario y quiere ser intendente de Maipú, habló con MDZ de su precandidatura.",
-      "url": "https://www.mdzol.com/politica/el-conocido-empresario-que-quiere-ser-intendente-maipu-n1602270",
+      "title": "El INDEC difunde la inflación de agosto: Milei espera un buen dato tras el 1,7% de la Ciudad",
+      "source": "eldiariodecatamarca",
+      "published_at": "2026-09-10 11:01:18",
+      "snippet": "El organismo difunde este jueves la variación del costo de vida de agosto que recuperaría el sendero a la baja.",
+      "url": "https://eldiariodecatamarca.com/index.php/politica-y-economia/el-indec-difunde-la-inflacion-de-agosto-milei-espera-un-buen-dato-tras-el-1-7-de-la-ciudad",
       "country": [
         "argentina"
       ],
       "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Casi el 30% de los hogares argentinos pidió dinero prestado para llegar a fin de mes durante el tercer trimestre de 2025",
-      "source": "elciudadanoweb",
-      "published_at": "2026-09-10 10:00:09",
-      "snippet": "En el estrato socioeconómico pobre, el número aumentó al 44,4% La entrada Casi el 30% de los hogares argentinos pidió dinero prestado para llegar a fin de mes durante el tercer trimestre de 2025 se publicó primero en El Ciudadano .",
-      "url": "https://elciudadanoweb.com/casi-el-30-de-los-hogares-argentinos-pidio-dinero-prestado-para-llegar-a-fin-de-mes-durante-el-tercer-trimestre-de-2025/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
+        "politics",
         "business"
       ]
     },
     {
-      "title": "Morosidad: crecen refinanciaciones, pero más de la mitad de los deudores son \"irrecuperables\", ¿cómo impactará en el crédito?",
-      "source": "ambito",
-      "published_at": "2026-09-10 10:00:00",
-      "snippet": "El crecimiento en el ratio de irregularidad de los créditos a las familias tuvo un reciente freno, pero los analistas avizoran un camino largo de cara al anhelo de que el financiamiento a privados vuelva a transformarse en un motor de la economía.",
-      "url": "https://www.ambito.com/economia/morosidad-crecen-refinanciaciones-pero-mas-la-mitad-los-deudores-son-irrecuperables-como-impactara-el-credito-n6320431",
+      "title": "La Provincia reparte $2.125 millones a municipios por los Juegos Bonaerenses",
+      "source": "eldebate_ar",
+      "published_at": "2026-09-10 11:00:00",
+      "snippet": "Es para afrontar los gastos de la Etapa Regional de los Juegos Bonaerenses. Los fondos serán transferidos a las comunas. Cuánto le corresponde a cada una. El Gobierno de la provincia de Buenos Aires destinó $2.125 millones a los municipios en concepto de apoyo económico para solventar los gastos correspondientes a la Etapa Regional de la 35° edición [...]",
+      "url": "https://eldebate.com.ar/la-provincia-reparte-2-125-millones-a-municipios-por-los-juegos-bonaerenses/",
       "country": [
         "argentina"
       ],
@@ -60,11 +47,26 @@
       ]
     },
     {
-      "title": "El Gobierno presiona por el RINI y pide apoyo opositor para aprobar incentivos a las inversiones",
+      "title": "Día del Empleado de Comercio: cuándo será el descanso y qué pasará con los locales en Resistencia",
       "source": "perfil",
-      "published_at": "2026-09-10 10:00:00",
-      "snippet": "El Ejecutivo chaqueño salió a defender el Régimen de Incentivos a Nuevas Inversiones antes de su tratamiento legislativo. Promete estabilidad por 30 años, exenciones impositivas y créditos subsidiado. Leer más",
-      "url": "https://www.perfil.com/noticias/nea/el-gobierno-presiona-por-el-rini-y-pide-apoyo-opositor-para-aprobar-incentivos-a-las-inversiones.phtml",
+      "published_at": "2026-09-10 11:00:00",
+      "snippet": "La jornada por el Día del Empleado de Comercio se cumplirá el lunes 28 de septiembre en Resistencia. Los negocios podrán abrir, aunque los trabajadores mercantiles que concurran deberán percibir una remuneración doble. Leer más",
+      "url": "https://www.perfil.com/noticias/nea/dia-del-empleado-de-comercio-cuando-sera-el-descanso-y-que-pasara-con-los-locales-en-resistencia.phtml",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top",
+        "politics"
+      ]
+    },
+    {
+      "title": "El negocio de los US$3.000 millones que prepara el Gobierno y que cambiará las indemnizaciones",
+      "source": "mdzol",
+      "published_at": "2026-09-10 11:00:00",
+      "snippet": "Una nueva herramienta de la reforma laboral busca canalizar recursos de las empresas hacia fondos de inversión, con bancos y administradoras financieras preparados para competir por un mercado que podría alcanzar una cifra millonaria.",
+      "url": "https://www.mdzol.com/dinero/el-negocio-los-us3000-millones-que-prepara-el-gobierno-y-que-cambiara-las-indemnizaciones-n1603714",
       "country": [
         "argentina"
       ],
@@ -74,11 +76,11 @@
       ]
     },
     {
-      "title": "Cuáles son los mejores descuentos en supermercados para este jueves 10 de septiembre",
-      "source": "perfil",
-      "published_at": "2026-09-10 10:00:00",
-      "snippet": "Las billeteras virtuales y entidades bancarias ofrecen promociones exclusivas para sus clientes en las principales cadenas del país. Leer más",
-      "url": "https://www.perfil.com/noticias/economia/cuales-son-los-mejores-descuentos-en-supermercados-para-este-jueves-3-de-septiembre.phtml",
+      "title": "Morosidad: qué dice el proyecto de Cornejo para refinanciar deudas y quiénes podrán acceder a los beneficios",
+      "source": "losandes",
+      "published_at": "2026-09-10 10:58:35",
+      "snippet": "El proyecto alcanza a familias y empresas y estará vigente hasta fin de año, con posibilidad de una prórroga de hasta seis meses. Ya tiene media sanción.",
+      "url": "https://www.losandes.com.ar/politica/morosidad-que-dice-el-proyecto-cornejo-refinanciar-deudas-y-quienes-podran-acceder-los-beneficios-n6005660",
       "country": [
         "argentina"
       ],
@@ -88,11 +90,11 @@
       ]
     },
     {
-      "title": "A cuánto cotiza el euro blue hoy, jueves 10 de septiembre",
-      "source": "perfil",
-      "published_at": "2026-09-10 10:00:00",
-      "snippet": "La divisa europea informal cotiza al alza la cuarta rueda cambiaria de la semana, tras una suba de $12 registrada el último lunes. Leer más",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-jueves-10-de-septiembre.phtml",
+      "title": "El INDEC publica hoy la inflación de agosto y el mercado espera que quede debajo del 2%",
+      "source": "diariodecuyo",
+      "published_at": "2026-09-10 10:52:55",
+      "snippet": "El INDEC difundirá este jueves el IPC de agosto. Las estimaciones privadas anticipan una inflación mensual inferior al 2%, tras el 2,1% registrado en julio.",
+      "url": "https://www.diariodecuyo.com.ar/argentina/el-indec-publica-hoy-la-inflacion-agosto-y-el-mercado-espera-que-quede-debajo-del-2-n6582639",
       "country": [
         "argentina"
       ],
@@ -102,11 +104,11 @@
       ]
     },
     {
-      "title": "A cuánto cotiza el dólar blue hoy, jueves 10 de septiembre",
-      "source": "perfil",
-      "published_at": "2026-09-10 10:00:00",
-      "snippet": "La divisa norteamericana paralela cotiza al alza, presentado una leve suba de $5 en la cuarta rueda cambiaria de la semana. Leer más",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-jueves-10-de-septiembre.phtml",
+      "title": "El Quini 6 vuelve a poner en juego una fortuna: $14.450 millones",
+      "source": "elesquiu",
+      "published_at": "2026-09-10 10:52:29",
+      "snippet": "La falta de ganadores en seis aciertos mantiene vivo el pozo más importante de la lotería. El domingo próximo, 16 apostadores de Siempre Sale repartieron casi $390 millones",
+      "url": "https://www.elesquiu.com/nacionales/2026/9/10/el-quini-6-vuelve-a-poner-en-juego-una-fortuna-14450-millones-595948.html",
       "country": [
         "argentina"
       ],
