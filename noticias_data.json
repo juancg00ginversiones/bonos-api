@@ -1,45 +1,14 @@
 {
-  "updated_at": "2026-09-10T15:48:05Z",
+  "updated_at": "2026-09-10T16:50:28Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Panamá se afianza como centro importante de servicios marítimos auxiliares",
-      "source": "infobae",
-      "published_at": "2026-09-10 03:43:29",
-      "snippet": "Servicios marítimos de avituallamiento crecen 26.3% durante julio, revelan las estadísticas de la Autoridad Marítima",
-      "url": "https://www.infobae.com/panama/2026/09/10/panama-se-afianza-como-centro-importante-de-servicios-maritimos-auxiliares/",
-      "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Gran Hermano: la abultada cifra que cobraría Santiago del Moro por conducir en Telefe",
-      "source": "elintransigente",
-      "published_at": "2026-09-10 03:34:46",
-      "snippet": "El conductor volverá al frente del reality de Telefe, que presentará una casa renovada y ya tiene fechas anunciadas para su regreso. The post Gran Hermano: la abultada cifra que cobraría Santiago del Moro por conducir en Telefe appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-      "url": "https://elintransigente.com/2026/09/gran-hermano-santiago-del-moro-2/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "INDEC da a conocer este jueves el dato de inflación de agosto: qué espera el Gobierno",
-      "source": "minutouno",
-      "published_at": "2026-09-10 03:33:00",
-      "snippet": "El INDEC dará a conocer el índice de precios al consumiro correspondiente al mes pasado y en el Ministerio de Economía tienen la esperanza de que se ubique alrededor del 1,5%.",
-      "url": "https://www.minutouno.com/economia/indec-da-conocer-este-jueves-el-dato-inflacion-agosto-que-espera-el-gobierno-n6320587",
+      "title": "Bitcoin supera los 81.000 dólares mientras regresa el impulso de las criptomonedas",
+      "source": "infoplatense_ar",
+      "published_at": "2026-09-10 04:50:00",
+      "snippet": "Por qué cada vez más holders buscan algo más que simplemente mantener sus activos Bitcoin ha regresado con fuerza por [...] La entrada Bitcoin supera los 81.000 dólares mientras regresa el impulso de las criptomonedas se publicó primero en InfoPlatense .",
+      "url": "https://www.infoplatense.com.ar/bitcoin-supera-los-81-000-dolares-mientras-regresa-el-impulso-de-las-criptomonedas/",
       "country": [
         "argentina"
       ],
@@ -48,46 +17,15 @@
       ]
     },
     {
-      "title": "Yanina Latorre contó que Cinthia Fernández tiene una deuda millonaria en el country donde vive: “La intimaron”",
-      "source": "tn",
-      "published_at": "2026-09-10 03:32:07",
-      "snippet": "Yanina Latorre contó que Cinthia Fernández tiene una deuda millonaria en el country donde vive: “La intimaron”. (Foto: Captura América / Instagram cinthia_fernandez_)",
-      "url": "https://tn.com.ar/videos/show/famosos/2026/09/10/yanina-latorre-conto-que-cinthia-fernandez-tiene-una-deuda-millonaria-en-el-country-donde-vive-la-intimaron/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "España resiste, pero la inflación y el coste de la deuda amenazan con frenar su crecimiento",
+      "title": "Lotería del Valle resultados miércoles 9 de septiembre: quién ganó el premio mayor de $9.000 millones",
       "source": "infobae",
-      "published_at": "2026-09-10 03:30:19",
-      "snippet": "El PIB mantiene el pulso gracias a los servicios, el turismo y la construcción, mientras el repunte de los precios y el encarecimiento de la financiación pública estrechan el margen de maniobra de las administraciones: la factura de los intereses crecerá cerca de un 50% hasta 2030",
-      "url": "https://www.infobae.com/espana/2026/09/10/espana-resiste-pero-la-inflacion-y-el-coste-de-la-deuda-amenazan-con-frenar-su-crecimiento/",
+      "published_at": "2026-09-10 04:46:23",
+      "snippet": "Como cada miércoles, aquí están los números ganadores del último sorteo",
+      "url": "https://www.infobae.com/colombia/2026/09/10/loteria-del-valle-resultados-miercoles-9-de-septiembre-quien-gano-el-premio-mayor-de-9000-millones/",
       "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "España se afianza como la gran potencia limpia de Europa: el ‘boom’ de las renovables ahorra un 19% en la factura de la luz de los hogares",
-      "source": "infobae",
-      "published_at": "2026-09-10 03:30:00",
-      "snippet": "El despliegue eólico y fotovoltaico coloca a nuestro país a la cabeza del continente con más de 165 GW en desarrollo y permite reducir de media 10 euros al mes el gasto en electricidad de las familias",
-      "url": "https://www.infobae.com/espana/2026/09/10/espana-se-afianza-como-la-gran-potencia-limpia-de-europa-el-boom-de-las-renovables-ahorra-un-19-en-la-factura-de-la-luz-de-los-hogares/",
-      "country": [
-        "united states of america",
-        "colombia",
         "argentina",
+        "united states of america",
+        "colombia",
         "mexico"
       ],
       "category": [
@@ -96,11 +34,28 @@
       ]
     },
     {
-      "title": "Rolando Figueroa avanza con la licitación de dos obras eléctricas para ampliar la red provincial",
-      "source": "rionegro",
-      "published_at": "2026-09-10 03:30:00",
-      "snippet": "El gobernador anticipó las licitaciones de la conexión Alicurá-Villa La Angostura y el cierre del Anillo Norte entre Las Lajas y Chos Malal. Sostuvo que la expansión permitirá acompañar el crecimiento provincial y reducir los costos de las tarifas.",
-      "url": "https://www.rionegro.com.ar/politica/figueroa-apuesta-a-ampliar-la-red-electrica-y-reducir-el-costo-de-la-energia-en-neuquen/",
+      "title": "Lotería de Manizales resultados miércoles 9 de septiembre: quién ganó el premio mayor de $2.600 millones",
+      "source": "infobae",
+      "published_at": "2026-09-10 04:46:04",
+      "snippet": "Este popular sorteo ofrece a sus apostadores la oportunidad de ganar uno de los más de 50 premios principales",
+      "url": "https://www.infobae.com/colombia/2026/09/10/loteria-de-manizales-resultados-miercoles-9-de-septiembre-quien-gano-el-premio-mayor-de-2600-millones/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Vialidad Nacional le impuso una multa a la concesionaria del peaje de la Riccheri por cobrar de más",
+      "source": "mdzol",
+      "published_at": "2026-09-10 04:40:00",
+      "snippet": "La concesionaria de la Riccheri fue multada por Vialidad Nacional deberá pagar $73,8 millones por cargos de Telepase de hasta $155.802.",
+      "url": "https://www.mdzol.com/sociedad/vialidad-nacional-le-impuso-una-multa-la-concesionaria-del-peaje-la-riccheri-cobrar-mas-n1603549",
       "country": [
         "argentina"
       ],
@@ -110,11 +65,58 @@
       ]
     },
     {
-      "title": "«Antes no había endeudamiento porque no había crédito»: Cristian Ritondo reconoció el crecimiento de la morosidad",
+      "title": "Baloto y Revancha: números ganadores del lunes 7 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-10 04:31:15",
+      "snippet": "Baloto realiza tres sorteos a la semana, todos los miércoles y sábados, en los que se puede ganar varios miles de millones de pesos. Estos son los resultados del sorteo",
+      "url": "https://www.infobae.com/colombia/2026/09/10/baloto-y-revancha-numeros-ganadores-del-lunes-7-de-septiembre/",
+      "country": [
+        "argentina",
+        "united states of america",
+        "colombia",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Preocupación en la industria: el acumulado de 2026 ya está un 12% debajo del mismo período de 2023",
+      "source": "elcordillerano",
+      "published_at": "2026-09-10 04:30:33",
+      "snippet": "Este martes el INDEC informó que el Índice de Producción Industrial (IPI) manufacturero se hundió 5% en julio en comparación con el mes previo.",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/10/261164-preocupacion-en-la-industria-el-acumulado-de-2026-ya-esta-un-12por_ciento-debajo-del-mismo-periodo-de-2023",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Ni libertad financiera ni emprender sin capital: la verdadera búsqueda que domina el interés laboral de los colombianos en Google",
+      "source": "infobae",
+      "published_at": "2026-09-10 04:19:14",
+      "snippet": "Las búsquedas de los últimos 30 días revelan interés por vacantes para personas sin experiencia, trabajos durante los fines de semana, plataformas de empleo y opciones laborales en empresas como Amazon y Nestlé",
+      "url": "https://www.infobae.com/colombia/2026/09/10/ni-libertad-financiera-ni-emprender-sin-capital-la-verdadera-busqueda-que-domina-el-interes-laboral-de-los-colombianos-en-google/",
+      "country": [
+        "argentina",
+        "mexico",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Cruce de alta tensión entre Guillermo Moreno, Mariana Brey y Antonio Aracre por la seguridad, el peronismo y la gestión económica",
       "source": "elintransigente",
-      "published_at": "2026-09-10 03:22:40",
-      "snippet": "El diputado del PRO vinculó el aumento de los incumplimientos con el acceso al crédito y anticipó una propuesta para abordar las deudas familiares. The post «Antes no había endeudamiento porque no había crédito»: Cristian Ritondo reconoció el crecimiento de la morosidad appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-      "url": "https://elintransigente.com/2026/09/cristian-ritondo-morosidad-familiar/",
+      "published_at": "2026-09-10 04:16:31",
+      "snippet": "La confrontación se produjo durante un análisis sobre el abordaje del delito en la provincia de Buenos Aires, el futuro electoral del gobernador Axel Kicillof y la responsabilidad de gestiones anteriores en la Economía The post Cruce de alta tensión entre Guillermo Moreno, Mariana Brey y Antonio Aracre por la seguridad, el peronismo y la gestión económica appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+      "url": "https://elintransigente.com/2026/09/cruce-de-alta-tension-entre-guillermo-moreno-mariana-brey-y-antonio-aracre-por-la-seguridad-el-peronismo-y-la-gestion-economica/",
       "country": [
         "argentina"
       ],
