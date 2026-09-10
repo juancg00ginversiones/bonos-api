@@ -1,94 +1,14 @@
 {
-  "updated_at": "2026-09-10T19:27:26Z",
+  "updated_at": "2026-09-10T20:29:25Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "El Indec difunde hoy la inflación de agosto: los analistas estiman que se ubicará por debajo del 2%",
-      "source": "lagaceta_ar",
-      "published_at": "2026-09-10 07:23:00",
-      "snippet": "Hasta ahora, el dato más bajo del año se registró en junio, cuando el IPC avanzó 1,9%.",
-      "url": "https://www.lagaceta.com.ar/nota/1153372/economia/indec-difunde-hoy-inflacion-agosto-analistas-estiman-se-ubicara-debajo-2porciento.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Jordi Martí, arquitecto, reflexiona sobre el uso del agua en las urbanizaciones: “Quizá la próxima sequía ya ha empezado”",
-      "source": "infobae",
-      "published_at": "2026-09-10 07:20:49",
-      "snippet": "Algunos edificios ya han comenzado a incluir infraestructuras que permitan tratar y reutilizar este recurso",
-      "url": "https://www.infobae.com/espana/2026/09/10/jordi-marti-arquitecto-reflexiona-sobre-el-uso-del-agua-en-las-urbanizaciones-quiza-la-proxima-sequia-ya-ha-empezado/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top",
-        "environment"
-      ]
-    },
-    {
-      "title": "La Bolsa española abre con un alza del 0,36 % pendiente del BCE y del precio del crudo",
-      "source": "infobae",
-      "published_at": "2026-09-10 07:16:44",
-      "snippet": "La Bolsa española abre con un alza del 0,36 % pendiente del BCE y del precio del crudo",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/10/la-bolsa-espanola-abre-con-un-alza-del-036-pendiente-del-bce-y-del-precio-del-crudo/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "AIE: La crisis de Ormuz impulsa la demanda mundial de carbón y alcanzará un récord en 2026",
-      "source": "infobae",
-      "published_at": "2026-09-10 07:16:09",
-      "snippet": "AIE: La crisis de Ormuz impulsa la demanda mundial de carbón y alcanzará un récord en 2026",
-      "url": "https://www.infobae.com/america/agencias/2026/09/10/aie-la-crisis-de-ormuz-impulsa-la-demanda-mundial-de-carbon-y-alcanzara-un-record-en-2026/",
-      "country": [
-        "mexico",
-        "united states of america",
-        "colombia",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El Gobierno avanzó en el Senado con dos reformas clave para su programa económico",
-      "source": "elonce",
-      "published_at": "2026-09-10 07:12:27",
-      "snippet": "El oficialismo obtuvo dictámenes para reformar el Banco Central e impulsar Inocencia Fiscal II y buscará llevar ambas iniciativas al recinto la próxima semana.",
-      "url": "https://www.elonce.com/politica/el-gobierno-avanzo-en-el-senado-con-dos-reformas-clave-para-su-programa-economico.htm",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Tras su manto de neblinas... la educación",
+      "title": "Granados, sobre la morosidad: \"A veces las políticas llegan más tarde que las soluciones económicas\"",
       "source": "diariopanorama",
-      "published_at": "2026-09-10 07:09:00",
-      "snippet": "Los pésimos resultados de los alumnos argentinos en la prueba PISA generaron un rebote mucho menor que las Malvinas. ¿Por qué a las islas se las percibe como una causa nacional y a la gravísima crisis educativa casi que se la ignora?",
-      "url": "https://diariopanorama.com/noticia/565962/tras-manto-neblinas-educacion",
+      "published_at": "2026-09-10 08:20:00",
+      "snippet": "Osvaldo Granados analizó en su columna de este jueves en Radio Panorama las medidas de bancos y fintechs para refinanciar deudas ante la alta morosidad que se registra entre los argentinos.",
+      "url": "https://diariopanorama.com/noticia/565973/granados-sobre-morosidad-a-veces-politicas-llegan-mas-tarde-soluciones-economicas",
       "country": [
         "argentina"
       ],
@@ -98,11 +18,11 @@
       ]
     },
     {
-      "title": "Oficial y confirmado | El IRS depositará hasta 5.120 dólares en las cuentas bancarias de todas las familias que obtengan el Formulario 1040 y cumplan estos requisitos",
-      "source": "clarin",
-      "published_at": "2026-09-10 07:02:14",
-      "snippet": "Permite el reembolso de gastos relacionados con la adopción de un menor de edad. Incluye los honorarios de abogados, los servicios de agencias y gastos de alojamiento.",
-      "url": "https://www.clarin.com/estados-unidos/oficial-confirmado-irs-depositara-5120-dolares-cuentas-bancarias-todas-familias-obtengan-formulario-1040-cumplan-requisitos_0_fCc4GsLvOv.html",
+      "title": "El uso del ferrocarril acumula una caída del 13,4 % hasta julio por la alta velocidad",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-10 08:11:19",
+      "snippet": "El número de usuarios del ferrocarril de larga distancia cayó un 13,4 % en España en los siete primeros meses del año, lastrado, en particular, por la alta velocidad (AVE, Ouigo, Iryo y Avlo), que acumula un descenso del 14,1 % en ese periodo.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/10/ferrocarril-acumula-caida-13-4-134134185.html",
       "country": [
         "argentina"
       ],
@@ -112,11 +32,81 @@
       ]
     },
     {
-      "title": "Dólar blue hoy: a cuánto cotiza este jueves 10 de septiembre",
-      "source": "clarin",
-      "published_at": "2026-09-10 07:00:07",
-      "snippet": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
-      "url": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-jueves-10-septiembre_0_iWkLfo1nNy.html",
+      "title": "Las hipotecas afrontan nuevas subidas al calor de los tipos tras dispararse el Euríbor un 147% desde 2022",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-10 08:10:15",
+      "snippet": "Pese a que el único mandato oficial al que responde el BCE es mantener la estabilidad de precios, sus decisiones sobre los tipos de interés se ramifican a lo largo y ancho de la economía. Esta realidad se observa especialmente en el caso de los préstamos, cuyos intereses se ven altamente influenciados por los tipos oficiales. Dentro de este componente, las hipotecas y los préstamos al consumo amenazan con encarecerse aún más.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/10/hipotecas-afrontan-nuevas-subidas-calor-134134067.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El dato de inflación de CABA anticipa una fuerte desaceleración del IPC de agosto que publica hoy Indec",
+      "source": "jujuyaldia_ar",
+      "published_at": "2026-09-10 08:00:00",
+      "snippet": "La suba de precios porteña marcó 1,7% mensual y dejó una señal alentadora para el registro nacional. Que números esperan consultoras y analistas del mercado Jujuy al día ® – El índice de precios de la Ciudad de Buenos Aires marcó en agosto una suba de 1,7% mensual que reforzó las expectativas de una desaceleración [...] La entrada El dato de inflación de CABA anticipa una fuerte desaceleración del IPC de agosto que publica hoy Indec se publicó primero en Jujuy al día .",
+      "url": "https://www.jujuyaldia.com.ar/2026/09/10/el-dato-de-inflacion-de-caba-anticipa-una-fuerte-desaceleracion-del-ipc-de-agosto-que-publica-hoy-indec/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "YPF logró una emisión récord de U$S1.200 millones en el mercado internacional",
+      "source": "lagaceta_ar",
+      "published_at": "2026-09-10 07:56:00",
+      "snippet": "Con un plazo a nueve años y vencimiento en junio de 2035, los títulos se colocaron a una tasa de interés del 7,55% (tasa efectiva del 7,85%).",
+      "url": "https://www.lagaceta.com.ar/nota/1153375/economia/ypf-logro-emision-record-us1200-millones-mercado-internacional.html",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Rodrigo Chacón, panadero: “Si no vas a comer el pan pronto, conviene cortarlo y congelarlo a -18 °C”",
+      "source": "tn",
+      "published_at": "2026-09-10 07:50:09",
+      "snippet": "El especialista explicó cuál es la mejor manera de conservar una barra cuando no se va a comer en los próximos días y por qué conviene dividirla antes de congelarla.",
+      "url": "https://tn.com.ar/cocina/tendencias/2026/09/10/rodrigo-chacon-panadero-si-no-vas-a-comer-el-pan-pronto-conviene-cortarlo-y-congelarlo-a-18-c/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El INDEC da a conocer la inflación de agosto y el Gobierno espera un dato debajo del 2%",
+      "source": "diariopanorama",
+      "published_at": "2026-09-10 07:49:00",
+      "snippet": "Las consultoras privadas proyectan una suba de precios de entre 1,4% y 1,9%, mientras que el relevamiento del Banco Central ubica la estimación promedio en 1,7%.",
+      "url": "https://diariopanorama.com/noticia/565965/indec-da-conocer-inflacion-agosto-gobierno-espera-dato-debajo-2porciento",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El Ibex 35 sube un 0,6% pendiente del BCE y con el Brent sobre los 100 dólares",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-10 07:47:18",
+      "snippet": "El Ibex 35 ha iniciado la sesión de este jueves en positivo y, tras abrir con una subida del 0,39%, ha ampliado sus ganancias hasta el 0,6% en los primeros minutos de negociación, en una jornada marcada por la reunión de política monetaria del Banco Central Europeo (BCE) y por la evolución del petróleo en un contexto de mayores tensiones en Oriente Próximo.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/10/ibex-cronica-bolsa-jueves-10-septiembre-2026-134133125.html",
       "country": [
         "argentina"
       ],
