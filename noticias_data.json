@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T23:39:42Z",
+  "updated_at": "2026-09-10T00:58:18Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Los hogares argentinos no recurren más al crédito en 2026: lo que cambió es que no pueden pagarlos",
-      "source": "elesquiu",
-      "published_at": "2026-09-09 11:38:24",
-      "snippet": "Un nuevo informe revela que el aumento de la morosidad, que alcanzó un nuevo récord en julio, no se explica por mayor crédito disponible ni porque más hogares recurran al financiamiento. Del análisis de datos de la última década, se observa que el año en que más hogares tomaron deuda fue 2019",
-      "url": "https://www.elesquiu.com/politica/2026/9/9/los-hogares-argentinos-no-recurren-mas-al-credito-en-2026-lo-que-cambio-es-que-no-pueden-pagarlos-595837.html",
+      "title": "Municipales avanzan con pedidos de aumento salarial",
+      "source": "corrienteshoy",
+      "published_at": "2026-09-09 12:55:44",
+      "snippet": "Portal de noticias de la ciudad de Corrientes, actualidad, galerías de fotos, sociales, eventos, carnavales. Información general y radio en vivo.",
+      "url": "https://www.corrienteshoy.com/info-general/municipales-avanzan-con-pedidos-de-aumento-salarial.htm",
       "country": [
         "argentina"
       ],
@@ -18,31 +18,86 @@
       ]
     },
     {
-      "title": "Atlanta acepta vender su cárcel del centro al condado de Fulton por 68 millones de dólares",
-      "source": "infobae",
-      "published_at": "2026-09-09 11:37:03",
-      "snippet": "El acuerdo impulsado por el alcalde Andre Dickens busca sumar 1.300 camas al sistema de detención local y podría modificar los planes de reformas en la prisión de Rice Street",
-      "url": "https://www.infobae.com/estados-unidos/2026/09/09/atlanta-acepta-vender-su-carcel-del-centro-al-condado-de-fulton-por-68-millones-de-dolares/",
+      "title": "Medio Oriente. Petróleo subió tras ataque de Irán a una base de EE. UU. en Jordania",
+      "source": "resumenlatinoamericano_org",
+      "published_at": "2026-09-09 12:55:16",
+      "snippet": "Resumen Medio Oriente, 09 de septiembre de 2026. Los precios del petróleo se disparan, con el Brent acercándose a los 100 dólares por barril, tras la escalada de tensiones entre Irán y Estados Unidos. Los precios del petróleo subieron por cuarta sesión consecutiva, con un incremento superior a un dólar en las primeras operaciones. De acuerdo con [...] La entrada Medio Oriente. Petróleo subió tras ataque de Irán a una base de EE. UU. en Jordania se publicó primero en Resumen Latinoamericano .",
+      "url": "https://www.resumenlatinoamericano.org/2026/09/09/medio-oriente-petroleo-subio-tras-ataque-de-iran-a-una-base-de-ee-uu-en-jordania/",
       "country": [
-        "united states of america",
-        "colombia",
-        "argentina",
-        "mexico"
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Musimundo Puerto Rico funciona con personal mínimo y crece la preocupación de un posible cierre",
+      "source": "elterritorio",
+      "published_at": "2026-09-09 12:54:03",
+      "snippet": "La sucursal de Musimundo en Puerto Rico atraviesa una situación cada vez más crítica. Gran parte de los trabajadores ya fue desvinculada y el local actualmente funciona con una dotación mínima, abocada principalmente a tareas de cobranzas.",
+      "url": "https://www.elterritorio.com.ar/noticias/2026/09/09/912320-musimundo-puerto-rico-funciona-con-personal-minimo-y-crece-la-preocupacion-de-un-posible-cierre",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Inteligencia artificial llega a Aave: bots podrán preparar operaciones DeFi",
+      "source": "criptonoticias",
+      "published_at": "2026-09-09 12:53:17",
+      "snippet": "La nueva herramienta permite a bots como ChatGPT y Claude leer datos y armar transacciones en las versiones V3 y V4, requiriendo firma del usuario. La entrada Inteligencia artificial llega a Aave: bots podrán preparar operaciones DeFi se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
+      "url": "https://www.criptonoticias.com/tecnologia/inteligencia-artificial-aave-bots-operaciones-defi/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Qatar. Déficit alcanza su nivel más alto en una década",
+      "source": "resumenlatinoamericano_org",
+      "published_at": "2026-09-09 12:53:08",
+      "snippet": "Resumen Medio Oriente, 09 de septiembre de 2026. El Ministerio de Finanzas qatarí anunció que el país registró un déficit presupuestario de cinco mil 800 millones de dólares en el segundo trimestre del año. Qatar registró su mayor déficit presupuestario trimestral en casi una década, debido a que los ingresos por gas natural prácticamente se esfumaron [...] La entrada Qatar. Déficit alcanza su nivel más alto en una década se publicó primero en Resumen Latinoamericano .",
+      "url": "https://www.resumenlatinoamericano.org/2026/09/09/qatar-deficit-alcanza-su-nivel-mas-alto-en-una-decada/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Así es la casa hecha con 200.000 botellas que se montó en solo tres días",
+      "source": "mdzol",
+      "published_at": "2026-09-09 12:53:00",
+      "snippet": "Una vivienda de Quebec utilizó paneles con PET reciclado equivalente a 200.000 envases. La estructura se instaló en apenas tres jornadas.",
+      "url": "https://www.mdzol.com/tendencias/asi-es-la-casa-hecha-200000-botellas-que-se-monto-solo-tres-dias-n1602987",
+      "country": [
+        "argentina"
       ],
       "category": [
         "business",
         "top",
-        "politics"
+        "environment"
       ]
     },
     {
-      "title": "Cuánto hay que ganar para ser de clase media en CABA",
-      "source": "cronista",
-      "published_at": "2026-09-09 11:34:11",
-      "snippet": "El Gobierno porteño publicó las canastas de consumo correspondientes al octavo mes del año, que determinan el ingreso mínimo necesario para que un hogar no sea considerado pobre.",
-      "url": "https://www.cronista.com/economia-politica/cuanto-hay-que-ganar-para-ser-de-clase-media-en-caba-2/",
+      "title": "Huevo, cebolla y chile serrano: los precios que más subieron en México en agosto",
+      "source": "infobae",
+      "published_at": "2026-09-09 12:51:32",
+      "snippet": "El INEGI informa que el INPC sube 0.20% en el mes y alcanza 145.462 puntos",
+      "url": "https://www.infobae.com/mexico/2026/09/09/huevo-cebolla-y-chile-serrano-los-precios-que-mas-subieron-en-mexico-en-agosto/",
       "country": [
-        "argentina"
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
       ],
       "category": [
         "business",
@@ -50,67 +105,11 @@
       ]
     },
     {
-      "title": "Plottier empieza a recuperar terreno con una obra clave para sus vecinos",
-      "source": "adnsur",
-      "published_at": "2026-09-09 11:32:43",
-      "snippet": "El Gobierno provincial llamó a licitación para construir un edificio multipropósito de 1.500 metros cuadrados.",
-      "url": "https://www.adnsur.com.ar/sociedad/plottier-empieza-a-recuperar-terreno-con-una-obra-clave-para-sus-vecinos_a6aa14394a68e0d8bb0dd2c1a",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Las pymes españolas generan 42.841 euros anuales por trabajador, un 17% menos que la media europea y muy por debajo de Alemania o Francia",
-      "source": "laopinioncoruna",
-      "published_at": "2026-09-09 11:30:38",
-      "snippet": "Las pymes españolas, que representan un 99,9% del tejido productivo del país, generan 42.841 euros anuales por trabajador, un 17% menos que la media de la Unión Europea (UE), de 51.718 millones, y aún menos que las alemanas (62.089 euros) o las francesas (59.803 euros). Esta es una de las principales conclusiones del informe “Dimensión empresarial: diagnóstico y propuestas”, elaborado por Pimec y el Observatorio de la Pyme de Cataluña. El acto ha contado con las intervenciones del presidente de Pimec, Antoni Cañete; el presidente del Observatorio de la Pyme de Cataluña, Oriol Amat, y el delegado permanente de Pimec en Madrid, Ferran Bel.",
-      "url": "https://www.laopinioncoruna.es/economia/2026/09/09/pymes-espanolas-generan-42-841-134109857.html",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El petróleo volvió a superar los US$100 tras nuevos ataques en el estrecho de Ormuz",
-      "source": "elonce",
-      "published_at": "2026-09-09 11:30:00",
-      "snippet": "El petróleo Brent superó los US$100 por barril tras nuevos ataques en el estrecho de Ormuz y crecieron los temores por el suministro mundial.",
-      "url": "https://www.elonce.com/economia/el-petroleo-volvio-a-superar-los-us100-tras-nuevos-ataques-en-el-estrecho-de-ormuz.htm",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El aumento a estatales de Corrientes llegaría en octubre",
-      "source": "corrienteshoy",
-      "published_at": "2026-09-09 11:29:16",
-      "snippet": "Portal de noticias de la ciudad de Corrientes, actualidad, galerías de fotos, sociales, eventos, carnavales. Información general y radio en vivo.",
-      "url": "https://www.corrienteshoy.com/economia/el-aumento-a-estatales-de-corrientes-llegaria-en-octubre.htm",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "YPF va por U$S 154.000 millones bajo el RIGI: un tercer buque de GNL y más petróleo de Vaca Muerta",
-      "source": "clarin",
-      "published_at": "2026-09-09 11:28:55",
-      "snippet": "La petrolera proyecta reunir ese monto en inversiones junto con sus socios. La cifra incluye proyectos ya presentados, nuevas ampliaciones y desembolsos distribuidos durante varias décadas.",
-      "url": "https://www.clarin.com/energia-y-mineria/ypf-va-us-154000-millones-rigi-tercer-buque-gnl-petroleo-vaca-muerta_0_Z4R2DW5Mv6.html",
+      "title": "Invertirán u$s 15 millones para construir base operativa del LNG en el puerto de SAE",
+      "source": "elcordillerano",
+      "published_at": "2026-09-09 12:49:57",
+      "snippet": "La constructora IEB iniciará las obras civiles destinadas a brindar soporte logístico y operativo a los navíos metaneros Hilli y MKII.",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/09/261008-invertiran-us-15-millones-para-construir-base-operativa-del-lng-en-el-puerto-de-sae",
       "country": [
         "argentina"
       ],
