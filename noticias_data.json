@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-09-10T15:05:39Z",
+  "updated_at": "2026-09-10T15:48:05Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Máximo Kirchner llegó a 11 mil millones de pesos en su última declaración jurada",
-      "source": "flipr_ar",
-      "published_at": "2026-09-10 03:02:08",
-      "snippet": "Se dio a conocer el patrimonio del fundador de La Cámpora que fue presentado en la Oficina Anticorrupción. Leer más...",
-      "url": "https://flipr.com.ar/nacionales/opinion/revistanoticias/maximo-kirchner-llego-a-11-mil-millones-de-pesos-en-su-ultima-declaracion-jurada/",
+      "title": "Panamá se afianza como centro importante de servicios marítimos auxiliares",
+      "source": "infobae",
+      "published_at": "2026-09-10 03:43:29",
+      "snippet": "Servicios marítimos de avituallamiento crecen 26.3% durante julio, revelan las estadísticas de la Autoridad Marítima",
+      "url": "https://www.infobae.com/panama/2026/09/10/panama-se-afianza-como-centro-importante-de-servicios-maritimos-auxiliares/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Gran Hermano: la abultada cifra que cobraría Santiago del Moro por conducir en Telefe",
+      "source": "elintransigente",
+      "published_at": "2026-09-10 03:34:46",
+      "snippet": "El conductor volverá al frente del reality de Telefe, que presentará una casa renovada y ya tiene fechas anunciadas para su regreso. The post Gran Hermano: la abultada cifra que cobraría Santiago del Moro por conducir en Telefe appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+      "url": "https://elintransigente.com/2026/09/gran-hermano-santiago-del-moro-2/",
       "country": [
         "argentina"
       ],
@@ -18,26 +35,11 @@
       ]
     },
     {
-      "title": "Convocan a audiencia pública para analizar seis proyectos de manejo sostenible de bosques en Misiones",
-      "source": "misionesonline",
-      "published_at": "2026-09-10 03:01:33",
-      "snippet": null,
-      "url": "https://misionesonline.net/2026/09/10/convocan-a-audiencia-publica-para-analizar-seis-proyectos-de-manejo-sostenible-de-bosques-en-misiones/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top",
-        "environment"
-      ]
-    },
-    {
-      "title": "El Municipio de Río Grande amplía herramientas en los barrios",
-      "source": "surenio_ar",
-      "published_at": "2026-09-10 03:01:00",
-      "snippet": "A través de la Escuela Municipal de Emprendedores, el Municipio acerca capacitación, nuevas herramientas y acompañamiento a los barrios de Río Grande, fortaleciendo la cercanía con los vecinos y vecinas.... La entrada El Municipio de Río Grande amplía herramientas en los barrios se publicó primero en Diario El Sureño .",
-      "url": "https://www.surenio.com.ar/el-municipio-de-rio-grande-amplia-herramientas-en-los-barrios/",
+      "title": "INDEC da a conocer este jueves el dato de inflación de agosto: qué espera el Gobierno",
+      "source": "minutouno",
+      "published_at": "2026-09-10 03:33:00",
+      "snippet": "El INDEC dará a conocer el índice de precios al consumiro correspondiente al mes pasado y en el Ministerio de Economía tienen la esperanza de que se ubique alrededor del 1,5%.",
+      "url": "https://www.minutouno.com/economia/indec-da-conocer-este-jueves-el-dato-inflacion-agosto-que-espera-el-gobierno-n6320587",
       "country": [
         "argentina"
       ],
@@ -46,11 +48,11 @@
       ]
     },
     {
-      "title": "Camuzzi y Banco Tierra del Fuego facilitan el acceso al gas natural",
-      "source": "surenio_ar",
-      "published_at": "2026-09-10 03:01:00",
-      "snippet": "La iniciativa permitirá a los vecinos de la provincia financiar las obras de instalaciones internas necesarias para conectarse a la red troncal de gas natural. Las cuotas de los créditos,... La entrada Camuzzi y Banco Tierra del Fuego facilitan el acceso al gas natural se publicó primero en Diario El Sureño .",
-      "url": "https://www.surenio.com.ar/camuzzi-y-banco-tierra-del-fuego-facilitan-el-acceso-al-gas-natural/",
+      "title": "Yanina Latorre contó que Cinthia Fernández tiene una deuda millonaria en el country donde vive: “La intimaron”",
+      "source": "tn",
+      "published_at": "2026-09-10 03:32:07",
+      "snippet": "Yanina Latorre contó que Cinthia Fernández tiene una deuda millonaria en el country donde vive: “La intimaron”. (Foto: Captura América / Instagram cinthia_fernandez_)",
+      "url": "https://tn.com.ar/videos/show/famosos/2026/09/10/yanina-latorre-conto-que-cinthia-fernandez-tiene-una-deuda-millonaria-en-el-country-donde-vive-la-intimaron/",
       "country": [
         "argentina"
       ],
@@ -60,58 +62,61 @@
       ]
     },
     {
-      "title": "Cuándo cobro ANSES: jubilados, AUH, desempleo y el resto de las prestaciones del jueves 10 de septiembre",
-      "source": "ambito",
-      "published_at": "2026-09-10 03:00:00",
-      "snippet": "ANSES confirmó su calendario de pagos para septiembre 2026. De acuerdo a la nueva fórmula de movilidad, las prestaciones aumentarán un 2,11%, correspondiente al dato de la inflación analizado por el INDEC.",
-      "url": "https://www.ambito.com/informacion-general/cuando-cobro-anses-jubilados-auh-desempleo-y-el-resto-las-prestaciones-del-jueves-10-septiembre-n6320563",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Diego Paniagua: \"Somos una ecuación de valor importante para un consumidor que se volvió muy selectivo\"",
-      "source": "ambito",
-      "published_at": "2026-09-10 03:00:00",
-      "snippet": "El CEO de Arcos Dorados repasó la historia y actualidad de McDonald ́s , que cumplió 40 años en Argentina. Cuál es la estrategia de la marca frente a la caída del poder adquisitivo. El plan de apertura de locales y su impacto en el empleo.",
-      "url": "https://www.ambito.com/negocios/diego-paniagua-somos-una-ecuacion-valor-importante-un-consumidor-que-se-volvio-muy-selectivo-n6319402",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El INDEC da a conocer la inflación de agosto: el mercado prevé que perfore otra vez el 2%",
-      "source": "ambito",
-      "published_at": "2026-09-10 03:00:00",
-      "snippet": "Las principales consultoras prevén que la inflación se ubique entre el 1,4% y el 1,9%, en línea con la desaceleración de CABA.",
-      "url": "https://www.ambito.com/economia/el-indec-da-conocer-la-inflacion-agosto-el-mercado-preve-que-perfore-otra-vez-el-2-n6320432",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Las Afores de trabajadores muertos no deben pagar ISR, ministros rechazan propuesta de impuesto",
+      "title": "España resiste, pero la inflación y el coste de la deuda amenazan con frenar su crecimiento",
       "source": "infobae",
-      "published_at": "2026-09-10 02:56:49",
-      "snippet": "El Pleno resolvió que estos recursos se equiparan fiscalmente a un legado",
-      "url": "https://www.infobae.com/mexico/2026/09/10/las-afores-de-trabajadores-muertos-no-deben-pagar-isr-ministros-rechazan-propuesta-de-impuesto/",
+      "published_at": "2026-09-10 03:30:19",
+      "snippet": "El PIB mantiene el pulso gracias a los servicios, el turismo y la construcción, mientras el repunte de los precios y el encarecimiento de la financiación pública estrechan el margen de maniobra de las administraciones: la factura de los intereses crecerá cerca de un 50% hasta 2030",
+      "url": "https://www.infobae.com/espana/2026/09/10/espana-resiste-pero-la-inflacion-y-el-coste-de-la-deuda-amenazan-con-frenar-su-crecimiento/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "España se afianza como la gran potencia limpia de Europa: el ‘boom’ de las renovables ahorra un 19% en la factura de la luz de los hogares",
+      "source": "infobae",
+      "published_at": "2026-09-10 03:30:00",
+      "snippet": "El despliegue eólico y fotovoltaico coloca a nuestro país a la cabeza del continente con más de 165 GW en desarrollo y permite reducir de media 10 euros al mes el gasto en electricidad de las familias",
+      "url": "https://www.infobae.com/espana/2026/09/10/espana-se-afianza-como-la-gran-potencia-limpia-de-europa-el-boom-de-las-renovables-ahorra-un-19-en-la-factura-de-la-luz-de-los-hogares/",
       "country": [
         "united states of america",
         "colombia",
         "argentina",
         "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Rolando Figueroa avanza con la licitación de dos obras eléctricas para ampliar la red provincial",
+      "source": "rionegro",
+      "published_at": "2026-09-10 03:30:00",
+      "snippet": "El gobernador anticipó las licitaciones de la conexión Alicurá-Villa La Angostura y el cierre del Anillo Norte entre Las Lajas y Chos Malal. Sostuvo que la expansión permitirá acompañar el crecimiento provincial y reducir los costos de las tarifas.",
+      "url": "https://www.rionegro.com.ar/politica/figueroa-apuesta-a-ampliar-la-red-electrica-y-reducir-el-costo-de-la-energia-en-neuquen/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "«Antes no había endeudamiento porque no había crédito»: Cristian Ritondo reconoció el crecimiento de la morosidad",
+      "source": "elintransigente",
+      "published_at": "2026-09-10 03:22:40",
+      "snippet": "El diputado del PRO vinculó el aumento de los incumplimientos con el acceso al crédito y anticipó una propuesta para abordar las deudas familiares. The post «Antes no había endeudamiento porque no había crédito»: Cristian Ritondo reconoció el crecimiento de la morosidad appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
+      "url": "https://elintransigente.com/2026/09/cristian-ritondo-morosidad-familiar/",
+      "country": [
+        "argentina"
       ],
       "category": [
         "business",
