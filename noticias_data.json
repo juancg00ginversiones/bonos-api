@@ -1,110 +1,36 @@
 {
-  "updated_at": "2026-09-10T16:50:28Z",
+  "updated_at": "2026-09-10T17:23:42Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Bitcoin supera los 81.000 dólares mientras regresa el impulso de las criptomonedas",
-      "source": "infoplatense_ar",
-      "published_at": "2026-09-10 04:50:00",
-      "snippet": "Por qué cada vez más holders buscan algo más que simplemente mantener sus activos Bitcoin ha regresado con fuerza por [...] La entrada Bitcoin supera los 81.000 dólares mientras regresa el impulso de las criptomonedas se publicó primero en InfoPlatense .",
-      "url": "https://www.infoplatense.com.ar/bitcoin-supera-los-81-000-dolares-mientras-regresa-el-impulso-de-las-criptomonedas/",
+      "title": "Trump ofrece un pago extraordinario de US$ 5.000 y otras conclusiones de la primera noche de la convención republicana",
+      "source": "cnnespanol",
+      "published_at": "2026-09-10 05:20:05",
+      "snippet": "El presidente busca superar los bajos índices de aprobación, los vientos en contra de la economía y las tendencias históricas desfavorables para el partido en el poder.",
+      "url": "https://cnnespanol.cnn.com/2026/09/10/eeuu/trump-pago-conclusiones-convencion-republicana-trax",
       "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Lotería del Valle resultados miércoles 9 de septiembre: quién ganó el premio mayor de $9.000 millones",
-      "source": "infobae",
-      "published_at": "2026-09-10 04:46:23",
-      "snippet": "Como cada miércoles, aquí están los números ganadores del último sorteo",
-      "url": "https://www.infobae.com/colombia/2026/09/10/loteria-del-valle-resultados-miercoles-9-de-septiembre-quien-gano-el-premio-mayor-de-9000-millones/",
-      "country": [
+        "guatemala",
+        "guinea",
+        "puerto rico",
+        "bolivia",
+        "honduras",
+        "peru",
         "argentina",
-        "united states of america",
         "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Lotería de Manizales resultados miércoles 9 de septiembre: quién ganó el premio mayor de $2.600 millones",
-      "source": "infobae",
-      "published_at": "2026-09-10 04:46:04",
-      "snippet": "Este popular sorteo ofrece a sus apostadores la oportunidad de ganar uno de los más de 50 premios principales",
-      "url": "https://www.infobae.com/colombia/2026/09/10/loteria-de-manizales-resultados-miercoles-9-de-septiembre-quien-gano-el-premio-mayor-de-2600-millones/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Vialidad Nacional le impuso una multa a la concesionaria del peaje de la Riccheri por cobrar de más",
-      "source": "mdzol",
-      "published_at": "2026-09-10 04:40:00",
-      "snippet": "La concesionaria de la Riccheri fue multada por Vialidad Nacional deberá pagar $73,8 millones por cargos de Telepase de hasta $155.802.",
-      "url": "https://www.mdzol.com/sociedad/vialidad-nacional-le-impuso-una-multa-la-concesionaria-del-peaje-la-riccheri-cobrar-mas-n1603549",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Baloto y Revancha: números ganadores del lunes 7 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-10 04:31:15",
-      "snippet": "Baloto realiza tres sorteos a la semana, todos los miércoles y sábados, en los que se puede ganar varios miles de millones de pesos. Estos son los resultados del sorteo",
-      "url": "https://www.infobae.com/colombia/2026/09/10/baloto-y-revancha-numeros-ganadores-del-lunes-7-de-septiembre/",
-      "country": [
-        "argentina",
-        "united states of america",
-        "colombia",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Preocupación en la industria: el acumulado de 2026 ya está un 12% debajo del mismo período de 2023",
-      "source": "elcordillerano",
-      "published_at": "2026-09-10 04:30:33",
-      "snippet": "Este martes el INDEC informó que el Índice de Producción Industrial (IPI) manufacturero se hundió 5% en julio en comparación con el mes previo.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/10/261164-preocupacion-en-la-industria-el-acumulado-de-2026-ya-esta-un-12por_ciento-debajo-del-mismo-periodo-de-2023",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Ni libertad financiera ni emprender sin capital: la verdadera búsqueda que domina el interés laboral de los colombianos en Google",
-      "source": "infobae",
-      "published_at": "2026-09-10 04:19:14",
-      "snippet": "Las búsquedas de los últimos 30 días revelan interés por vacantes para personas sin experiencia, trabajos durante los fines de semana, plataformas de empleo y opciones laborales en empresas como Amazon y Nestlé",
-      "url": "https://www.infobae.com/colombia/2026/09/10/ni-libertad-financiera-ni-emprender-sin-capital-la-verdadera-busqueda-que-domina-el-interes-laboral-de-los-colombianos-en-google/",
-      "country": [
-        "argentina",
+        "panama",
+        "nicaragua",
+        "dominican republic",
+        "paraguay",
         "mexico",
-        "colombia",
-        "united states of america"
+        "costa rica",
+        "chile",
+        "uruguay",
+        "venezuela",
+        "cuba",
+        "el salvador",
+        "ecuador",
+        "spain"
       ],
       "category": [
         "business",
@@ -112,11 +38,106 @@
       ]
     },
     {
-      "title": "Cruce de alta tensión entre Guillermo Moreno, Mariana Brey y Antonio Aracre por la seguridad, el peronismo y la gestión económica",
-      "source": "elintransigente",
-      "published_at": "2026-09-10 04:16:31",
-      "snippet": "La confrontación se produjo durante un análisis sobre el abordaje del delito en la provincia de Buenos Aires, el futuro electoral del gobernador Axel Kicillof y la responsabilidad de gestiones anteriores en la Economía The post Cruce de alta tensión entre Guillermo Moreno, Mariana Brey y Antonio Aracre por la seguridad, el peronismo y la gestión económica appeared first on El Intransigente: Últimas noticias de Argentina y el mundo en tiempo real .",
-      "url": "https://elintransigente.com/2026/09/cruce-de-alta-tension-entre-guillermo-moreno-mariana-brey-y-antonio-aracre-por-la-seguridad-el-peronismo-y-la-gestion-economica/",
+      "title": "El estado de los embalses de España jueves 10 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-10 05:16:17",
+      "snippet": "El Ministerio para la Transición Ecológica y el Reto Demográfico ha actualizado su más reciente informe sobre la capacidad de los embalses de agua en España",
+      "url": "https://www.infobae.com/espana/2026/09/10/el-estado-de-los-embalses-de-espana-jueves-10-de-septiembre/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top",
+        "environment"
+      ]
+    },
+    {
+      "title": "Cómo está el euro frente al dólar este 10 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-10 05:01:42",
+      "snippet": "Este fue el comportamiento de la divisa europea frente a la estadounidense en las últimas horas",
+      "url": "https://www.infobae.com/espana/2026/09/10/como-esta-el-euro-frente-al-dolar-este-10-de-septiembre/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La UE destina 7,1 millones de dólares a proyectos de mejora de gestión del agua en Ecuador",
+      "source": "infobae",
+      "published_at": "2026-09-10 05:01:19",
+      "snippet": "La UE destina 7,1 millones de dólares a proyectos de mejora de gestión del agua en Ecuador",
+      "url": "https://www.infobae.com/america/agencias/2026/09/10/la-ue-destina-71-millones-de-dolares-a-proyectos-de-mejora-de-gestion-del-agua-en-ecuador/",
+      "country": [
+        "colombia",
+        "united states of america",
+        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top",
+        "environment"
+      ]
+    },
+    {
+      "title": "A un año de gestión, la Defensoría del Pueblo de Bariloche destacó su crecimiento y mayor presencia en los barrios",
+      "source": "elcordillerano",
+      "published_at": "2026-09-10 05:00:41",
+      "snippet": "Mariana Minuth cumplió su primer año al frente de la institución y realizó un balance de los primeros doce meses.",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/10/261149-a-un-ano-de-gestion-la-defensoria-del-pueblo-de-bariloche-destaco-su-crecimiento-y-mayor-presencia-en-los-barrios",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "\"Si 400 empleados pasan a planta, no hay bono de fin de año\", advirtió Cortes",
+      "source": "elcordillerano",
+      "published_at": "2026-09-10 05:00:41",
+      "snippet": "El jefe comunal volvió a cuestionar la iniciativa aprobada por mayoría en el Concejo Deliberante y aseguró que, cuando reciba formalmente la ordenanza, hará uso de su facultad de veto.",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/10/261182-si-400-empleados-pasan-a-planta-no-hay-bono-de-fin-de-ano-advirtio-cortes",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este jueves 10 de septiembre",
+      "source": "tn",
+      "published_at": "2026-09-10 05:00:36",
+      "snippet": "La cotización del dólar minuto a minuto en los bancos, donde desde abril de 2025 se pueden comprar divisas sin límites. También los precios del Blue, el MEP y el Cripto.",
+      "url": "https://tn.com.ar/economia/2026/09/10/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-jueves-10-de-septiembre/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Air-e anuncia nuevas soluciones eléctricas para municipios de La Guajira",
+      "source": "elinformador",
+      "published_at": "2026-09-10 05:00:00",
+      "snippet": "Según información suministrada por la empresa , autoridades tradicionales manifestaron su disposición de ceder el espacio requerido para instalar un cable aislado necesario para la operación de la subestación móvil destinada a Uribia y Manaure.",
+      "url": "https://www.elinformador.com.co/index.php/general/79-nacional/358522-air-e-anuncia-nuevas-soluciones-electricas-para-municipios-de-la-guajira",
       "country": [
         "argentina"
       ],

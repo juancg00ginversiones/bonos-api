@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-10T16:50:27Z",
+  "updated_at": "2026-09-10T17:23:42Z",
   "current": [
     {
       "casa": "oficial",
       "label": "Dólar Oficial",
       "compra": 1485,
       "venta": 1535.0,
-      "fechaActualizacion": "2026-09-10T13:00:00.000Z",
+      "fechaActualizacion": "2026-09-10T14:00:00.000Z",
       "variation": {
         "venta_pct": 0.33
       }
@@ -16,7 +16,7 @@
       "label": "Dólar Blue",
       "compra": 1525,
       "venta": 1545.0,
-      "fechaActualizacion": "2026-09-10T15:58:00.000Z",
+      "fechaActualizacion": "2026-09-10T16:58:00.000Z",
       "variation": {
         "venta_pct": 0.0
       }
@@ -26,7 +26,7 @@
       "label": "Dólar Tarjeta",
       "compra": 1930.5,
       "venta": 1995.5,
-      "fechaActualizacion": "2026-09-10T13:00:00.000Z",
+      "fechaActualizacion": "2026-09-10T14:00:00.000Z",
       "variation": {
         "venta_pct": 0.33
       }
@@ -34,21 +34,21 @@
     {
       "casa": "contadoconliqui",
       "label": "Dólar CCL",
-      "compra": 1592.3,
-      "venta": 1592.8,
-      "fechaActualizacion": "2026-09-10T15:58:00.000Z",
+      "compra": 1593.3,
+      "venta": 1593.7,
+      "fechaActualizacion": "2026-09-10T16:58:00.000Z",
       "variation": {
-        "venta_pct": -0.01
+        "venta_pct": 0.05
       }
     },
     {
       "casa": "bolsa",
       "label": "Dólar MEP",
-      "compra": 1529.5,
-      "venta": 1530.1,
-      "fechaActualizacion": "2026-09-10T15:58:00.000Z",
+      "compra": 1530.7,
+      "venta": 1532.2,
+      "fechaActualizacion": "2026-09-10T16:58:00.000Z",
       "variation": {
-        "venta_pct": -0.02
+        "venta_pct": 0.12
       }
     },
     {
@@ -64,11 +64,11 @@
     {
       "casa": "cripto",
       "label": "Dólar Cripto",
-      "compra": 1586.52,
-      "venta": 1589.61,
-      "fechaActualizacion": "2026-09-10T15:58:00.000Z",
+      "compra": 1587.23,
+      "venta": 1590.03,
+      "fechaActualizacion": "2026-09-10T16:58:00.000Z",
       "variation": {
-        "venta_pct": 0.4
+        "venta_pct": 0.42
       }
     }
   ],
