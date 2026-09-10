@@ -1,36 +1,33 @@
 {
-  "updated_at": "2026-09-10T17:23:42Z",
+  "updated_at": "2026-09-10T17:57:30Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Trump ofrece un pago extraordinario de US$ 5.000 y otras conclusiones de la primera noche de la convención republicana",
-      "source": "cnnespanol",
-      "published_at": "2026-09-10 05:20:05",
-      "snippet": "El presidente busca superar los bajos índices de aprobación, los vientos en contra de la economía y las tendencias históricas desfavorables para el partido en el poder.",
-      "url": "https://cnnespanol.cnn.com/2026/09/10/eeuu/trump-pago-conclusiones-convencion-republicana-trax",
+      "title": "Malvinas: más denuncias por el petróleo",
+      "source": "eldia_ar",
+      "published_at": "2026-09-10 05:48:34",
+      "snippet": "El Gobierno apunta contra empresas y directivos de petroleras involucrados en la explotación. Críticas del presidente Javier Milei",
+      "url": "https://www.eldia.com/politica-y-economia/malvinas-mas-denuncias-por-el-petroleo-politica-y-economia_1789019314",
       "country": [
-        "guatemala",
-        "guinea",
-        "puerto rico",
-        "bolivia",
-        "honduras",
-        "peru",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El ala política del Gobierno quiso continuar con medidas para recomponer ingresos y actividad pero Milei terminó con el “Estado presente”",
+      "source": "infobae",
+      "published_at": "2026-09-10 05:48:29",
+      "snippet": "Con la cadena nacional sobre Malvinas, el Ejecutivo retomó la iniciativa y cortó con el modo reactivo que arrastraba desde hace tiempo. Mientras tanto, Milei tiene previsto viajar a Londres. Hace 28 años que un presidente argentino no visita la capital británica. El último fue Carlos Menem en 1998. Un viaje de este tipo carga ineludiblemente con el peso de la historia",
+      "url": "https://www.infobae.com/politica/2026/09/10/el-ala-politica-del-gobierno-quiso-continuar-con-medidas-para-recomponer-ingresos-y-actividad-pero-milei-termino-con-el-estado-presente/",
+      "country": [
         "argentina",
-        "colombia",
-        "panama",
-        "nicaragua",
-        "dominican republic",
-        "paraguay",
         "mexico",
-        "costa rica",
-        "chile",
-        "uruguay",
-        "venezuela",
-        "cuba",
-        "el salvador",
-        "ecuador",
-        "spain"
+        "colombia",
+        "united states of america"
       ],
       "category": [
         "business",
@@ -38,33 +35,12 @@
       ]
     },
     {
-      "title": "El estado de los embalses de España jueves 10 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-10 05:16:17",
-      "snippet": "El Ministerio para la Transición Ecológica y el Reto Demográfico ha actualizado su más reciente informe sobre la capacidad de los embalses de agua en España",
-      "url": "https://www.infobae.com/espana/2026/09/10/el-estado-de-los-embalses-de-espana-jueves-10-de-septiembre/",
+      "title": "Casi el 60% de las familias recurre al financiamiento",
+      "source": "eldia_ar",
+      "published_at": "2026-09-10 05:47:34",
+      "snippet": "El 58,7% de los hogares urbanos recurrió a algún tipo de préstamo como cuotas, fiado, ayuda de familiares o amigos y otros",
+      "url": "https://www.eldia.com/politica-y-economia/casi-el-60-de-las-familias-recurre-al-financiamiento-politica-y-economia_1789019254",
       "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top",
-        "environment"
-      ]
-    },
-    {
-      "title": "Cómo está el euro frente al dólar este 10 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-10 05:01:42",
-      "snippet": "Este fue el comportamiento de la divisa europea frente a la estadounidense en las últimas horas",
-      "url": "https://www.infobae.com/espana/2026/09/10/como-esta-el-euro-frente-al-dolar-este-10-de-septiembre/",
-      "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
         "argentina"
       ],
       "category": [
@@ -73,29 +49,39 @@
       ]
     },
     {
-      "title": "La UE destina 7,1 millones de dólares a proyectos de mejora de gestión del agua en Ecuador",
-      "source": "infobae",
-      "published_at": "2026-09-10 05:01:19",
-      "snippet": "La UE destina 7,1 millones de dólares a proyectos de mejora de gestión del agua en Ecuador",
-      "url": "https://www.infobae.com/america/agencias/2026/09/10/la-ue-destina-71-millones-de-dolares-a-proyectos-de-mejora-de-gestion-del-agua-en-ecuador/",
+      "title": "Avanza la reforma de la carta orgánica del Central",
+      "source": "eldia_ar",
+      "published_at": "2026-09-10 05:42:34",
+      "snippet": "El proyecto de reforma de la Carta Orgánica del Banco Central de la República Argentina (BCRA) que impulsa el Gobierno consiguió ayer dictamen en un plenario de comisiones en el Senado.Aprobado sin cambios con relación a la versión que salió de la Cámara de Diputados el pasado 26 de agosto, el texto quedó en...",
+      "url": "https://www.eldia.com/politica-y-economia/avanza-la-reforma-de-la-carta-organica-del-central-politica-y-economia_1789018954",
       "country": [
-        "colombia",
-        "united states of america",
-        "mexico",
         "argentina"
       ],
       "category": [
         "business",
-        "top",
-        "environment"
+        "top"
       ]
     },
     {
-      "title": "A un año de gestión, la Defensoría del Pueblo de Bariloche destacó su crecimiento y mayor presencia en los barrios",
+      "title": "Subieron los dólares y también el riesgo país",
+      "source": "eldia_ar",
+      "published_at": "2026-09-10 05:40:34",
+      "snippet": "El dólar mayorista extendió su tendencia alcista, hasta los $1.514, el spread con el blue se redujo al 1,7%, mínimo desde el 8 de julio.El blue se mantuvo estable y cerró a $1.520 para la compra y a $1.540 para la venta.En el segmento mayorista, que es la referencia del mercado, cerró a $1.514 para la venta.El dólar...",
+      "url": "https://www.eldia.com/politica-y-economia/subieron-los-dolares-y-tambien-el-riesgo-pais-politica-y-economia_1789018834",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Histórico: se firmó el primer crédito hipotecario financiado con fondos de la Anses",
       "source": "elcordillerano",
-      "published_at": "2026-09-10 05:00:41",
-      "snippet": "Mariana Minuth cumplió su primer año al frente de la institución y realizó un balance de los primeros doce meses.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/10/261149-a-un-ano-de-gestion-la-defensoria-del-pueblo-de-bariloche-destaco-su-crecimiento-y-mayor-presencia-en-los-barrios",
+      "published_at": "2026-09-10 05:30:31",
+      "snippet": "El Banco Hipotecario concretó una operación por 50 millones de pesos en Santa Cruz a pagar en 15 años.",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/09/261188-historico-se-firmo-el-primer-credito-hipotecario-financiado-con-fondos-de-la-anses",
       "country": [
         "argentina"
       ],
@@ -105,13 +91,16 @@
       ]
     },
     {
-      "title": "\"Si 400 empleados pasan a planta, no hay bono de fin de año\", advirtió Cortes",
-      "source": "elcordillerano",
-      "published_at": "2026-09-10 05:00:41",
-      "snippet": "El jefe comunal volvió a cuestionar la iniciativa aprobada por mayoría en el Concejo Deliberante y aseguró que, cuando reciba formalmente la ordenanza, hará uso de su facultad de veto.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/10/261182-si-400-empleados-pasan-a-planta-no-hay-bono-de-fin-de-ano-advirtio-cortes",
+      "title": "El brent cae ligeramente, pero se mantiene por encima de los 101 dólares el barril",
+      "source": "infobae",
+      "published_at": "2026-09-10 05:30:19",
+      "snippet": "El brent cae ligeramente, pero se mantiene por encima de los 101 dólares el barril",
+      "url": "https://www.infobae.com/america/agencias/2026/09/10/el-brent-cae-ligeramente-pero-se-mantiene-por-encima-de-los-101-dolares-el-barril/",
       "country": [
-        "argentina"
+        "argentina",
+        "mexico",
+        "colombia",
+        "united states of america"
       ],
       "category": [
         "business",
@@ -119,25 +108,11 @@
       ]
     },
     {
-      "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este jueves 10 de septiembre",
-      "source": "tn",
-      "published_at": "2026-09-10 05:00:36",
-      "snippet": "La cotización del dólar minuto a minuto en los bancos, donde desde abril de 2025 se pueden comprar divisas sin límites. También los precios del Blue, el MEP y el Cripto.",
-      "url": "https://tn.com.ar/economia/2026/09/10/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-jueves-10-de-septiembre/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Air-e anuncia nuevas soluciones eléctricas para municipios de La Guajira",
-      "source": "elinformador",
-      "published_at": "2026-09-10 05:00:00",
-      "snippet": "Según información suministrada por la empresa , autoridades tradicionales manifestaron su disposición de ceder el espacio requerido para instalar un cable aislado necesario para la operación de la subestación móvil destinada a Uribia y Manaure.",
-      "url": "https://www.elinformador.com.co/index.php/general/79-nacional/358522-air-e-anuncia-nuevas-soluciones-electricas-para-municipios-de-la-guajira",
+      "title": "El mercado da por hecha la subida de tipos del BCE este jueves, aunque duda de que sea suficiente para domar la inflación",
+      "source": "laopinioncoruna",
+      "published_at": "2026-09-10 05:27:27",
+      "snippet": "Muy pocas veces en los últimos años había estado tan clara la próxima decisión del Banco Central Europeo (BCE) sobre los tipos de interés. Ante el inclemente repunte de la inflación, que marcó una tasa del 3,6% en la Eurozona en el mes de agosto, la más alta en tres años, el consenso de analistas y mercado descuenta un alza de 25 puntos básicos en el precio del dinero el próximo jueves, lo que lo situaría el tipo de interés en el 2,50%, su nivel más elevado desde marzo de 2025.",
+      "url": "https://www.laopinioncoruna.es/economia/2026/09/10/mercado-da-hecha-subida-tipos-134130557.html",
       "country": [
         "argentina"
       ],
