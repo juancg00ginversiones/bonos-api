@@ -1,83 +1,14 @@
 {
-  "updated_at": "2026-09-10T00:58:18Z",
+  "updated_at": "2026-09-10T01:19:20Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Municipales avanzan con pedidos de aumento salarial",
-      "source": "corrienteshoy",
-      "published_at": "2026-09-09 12:55:44",
-      "snippet": "Portal de noticias de la ciudad de Corrientes, actualidad, galerías de fotos, sociales, eventos, carnavales. Información general y radio en vivo.",
-      "url": "https://www.corrienteshoy.com/info-general/municipales-avanzan-con-pedidos-de-aumento-salarial.htm",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Medio Oriente. Petróleo subió tras ataque de Irán a una base de EE. UU. en Jordania",
-      "source": "resumenlatinoamericano_org",
-      "published_at": "2026-09-09 12:55:16",
-      "snippet": "Resumen Medio Oriente, 09 de septiembre de 2026. Los precios del petróleo se disparan, con el Brent acercándose a los 100 dólares por barril, tras la escalada de tensiones entre Irán y Estados Unidos. Los precios del petróleo subieron por cuarta sesión consecutiva, con un incremento superior a un dólar en las primeras operaciones. De acuerdo con [...] La entrada Medio Oriente. Petróleo subió tras ataque de Irán a una base de EE. UU. en Jordania se publicó primero en Resumen Latinoamericano .",
-      "url": "https://www.resumenlatinoamericano.org/2026/09/09/medio-oriente-petroleo-subio-tras-ataque-de-iran-a-una-base-de-ee-uu-en-jordania/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Musimundo Puerto Rico funciona con personal mínimo y crece la preocupación de un posible cierre",
-      "source": "elterritorio",
-      "published_at": "2026-09-09 12:54:03",
-      "snippet": "La sucursal de Musimundo en Puerto Rico atraviesa una situación cada vez más crítica. Gran parte de los trabajadores ya fue desvinculada y el local actualmente funciona con una dotación mínima, abocada principalmente a tareas de cobranzas.",
-      "url": "https://www.elterritorio.com.ar/noticias/2026/09/09/912320-musimundo-puerto-rico-funciona-con-personal-minimo-y-crece-la-preocupacion-de-un-posible-cierre",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Inteligencia artificial llega a Aave: bots podrán preparar operaciones DeFi",
-      "source": "criptonoticias",
-      "published_at": "2026-09-09 12:53:17",
-      "snippet": "La nueva herramienta permite a bots como ChatGPT y Claude leer datos y armar transacciones en las versiones V3 y V4, requiriendo firma del usuario. La entrada Inteligencia artificial llega a Aave: bots podrán preparar operaciones DeFi se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
-      "url": "https://www.criptonoticias.com/tecnologia/inteligencia-artificial-aave-bots-operaciones-defi/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Qatar. Déficit alcanza su nivel más alto en una década",
-      "source": "resumenlatinoamericano_org",
-      "published_at": "2026-09-09 12:53:08",
-      "snippet": "Resumen Medio Oriente, 09 de septiembre de 2026. El Ministerio de Finanzas qatarí anunció que el país registró un déficit presupuestario de cinco mil 800 millones de dólares en el segundo trimestre del año. Qatar registró su mayor déficit presupuestario trimestral en casi una década, debido a que los ingresos por gas natural prácticamente se esfumaron [...] La entrada Qatar. Déficit alcanza su nivel más alto en una década se publicó primero en Resumen Latinoamericano .",
-      "url": "https://www.resumenlatinoamericano.org/2026/09/09/qatar-deficit-alcanza-su-nivel-mas-alto-en-una-decada/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Así es la casa hecha con 200.000 botellas que se montó en solo tres días",
-      "source": "mdzol",
-      "published_at": "2026-09-09 12:53:00",
-      "snippet": "Una vivienda de Quebec utilizó paneles con PET reciclado equivalente a 200.000 envases. La estructura se instaló en apenas tres jornadas.",
-      "url": "https://www.mdzol.com/tendencias/asi-es-la-casa-hecha-200000-botellas-que-se-monto-solo-tres-dias-n1602987",
+      "title": "Manejo de agua y red vial en una sola gestión: la prueba piloto que arranca en el campo cordobés",
+      "source": "tn",
+      "published_at": "2026-09-09 13:18:28",
+      "snippet": "Crean el Consorcio de Gestión de Caminos y Suelos N° 1. A través del trabajo articulado entre productores y el Estado, la provincia apunta a erradicar la erosión hídrica en las cuencas y garantizar la transitabilidad de la producción.",
+      "url": "https://tn.com.ar/campo/2026/09/09/manejo-de-agua-y-red-vial-en-una-sola-gestion-la-prueba-piloto-que-arranca-en-el-campo-cordobes/",
       "country": [
         "argentina"
       ],
@@ -88,16 +19,16 @@
       ]
     },
     {
-      "title": "Huevo, cebolla y chile serrano: los precios que más subieron en México en agosto",
+      "title": "Precio del euro hoy en Panamá : cotización de apertura del 9 de septiembre",
       "source": "infobae",
-      "published_at": "2026-09-09 12:51:32",
-      "snippet": "El INEGI informa que el INPC sube 0.20% en el mes y alcanza 145.462 puntos",
-      "url": "https://www.infobae.com/mexico/2026/09/09/huevo-cebolla-y-chile-serrano-los-precios-que-mas-subieron-en-mexico-en-agosto/",
+      "published_at": "2026-09-09 13:18:07",
+      "snippet": "La moneda europea experimentó un notable avance respecto a la jornada anterior",
+      "url": "https://www.infobae.com/noticias/2026/09/09/precio-del-euro-hoy-en-panama-cotizacion-de-apertura-del-9-de-septiembre/",
       "country": [
-        "argentina",
+        "united states of america",
         "colombia",
-        "mexico",
-        "united states of america"
+        "argentina",
+        "mexico"
       ],
       "category": [
         "business",
@@ -105,13 +36,101 @@
       ]
     },
     {
-      "title": "Invertirán u$s 15 millones para construir base operativa del LNG en el puerto de SAE",
-      "source": "elcordillerano",
-      "published_at": "2026-09-09 12:49:57",
-      "snippet": "La constructora IEB iniciará las obras civiles destinadas a brindar soporte logístico y operativo a los navíos metaneros Hilli y MKII.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/09/261008-invertiran-us-15-millones-para-construir-base-operativa-del-lng-en-el-puerto-de-sae",
+      "title": "Precio del euro hoy en Cuba: cotización de apertura del 9 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-09 13:17:49",
+      "snippet": "Este fue el comportamiento de la principal moneda europea en la apertura de operaciones",
+      "url": "https://www.infobae.com/noticias/2026/09/09/precio-del-euro-hoy-en-cuba-cotizacion-de-apertura-del-9-de-septiembre/",
       "country": [
-        "argentina"
+        "united states of america",
+        "colombia",
+        "argentina",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Polonia obtiene de EE .UU. un crédito de 3.450 millones de euros para adquirir armamento",
+      "source": "infobae",
+      "published_at": "2026-09-09 13:17:35",
+      "snippet": "Polonia obtiene de EE .UU. un crédito de 3.450 millones de euros para adquirir armamento",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/polonia-obtiene-de-ee-uu-un-credito-de-3450-millones-de-euros-para-adquirir-armamento/",
+      "country": [
+        "united states of america",
+        "colombia",
+        "argentina",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este miércoles 9 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-09 13:17:34",
+      "snippet": "El billete al público continúa ofrecido por quinto día a $1.530 para la venta en el Banco Nación. El blue sigue operado a $1.545. El BCRA compró ayer USD 20 millones",
+      "url": "https://www.infobae.com/economia/2026/09/09/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-9-de-septiembre/",
+      "country": [
+        "united states of america",
+        "colombia",
+        "argentina",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Dólar hoy en Panamá: cotización de apertura del 9 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-09 13:17:32",
+      "snippet": "Este fue el comportamiento de la divisa estadounidense durante los primeros minutos de la jornada",
+      "url": "https://www.infobae.com/noticias/2026/09/09/dolar-hoy-en-panama-cotizacion-de-apertura-del-9-de-septiembre/",
+      "country": [
+        "united states of america",
+        "colombia",
+        "argentina",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Dólar hoy en Cuba: cotización de apertura del 9 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-09 13:17:15",
+      "snippet": "Este fue el comportamiento de la divisa estadounidense durante los primeros minutos de la jornada",
+      "url": "https://www.infobae.com/noticias/2026/09/09/dolar-hoy-en-cuba-cotizacion-de-apertura-del-9-de-septiembre/",
+      "country": [
+        "united states of america",
+        "colombia",
+        "argentina",
+        "mexico"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Precio del euro hoy en Colombia: cotización de apertura del 9 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-09 13:16:58",
+      "snippet": "La moneda europea experimentó un alza respecto a la jornada anterior",
+      "url": "https://www.infobae.com/colombia/2026/09/09/precio-del-euro-hoy-en-colombia-cotizacion-de-apertura-del-9-de-septiembre/",
+      "country": [
+        "united states of america",
+        "colombia",
+        "argentina",
+        "mexico"
       ],
       "category": [
         "business",
