@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-09-10T01:19:20Z",
+  "updated_at": "2026-09-10T15:05:39Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Manejo de agua y red vial en una sola gestión: la prueba piloto que arranca en el campo cordobés",
-      "source": "tn",
-      "published_at": "2026-09-09 13:18:28",
-      "snippet": "Crean el Consorcio de Gestión de Caminos y Suelos N° 1. A través del trabajo articulado entre productores y el Estado, la provincia apunta a erradicar la erosión hídrica en las cuencas y garantizar la transitabilidad de la producción.",
-      "url": "https://tn.com.ar/campo/2026/09/09/manejo-de-agua-y-red-vial-en-una-sola-gestion-la-prueba-piloto-que-arranca-en-el-campo-cordobes/",
+      "title": "Máximo Kirchner llegó a 11 mil millones de pesos en su última declaración jurada",
+      "source": "flipr_ar",
+      "published_at": "2026-09-10 03:02:08",
+      "snippet": "Se dio a conocer el patrimonio del fundador de La Cámpora que fue presentado en la Oficina Anticorrupción. Leer más...",
+      "url": "https://flipr.com.ar/nacionales/opinion/revistanoticias/maximo-kirchner-llego-a-11-mil-millones-de-pesos-en-su-ultima-declaracion-jurada/",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Convocan a audiencia pública para analizar seis proyectos de manejo sostenible de bosques en Misiones",
+      "source": "misionesonline",
+      "published_at": "2026-09-10 03:01:33",
+      "snippet": null,
+      "url": "https://misionesonline.net/2026/09/10/convocan-a-audiencia-publica-para-analizar-seis-proyectos-de-manejo-sostenible-de-bosques-en-misiones/",
       "country": [
         "argentina"
       ],
@@ -19,16 +33,26 @@
       ]
     },
     {
-      "title": "Precio del euro hoy en Panamá : cotización de apertura del 9 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-09 13:18:07",
-      "snippet": "La moneda europea experimentó un notable avance respecto a la jornada anterior",
-      "url": "https://www.infobae.com/noticias/2026/09/09/precio-del-euro-hoy-en-panama-cotizacion-de-apertura-del-9-de-septiembre/",
+      "title": "El Municipio de Río Grande amplía herramientas en los barrios",
+      "source": "surenio_ar",
+      "published_at": "2026-09-10 03:01:00",
+      "snippet": "A través de la Escuela Municipal de Emprendedores, el Municipio acerca capacitación, nuevas herramientas y acompañamiento a los barrios de Río Grande, fortaleciendo la cercanía con los vecinos y vecinas.... La entrada El Municipio de Río Grande amplía herramientas en los barrios se publicó primero en Diario El Sureño .",
+      "url": "https://www.surenio.com.ar/el-municipio-de-rio-grande-amplia-herramientas-en-los-barrios/",
       "country": [
-        "united states of america",
-        "colombia",
-        "argentina",
-        "mexico"
+        "argentina"
+      ],
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "title": "Camuzzi y Banco Tierra del Fuego facilitan el acceso al gas natural",
+      "source": "surenio_ar",
+      "published_at": "2026-09-10 03:01:00",
+      "snippet": "La iniciativa permitirá a los vecinos de la provincia financiar las obras de instalaciones internas necesarias para conectarse a la red troncal de gas natural. Las cuotas de los créditos,... La entrada Camuzzi y Banco Tierra del Fuego facilitan el acceso al gas natural se publicó primero en Diario El Sureño .",
+      "url": "https://www.surenio.com.ar/camuzzi-y-banco-tierra-del-fuego-facilitan-el-acceso-al-gas-natural/",
+      "country": [
+        "argentina"
       ],
       "category": [
         "business",
@@ -36,16 +60,13 @@
       ]
     },
     {
-      "title": "Precio del euro hoy en Cuba: cotización de apertura del 9 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-09 13:17:49",
-      "snippet": "Este fue el comportamiento de la principal moneda europea en la apertura de operaciones",
-      "url": "https://www.infobae.com/noticias/2026/09/09/precio-del-euro-hoy-en-cuba-cotizacion-de-apertura-del-9-de-septiembre/",
+      "title": "Cuándo cobro ANSES: jubilados, AUH, desempleo y el resto de las prestaciones del jueves 10 de septiembre",
+      "source": "ambito",
+      "published_at": "2026-09-10 03:00:00",
+      "snippet": "ANSES confirmó su calendario de pagos para septiembre 2026. De acuerdo a la nueva fórmula de movilidad, las prestaciones aumentarán un 2,11%, correspondiente al dato de la inflación analizado por el INDEC.",
+      "url": "https://www.ambito.com/informacion-general/cuando-cobro-anses-jubilados-auh-desempleo-y-el-resto-las-prestaciones-del-jueves-10-septiembre-n6320563",
       "country": [
-        "united states of america",
-        "colombia",
-        "argentina",
-        "mexico"
+        "argentina"
       ],
       "category": [
         "business",
@@ -53,16 +74,13 @@
       ]
     },
     {
-      "title": "Polonia obtiene de EE .UU. un crédito de 3.450 millones de euros para adquirir armamento",
-      "source": "infobae",
-      "published_at": "2026-09-09 13:17:35",
-      "snippet": "Polonia obtiene de EE .UU. un crédito de 3.450 millones de euros para adquirir armamento",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/polonia-obtiene-de-ee-uu-un-credito-de-3450-millones-de-euros-para-adquirir-armamento/",
+      "title": "Diego Paniagua: \"Somos una ecuación de valor importante para un consumidor que se volvió muy selectivo\"",
+      "source": "ambito",
+      "published_at": "2026-09-10 03:00:00",
+      "snippet": "El CEO de Arcos Dorados repasó la historia y actualidad de McDonald ́s , que cumplió 40 años en Argentina. Cuál es la estrategia de la marca frente a la caída del poder adquisitivo. El plan de apertura de locales y su impacto en el empleo.",
+      "url": "https://www.ambito.com/negocios/diego-paniagua-somos-una-ecuacion-valor-importante-un-consumidor-que-se-volvio-muy-selectivo-n6319402",
       "country": [
-        "united states of america",
-        "colombia",
-        "argentina",
-        "mexico"
+        "argentina"
       ],
       "category": [
         "business",
@@ -70,16 +88,13 @@
       ]
     },
     {
-      "title": "Dólar hoy en vivo: a cuánto operan todas las cotizaciones minuto a minuto este miércoles 9 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-09 13:17:34",
-      "snippet": "El billete al público continúa ofrecido por quinto día a $1.530 para la venta en el Banco Nación. El blue sigue operado a $1.545. El BCRA compró ayer USD 20 millones",
-      "url": "https://www.infobae.com/economia/2026/09/09/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-9-de-septiembre/",
+      "title": "El INDEC da a conocer la inflación de agosto: el mercado prevé que perfore otra vez el 2%",
+      "source": "ambito",
+      "published_at": "2026-09-10 03:00:00",
+      "snippet": "Las principales consultoras prevén que la inflación se ubique entre el 1,4% y el 1,9%, en línea con la desaceleración de CABA.",
+      "url": "https://www.ambito.com/economia/el-indec-da-conocer-la-inflacion-agosto-el-mercado-preve-que-perfore-otra-vez-el-2-n6320432",
       "country": [
-        "united states of america",
-        "colombia",
-        "argentina",
-        "mexico"
+        "argentina"
       ],
       "category": [
         "business",
@@ -87,45 +102,11 @@
       ]
     },
     {
-      "title": "Dólar hoy en Panamá: cotización de apertura del 9 de septiembre",
+      "title": "Las Afores de trabajadores muertos no deben pagar ISR, ministros rechazan propuesta de impuesto",
       "source": "infobae",
-      "published_at": "2026-09-09 13:17:32",
-      "snippet": "Este fue el comportamiento de la divisa estadounidense durante los primeros minutos de la jornada",
-      "url": "https://www.infobae.com/noticias/2026/09/09/dolar-hoy-en-panama-cotizacion-de-apertura-del-9-de-septiembre/",
-      "country": [
-        "united states of america",
-        "colombia",
-        "argentina",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Dólar hoy en Cuba: cotización de apertura del 9 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-09 13:17:15",
-      "snippet": "Este fue el comportamiento de la divisa estadounidense durante los primeros minutos de la jornada",
-      "url": "https://www.infobae.com/noticias/2026/09/09/dolar-hoy-en-cuba-cotizacion-de-apertura-del-9-de-septiembre/",
-      "country": [
-        "united states of america",
-        "colombia",
-        "argentina",
-        "mexico"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Precio del euro hoy en Colombia: cotización de apertura del 9 de septiembre",
-      "source": "infobae",
-      "published_at": "2026-09-09 13:16:58",
-      "snippet": "La moneda europea experimentó un alza respecto a la jornada anterior",
-      "url": "https://www.infobae.com/colombia/2026/09/09/precio-del-euro-hoy-en-colombia-cotizacion-de-apertura-del-9-de-septiembre/",
+      "published_at": "2026-09-10 02:56:49",
+      "snippet": "El Pleno resolvió que estos recursos se equiparan fiscalmente a un legado",
+      "url": "https://www.infobae.com/mexico/2026/09/10/las-afores-de-trabajadores-muertos-no-deben-pagar-isr-ministros-rechazan-propuesta-de-impuesto/",
       "country": [
         "united states of america",
         "colombia",
