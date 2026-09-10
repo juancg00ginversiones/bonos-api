@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-09-10T20:29:03.923395",
+  "as_of": "2026-09-10T21:20:10.426421",
   "sectors": {
     "etfs_mercado_usa": [
       {
         "ticker": "SPY",
-        "price": 757.89,
-        "daily_change_pct": -0.59,
+        "price": 757.83,
+        "daily_change_pct": -0.6,
         "indicators": {
           "rsi14": {
-            "value": 44.17
+            "value": 44.12
           },
           "macd": {
             "diagnostic": "MACD: sesgo bajista"
@@ -61,11 +61,11 @@
       },
       {
         "ticker": "IWM",
-        "price": 287.76,
-        "daily_change_pct": -0.99,
+        "price": 287.7,
+        "daily_change_pct": -1.01,
         "indicators": {
           "rsi14": {
-            "value": 36.28
+            "value": 36.21
           },
           "macd": {
             "diagnostic": "MACD: sesgo bajista"
@@ -1930,5 +1930,5 @@
       }
     ]
   },
-  "updated_at": "2026-09-10T20:29:23Z"
+  "updated_at": "2026-09-10T21:20:32Z"
 }
