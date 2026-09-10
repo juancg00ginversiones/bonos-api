@@ -1,57 +1,27 @@
 {
-  "updated_at": "2026-09-10T23:03:20Z",
+  "updated_at": "2026-09-10T23:33:01Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Qué pasó con la ley de biocombustibles y la sesión del Senado nacional",
-      "source": "lagaceta_ar",
-      "published_at": "2026-09-10 11:02:00",
-      "snippet": "La falta de consenso sobre el papel de las pymes de biodiésel trabó el tratamiento del proyecto. Realizan negociaciones para introducir cambios en el proyecto oficialista.",
-      "url": "https://www.lagaceta.com.ar/nota/1153403/economia/que-paso-ley-biocombustibles-sesion-senado-nacional.html",
+      "title": "Dólar blue, dólar hoy: a cuánto cotizan el jueves 10 de septiembre de 2026",
+      "source": "pagina12",
+      "published_at": "2026-09-10 11:32:31",
+      "snippet": "El precio del dólar oficial y de los dólares financieros. En directo, todas las modificaciones de la jornada cambiaria.",
+      "url": "https://www.pagina12.com.ar/2026/09/10/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-jueves-10-de-septiembre-de-2026/",
       "country": [
         "argentina"
       ],
       "category": [
-        "business",
-        "top",
-        "environment"
-      ]
-    },
-    {
-      "title": "El INDEC difunde la inflación de agosto: Milei espera un buen dato tras el 1,7% de la Ciudad",
-      "source": "eldiariodecatamarca",
-      "published_at": "2026-09-10 11:01:18",
-      "snippet": "El organismo difunde este jueves la variación del costo de vida de agosto que recuperaría el sendero a la baja.",
-      "url": "https://eldiariodecatamarca.com/index.php/politica-y-economia/el-indec-difunde-la-inflacion-de-agosto-milei-espera-un-buen-dato-tras-el-1-7-de-la-ciudad",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "politics",
         "business"
       ]
     },
     {
-      "title": "La Provincia reparte $2.125 millones a municipios por los Juegos Bonaerenses",
-      "source": "eldebate_ar",
-      "published_at": "2026-09-10 11:00:00",
-      "snippet": "Es para afrontar los gastos de la Etapa Regional de los Juegos Bonaerenses. Los fondos serán transferidos a las comunas. Cuánto le corresponde a cada una. El Gobierno de la provincia de Buenos Aires destinó $2.125 millones a los municipios en concepto de apoyo económico para solventar los gastos correspondientes a la Etapa Regional de la 35° edición [...]",
-      "url": "https://eldebate.com.ar/la-provincia-reparte-2-125-millones-a-municipios-por-los-juegos-bonaerenses/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Día del Empleado de Comercio: cuándo será el descanso y qué pasará con los locales en Resistencia",
-      "source": "perfil",
-      "published_at": "2026-09-10 11:00:00",
-      "snippet": "La jornada por el Día del Empleado de Comercio se cumplirá el lunes 28 de septiembre en Resistencia. Los negocios podrán abrir, aunque los trabajadores mercantiles que concurran deberán percibir una remuneración doble. Leer más",
-      "url": "https://www.perfil.com/noticias/nea/dia-del-empleado-de-comercio-cuando-sera-el-descanso-y-que-pasara-con-los-locales-en-resistencia.phtml",
+      "title": "El Salvador. Tres años más para una Corte de Cuentas que no publica sus auditorías",
+      "source": "resumenlatinoamericano_org",
+      "published_at": "2026-09-10 11:31:44",
+      "snippet": "El Faro_Resumen Latinoamericano 10 de septiembre 2026. Durante casi tres años, la Corte de Cuentas ha auditado los fondos del Estado sin hacer públicos sus informes. El secretismo de la institución, dirigida por magistrados reelectos por la Asamblea oficialista, limita la contraloría ciudadana y contrasta con los compromisos de transparencia de El Salvador con el [...] La entrada El Salvador. Tres años más para una Corte de Cuentas que no publica sus auditorías se publicó primero en Resumen Latinoamericano .",
+      "url": "https://www.resumenlatinoamericano.org/2026/09/10/el-salvador-tres-anos-mas-para-una-corte-de-cuentas-que-no-publica-sus-auditorias/",
       "country": [
         "argentina"
       ],
@@ -62,39 +32,37 @@
       ]
     },
     {
-      "title": "El negocio de los US$3.000 millones que prepara el Gobierno y que cambiará las indemnizaciones",
-      "source": "mdzol",
-      "published_at": "2026-09-10 11:00:00",
-      "snippet": "Una nueva herramienta de la reforma laboral busca canalizar recursos de las empresas hacia fondos de inversión, con bancos y administradoras financieras preparados para competir por un mercado que podría alcanzar una cifra millonaria.",
-      "url": "https://www.mdzol.com/dinero/el-negocio-los-us3000-millones-que-prepara-el-gobierno-y-que-cambiara-las-indemnizaciones-n1603714",
+      "title": "Mercado Pago enfrenta una demanda por cobrar intereses de más del 1300% anual",
+      "source": "tiempoar",
+      "published_at": "2026-09-10 11:31:27",
+      "snippet": "Un eventual fallo favorable podría beneficiar a 7 millones de personas en el país.",
+      "url": "https://www.tiempoar.com.ar/ta_article/mercado-pago-enfrenta-una-demanda-por-cobrar-intereses-de-mas-del-1300-anual/",
       "country": [
         "argentina"
       ],
       "category": [
-        "business",
-        "top"
+        "business"
       ]
     },
     {
-      "title": "Morosidad: qué dice el proyecto de Cornejo para refinanciar deudas y quiénes podrán acceder a los beneficios",
-      "source": "losandes",
-      "published_at": "2026-09-10 10:58:35",
-      "snippet": "El proyecto alcanza a familias y empresas y estará vigente hasta fin de año, con posibilidad de una prórroga de hasta seis meses. Ya tiene media sanción.",
-      "url": "https://www.losandes.com.ar/politica/morosidad-que-dice-el-proyecto-cornejo-refinanciar-deudas-y-quienes-podran-acceder-los-beneficios-n6005660",
+      "title": "Sigue el derrumbe de la actividad en la construcción y la venta de insumos cayó 3,5% en agosto",
+      "source": "tiempoar",
+      "published_at": "2026-09-10 11:30:07",
+      "snippet": "La cifra corresponde al Índice Construya, elaborado por las marcas y fabricantes líderes del sector. Se suma a la fuerte baja que había informado el Indec para julio pasado.",
+      "url": "https://www.tiempoar.com.ar/ta_article/sigue-el-derrumbe-de-la-actividad-en-la-construccion-y-la-venta-de-insumos-cayo-35-en-agosto/",
       "country": [
         "argentina"
       ],
       "category": [
-        "business",
-        "top"
+        "business"
       ]
     },
     {
-      "title": "El INDEC publica hoy la inflación de agosto y el mercado espera que quede debajo del 2%",
+      "title": "Boletas de la luz: el EPRE habilitó planes especiales para pagar deudas",
       "source": "diariodecuyo",
-      "published_at": "2026-09-10 10:52:55",
-      "snippet": "El INDEC difundirá este jueves el IPC de agosto. Las estimaciones privadas anticipan una inflación mensual inferior al 2%, tras el 2,1% registrado en julio.",
-      "url": "https://www.diariodecuyo.com.ar/argentina/el-indec-publica-hoy-la-inflacion-agosto-y-el-mercado-espera-que-quede-debajo-del-2-n6582639",
+      "published_at": "2026-09-10 11:28:56",
+      "snippet": "El EPRE habilitó planes de hasta 4 cuotas, y hasta 6 en zonas alejadas sin gas natural, con 50% de bonificación en la tasa.",
+      "url": "https://www.diariodecuyo.com.ar/san-juan/boletas-la-luz-el-epre-habilito-planes-especiales-pagar-deudas-n6582641",
       "country": [
         "argentina"
       ],
@@ -104,11 +72,39 @@
       ]
     },
     {
-      "title": "El Quini 6 vuelve a poner en juego una fortuna: $14.450 millones",
-      "source": "elesquiu",
-      "published_at": "2026-09-10 10:52:29",
-      "snippet": "La falta de ganadores en seis aciertos mantiene vivo el pozo más importante de la lotería. El domingo próximo, 16 apostadores de Siempre Sale repartieron casi $390 millones",
-      "url": "https://www.elesquiu.com/nacionales/2026/9/10/el-quini-6-vuelve-a-poner-en-juego-una-fortuna-14450-millones-595948.html",
+      "title": "El último que apague la luz: otro comercio de La Plata anunció que baja la persiana",
+      "source": "eldia_ar",
+      "published_at": "2026-09-10 11:28:42",
+      "snippet": "El comercio está ubicado en diagonal 74 entre 46 y 47 y dejará de funcionar a fines de septiembre. Antes del cierre definitivo, sus propietarios anunciaron promociones y descuentos para liquidar el stock disponible.",
+      "url": "https://www.eldia.com/la-ciudad/el-ultimo-que-apague-la-luz-otro-comercio-de-la-plata-anuncio-que-baja-la-persiana-la-ciudad_1789037280",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "“La intimaron y no paga”: la fuerte revelación de Yanina Latorre sobre Cinthia Fernández",
+      "source": "adnsur",
+      "published_at": "2026-09-10 11:28:39",
+      "snippet": "La tensa relación entre ambas sumó un nuevo round en las últimas horas, luego de que la conductora de SQP expusiera una situación que atraviesa la mediática en el barrio cerrado de Escobar, donde vive junto a sus hijas.",
+      "url": "https://www.adnsur.com.ar/cultura---espectaculos/-la-intimaron-y-no-paga---la-fuerte-revelacion-de-yanina-latorre-sobre-cinthia-fernandez_a6aa290fb002239ac75fa7f03",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "El INDEC difunde la inflación de agosto y el Gobierno espera una desaceleración",
+      "source": "lacalle_ar",
+      "published_at": "2026-09-10 11:27:43",
+      "snippet": "El organismo dará a conocer este jueves la variación del índice de precios de agosto. Las estimaciones privadas ubican la inflación entre 1,4% y 1,9%, mientras que el REM del Banco Central proyectó un 1,7%. El Gobierno nacional espera que el dato de inflación de agosto que difundirá este jueves el INDEC muestre una desaceleración [...]",
+      "url": "https://lacalle.com.ar/el-indec-difunde-la-inflacion-de-agosto-y-el-gobierno-espera-una-desaceleracion/",
       "country": [
         "argentina"
       ],
