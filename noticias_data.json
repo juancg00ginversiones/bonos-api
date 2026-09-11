@@ -1,42 +1,91 @@
 {
-  "updated_at": "2026-09-10T23:33:01Z",
+  "updated_at": "2026-09-11T00:55:36Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Dólar blue, dólar hoy: a cuánto cotizan el jueves 10 de septiembre de 2026",
-      "source": "pagina12",
-      "published_at": "2026-09-10 11:32:31",
-      "snippet": "El precio del dólar oficial y de los dólares financieros. En directo, todas las modificaciones de la jornada cambiaria.",
-      "url": "https://www.pagina12.com.ar/2026/09/10/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-jueves-10-de-septiembre-de-2026/",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "El Salvador. Tres años más para una Corte de Cuentas que no publica sus auditorías",
-      "source": "resumenlatinoamericano_org",
-      "published_at": "2026-09-10 11:31:44",
-      "snippet": "El Faro_Resumen Latinoamericano 10 de septiembre 2026. Durante casi tres años, la Corte de Cuentas ha auditado los fondos del Estado sin hacer públicos sus informes. El secretismo de la institución, dirigida por magistrados reelectos por la Asamblea oficialista, limita la contraloría ciudadana y contrasta con los compromisos de transparencia de El Salvador con el [...] La entrada El Salvador. Tres años más para una Corte de Cuentas que no publica sus auditorías se publicó primero en Resumen Latinoamericano .",
-      "url": "https://www.resumenlatinoamericano.org/2026/09/10/el-salvador-tres-anos-mas-para-una-corte-de-cuentas-que-no-publica-sus-auditorias/",
+      "title": "Comunidad en Marcha alcanzó los 3.000 certificados entregados en Bariloche",
+      "source": "elcordillerano",
+      "published_at": "2026-09-10 12:54:35",
+      "snippet": "El programa impulsado por la gestión del intendente Walter Cortés alcanzó este miércoles un nuevo hito con la entrega de certificados en la Escuela Militar de Montaña, consolidando una propuesta de capacitación que ya llegó a miles de vecinos de Bariloche.",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/09/261107-comunidad-en-marcha-alcanzo-los-3000-certificados-entregados-en-bariloche",
       "country": [
         "argentina"
       ],
       "category": [
         "business",
         "top",
-        "politics"
+        "lifestyle"
       ]
     },
     {
-      "title": "Mercado Pago enfrenta una demanda por cobrar intereses de más del 1300% anual",
-      "source": "tiempoar",
-      "published_at": "2026-09-10 11:31:27",
-      "snippet": "Un eventual fallo favorable podría beneficiar a 7 millones de personas en el país.",
-      "url": "https://www.tiempoar.com.ar/ta_article/mercado-pago-enfrenta-una-demanda-por-cobrar-intereses-de-mas-del-1300-anual/",
+      "title": "El BCE sube los tipos de interés 25 puntos básicos por segunda vez este año y los analistas prevén que habrá una tercera",
+      "source": "infobae",
+      "published_at": "2026-09-10 12:53:48",
+      "snippet": "El supervisor endurece su política monetaria y sube el precio del dinero al 2,50% ante el repunte de la inflación y la escalada del barril de petróleo por encima de los 100 dólares",
+      "url": "https://www.infobae.com/espana/2026/09/10/el-bce-sube-los-tipos-de-interes-25-puntos-basicos-por-segunda-vez-este-ano-y-los-analistas-preven-que-habra-una-tercera/",
+      "country": [
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "La inflación mayorista repuntó en EEUU por la suba del petróleo en el marco de la guerra con Irán",
+      "source": "infobae",
+      "published_at": "2026-09-10 12:53:13",
+      "snippet": "El índice de precios al productor subió 5,4% interanual en agosto, el nivel más alto desde mayo, en momentos en que el crudo superó los 100 dólares por barril y crecen las presiones sobre la Reserva Federal antes de su reunión de la semana próxima",
+      "url": "https://www.infobae.com/estados-unidos/2026/09/10/la-inflacion-mayorista-repunto-en-eeuu-por-la-suba-del-petroleo-en-el-marco-de-la-guerra-con-iran/",
+      "country": [
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Inflación, festejo y después: la película detrás de la foto",
+      "source": "letrap_ar",
+      "published_at": "2026-09-10 12:53:00",
+      "snippet": "El INDEC difundirá este jueves un índice que celebrará el Gobierno, pero la resaca seguirá siendo pesada. ¿Peligro de \"recesión\"? Actividad y salarios, a pique. INDEC: la industria y la construcción se hundieron en julio y datos privados de agosto muestran más deterioro",
+      "url": "https://www.letrap.com.ar/letrae/economia-finanzas/inflacion-festejo-y-despues-la-pelicula-detras-la-foto-n5426481",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Rial: “Hoy fue un miércoles negro para el Gobierno, están totalmente desesperados”",
+      "source": "diarioregistrado",
+      "published_at": "2026-09-10 12:52:31",
+      "snippet": "En Carnaval, Jorge Rial y Viviana Canosa charlaron sobre cómo el malestar de la gente por la situación económica se mete en los canales afines al Gobierno aunque no quieran.",
+      "url": "https://www.diarioregistrado.com/politica/rial---hoy-fue-un-miercoles-negro-para-el-gobierno--estan-totalmente-desesperados-_a6aa2a15f5264e7982f8b50c8",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Ferrum, el gigante de los sanitarios, profundiza su crisis por las importaciones",
+      "source": "iprofesional",
+      "published_at": "2026-09-10 12:52:00",
+      "snippet": "La fabricante de sanitarios perdió $26.061 millones por la competencia importadora y el desplome de sus ventas en el último ejercicio",
+      "url": "https://www.iprofesional.com/negocios/464147-ferrum-empresa-sanitarios-profundiza-crisis-por-importaciones",
       "country": [
         "argentina"
       ],
@@ -45,26 +94,16 @@
       ]
     },
     {
-      "title": "Sigue el derrumbe de la actividad en la construcción y la venta de insumos cayó 3,5% en agosto",
-      "source": "tiempoar",
-      "published_at": "2026-09-10 11:30:07",
-      "snippet": "La cifra corresponde al Índice Construya, elaborado por las marcas y fabricantes líderes del sector. Se suma a la fuerte baja que había informado el Indec para julio pasado.",
-      "url": "https://www.tiempoar.com.ar/ta_article/sigue-el-derrumbe-de-la-actividad-en-la-construccion-y-la-venta-de-insumos-cayo-35-en-agosto/",
+      "title": "Así es como un adeudo al Infonavit puede terminar en el embargo de tu vivienda",
+      "source": "infobae",
+      "published_at": "2026-09-10 12:51:11",
+      "snippet": "Hay salidas oficiales como prórroga por desempleo, descuentos temporales y convenios para regularizarse; todas son gratuitas y buscarlas a tiempo reduce el riesgo de llegar a un juzgado civil",
+      "url": "https://www.infobae.com/mexico/2026/09/10/asi-es-como-un-adeudo-al-infonavit-puede-terminar-en-el-embargo-de-tu-vivienda/",
       "country": [
-        "argentina"
-      ],
-      "category": [
-        "business"
-      ]
-    },
-    {
-      "title": "Boletas de la luz: el EPRE habilitó planes especiales para pagar deudas",
-      "source": "diariodecuyo",
-      "published_at": "2026-09-10 11:28:56",
-      "snippet": "El EPRE habilitó planes de hasta 4 cuotas, y hasta 6 en zonas alejadas sin gas natural, con 50% de bonificación en la tasa.",
-      "url": "https://www.diariodecuyo.com.ar/san-juan/boletas-la-luz-el-epre-habilito-planes-especiales-pagar-deudas-n6582641",
-      "country": [
-        "argentina"
+        "mexico",
+        "argentina",
+        "colombia",
+        "united states of america"
       ],
       "category": [
         "business",
@@ -72,39 +111,11 @@
       ]
     },
     {
-      "title": "El último que apague la luz: otro comercio de La Plata anunció que baja la persiana",
-      "source": "eldia_ar",
-      "published_at": "2026-09-10 11:28:42",
-      "snippet": "El comercio está ubicado en diagonal 74 entre 46 y 47 y dejará de funcionar a fines de septiembre. Antes del cierre definitivo, sus propietarios anunciaron promociones y descuentos para liquidar el stock disponible.",
-      "url": "https://www.eldia.com/la-ciudad/el-ultimo-que-apague-la-luz-otro-comercio-de-la-plata-anuncio-que-baja-la-persiana-la-ciudad_1789037280",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "“La intimaron y no paga”: la fuerte revelación de Yanina Latorre sobre Cinthia Fernández",
-      "source": "adnsur",
-      "published_at": "2026-09-10 11:28:39",
-      "snippet": "La tensa relación entre ambas sumó un nuevo round en las últimas horas, luego de que la conductora de SQP expusiera una situación que atraviesa la mediática en el barrio cerrado de Escobar, donde vive junto a sus hijas.",
-      "url": "https://www.adnsur.com.ar/cultura---espectaculos/-la-intimaron-y-no-paga---la-fuerte-revelacion-de-yanina-latorre-sobre-cinthia-fernandez_a6aa290fb002239ac75fa7f03",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "El INDEC difunde la inflación de agosto y el Gobierno espera una desaceleración",
-      "source": "lacalle_ar",
-      "published_at": "2026-09-10 11:27:43",
-      "snippet": "El organismo dará a conocer este jueves la variación del índice de precios de agosto. Las estimaciones privadas ubican la inflación entre 1,4% y 1,9%, mientras que el REM del Banco Central proyectó un 1,7%. El Gobierno nacional espera que el dato de inflación de agosto que difundirá este jueves el INDEC muestre una desaceleración [...]",
-      "url": "https://lacalle.com.ar/el-indec-difunde-la-inflacion-de-agosto-y-el-gobierno-espera-una-desaceleracion/",
+      "title": "ROSEN Group desembarca Vaca Muerta tras abrir una nueva base en Neuquén Capital",
+      "source": "rionegro",
+      "published_at": "2026-09-10 12:49:53",
+      "snippet": "La compañía especializada en la protección de activos críticos anunció la apertura de una oficina operativa en el epicentro hidrocarburífero del país. La decisión apunta a fortalecer la gestión de integridad de ductos e infraestructura clave frente al crecimiento de la producción de petróleo y gas.",
+      "url": "https://www.rionegro.com.ar/energia/rosen-group-desembarca-vaca-muerta-tras-abrir-una-nueva-base-en-neuquen-capital-4716115/",
       "country": [
         "argentina"
       ],
