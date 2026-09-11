@@ -1,33 +1,18 @@
 {
-  "updated_at": "2026-09-11T00:55:36Z",
+  "updated_at": "2026-09-11T01:22:08Z",
   "provider": "newsdata.io",
   "refresh_policy": "cada 12 horas",
   "news": [
     {
-      "title": "Comunidad en Marcha alcanzó los 3.000 certificados entregados en Bariloche",
-      "source": "elcordillerano",
-      "published_at": "2026-09-10 12:54:35",
-      "snippet": "El programa impulsado por la gestión del intendente Walter Cortés alcanzó este miércoles un nuevo hito con la entrega de certificados en la Escuela Militar de Montaña, consolidando una propuesta de capacitación que ya llegó a miles de vecinos de Bariloche.",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/09/09/261107-comunidad-en-marcha-alcanzo-los-3000-certificados-entregados-en-bariloche",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top",
-        "lifestyle"
-      ]
-    },
-    {
-      "title": "El BCE sube los tipos de interés 25 puntos básicos por segunda vez este año y los analistas prevén que habrá una tercera",
+      "title": "Al deporte no le iría bien en el comienzo del gobierno de Abelardo de la Espriella: para el 2027 tendrá 40% menos de presupuesto",
       "source": "infobae",
-      "published_at": "2026-09-10 12:53:48",
-      "snippet": "El supervisor endurece su política monetaria y sube el precio del dinero al 2,50% ante el repunte de la inflación y la escalada del barril de petróleo por encima de los 100 dólares",
-      "url": "https://www.infobae.com/espana/2026/09/10/el-bce-sube-los-tipos-de-interes-25-puntos-basicos-por-segunda-vez-este-ano-y-los-analistas-preven-que-habra-una-tercera/",
+      "published_at": "2026-09-10 13:21:22",
+      "snippet": "En medio de los eventos clasificatorios para los Juegos Olímpicos de Los Ángeles 2028, los deportistas en Colombia tendrán menos dinero para su preparación y participación",
+      "url": "https://www.infobae.com/colombia/deportes/2026/09/10/al-deporte-no-le-iria-bien-en-el-comienzo-del-gobierno-de-abelardo-de-la-espriella-para-el-2027-tendra-40-menos-de-presupuesto/",
       "country": [
-        "mexico",
         "argentina",
         "colombia",
+        "mexico",
         "united states of america"
       ],
       "category": [
@@ -36,56 +21,11 @@
       ]
     },
     {
-      "title": "La inflación mayorista repuntó en EEUU por la suba del petróleo en el marco de la guerra con Irán",
-      "source": "infobae",
-      "published_at": "2026-09-10 12:53:13",
-      "snippet": "El índice de precios al productor subió 5,4% interanual en agosto, el nivel más alto desde mayo, en momentos en que el crudo superó los 100 dólares por barril y crecen las presiones sobre la Reserva Federal antes de su reunión de la semana próxima",
-      "url": "https://www.infobae.com/estados-unidos/2026/09/10/la-inflacion-mayorista-repunto-en-eeuu-por-la-suba-del-petroleo-en-el-marco-de-la-guerra-con-iran/",
-      "country": [
-        "mexico",
-        "argentina",
-        "colombia",
-        "united states of america"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Inflación, festejo y después: la película detrás de la foto",
-      "source": "letrap_ar",
-      "published_at": "2026-09-10 12:53:00",
-      "snippet": "El INDEC difundirá este jueves un índice que celebrará el Gobierno, pero la resaca seguirá siendo pesada. ¿Peligro de \"recesión\"? Actividad y salarios, a pique. INDEC: la industria y la construcción se hundieron en julio y datos privados de agosto muestran más deterioro",
-      "url": "https://www.letrap.com.ar/letrae/economia-finanzas/inflacion-festejo-y-despues-la-pelicula-detras-la-foto-n5426481",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Rial: “Hoy fue un miércoles negro para el Gobierno, están totalmente desesperados”",
-      "source": "diarioregistrado",
-      "published_at": "2026-09-10 12:52:31",
-      "snippet": "En Carnaval, Jorge Rial y Viviana Canosa charlaron sobre cómo el malestar de la gente por la situación económica se mete en los canales afines al Gobierno aunque no quieran.",
-      "url": "https://www.diarioregistrado.com/politica/rial---hoy-fue-un-miercoles-negro-para-el-gobierno--estan-totalmente-desesperados-_a6aa2a15f5264e7982f8b50c8",
-      "country": [
-        "argentina"
-      ],
-      "category": [
-        "business",
-        "top"
-      ]
-    },
-    {
-      "title": "Ferrum, el gigante de los sanitarios, profundiza su crisis por las importaciones",
-      "source": "iprofesional",
-      "published_at": "2026-09-10 12:52:00",
-      "snippet": "La fabricante de sanitarios perdió $26.061 millones por la competencia importadora y el desplome de sus ventas en el último ejercicio",
-      "url": "https://www.iprofesional.com/negocios/464147-ferrum-empresa-sanitarios-profundiza-crisis-por-importaciones",
+      "title": "La próxima batalla de las wallets de criptomonedas será explicar qué estás firmando",
+      "source": "criptonoticias",
+      "published_at": "2026-09-10 13:20:49",
+      "snippet": "Trezor activó la firma clara en Ethereum, pero la complejidad de DeFi vuelve a preguntar si una wallet puede explicar lo que en verdad se firma. La entrada La próxima batalla de las wallets de criptomonedas será explicar qué estás firmando se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas .",
+      "url": "https://www.criptonoticias.com/tecnologia/ethereum-wallets-criptomonedas-firmas-claras/",
       "country": [
         "argentina"
       ],
@@ -94,15 +34,71 @@
       ]
     },
     {
-      "title": "Así es como un adeudo al Infonavit puede terminar en el embargo de tu vivienda",
-      "source": "infobae",
-      "published_at": "2026-09-10 12:51:11",
-      "snippet": "Hay salidas oficiales como prórroga por desempleo, descuentos temporales y convenios para regularizarse; todas son gratuitas y buscarlas a tiempo reduce el riesgo de llegar a un juzgado civil",
-      "url": "https://www.infobae.com/mexico/2026/09/10/asi-es-como-un-adeudo-al-infonavit-puede-terminar-en-el-embargo-de-tu-vivienda/",
+      "title": "¿Cómo guardar los huevos para que duren más tiempo y no se echen a perder antes de usarlos?",
+      "source": "losandes",
+      "published_at": "2026-09-10 13:20:00",
+      "snippet": "La conservación de los huevos mejora con refrigeración estable y una correcta manipulación: el lugar elegido dentro de la heladera también importa.",
+      "url": "https://www.losandes.com.ar/por-las-redes/como-guardar-los-huevos-que-duren-mas-tiempo-y-no-se-echen-perder-antes-usarlos-n6005674",
       "country": [
-        "mexico",
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Deudas: qué hacer si no se puede pagar la tarjeta, un crédito o un préstamo",
+      "source": "elonce",
+      "published_at": "2026-09-10 13:19:18",
+      "snippet": "La mora de las familias llegó al 12,8%. Qué pasa si no podés pagar una tarjeta, crédito o préstamo y cómo consultar tu situación ante el BCRA.",
+      "url": "https://www.elonce.com/economia/deudas-que-pasa-si-no-podes-pagar-un-credito-la-tarjeta-o-un-prestamo.htm",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Plazo fijo: cuánto se gana con $2.000.000 en los principales bancos",
+      "source": "mdzol",
+      "published_at": "2026-09-10 13:18:00",
+      "snippet": "El rendimiento de tu inversión en plazo fijo puede variar según la entidad y el plazo elegido, siendo fundamental comparar las ofertas vigentes.",
+      "url": "https://www.mdzol.com/dinero/plazo-fijo-cuanto-se-gana-2000000-los-principales-bancos-n1603830",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Baja el plazo fijo: cuánto se gana con $2.000.000 en los principales bancos",
+      "source": "mdzol",
+      "published_at": "2026-09-10 13:18:00",
+      "snippet": "El rendimiento de tu inversión en plazo fijo puede variar según la entidad y el plazo elegido, siendo fundamental comparar las ofertas vigentes.",
+      "url": "https://www.mdzol.com/dinero/baja-el-plazo-fijo-cuanto-se-gana-2000000-los-principales-bancos-n1603830",
+      "country": [
+        "argentina"
+      ],
+      "category": [
+        "business",
+        "top"
+      ]
+    },
+    {
+      "title": "Euro hoy en Panamá : cotización de apertura del 10 de septiembre",
+      "source": "infobae",
+      "published_at": "2026-09-10 13:17:58",
+      "snippet": "La moneda europea registra un avance respecto a la jornada anterior",
+      "url": "https://www.infobae.com/noticias/2026/09/10/euro-hoy-en-panama-cotizacion-de-apertura-del-10-de-septiembre/",
+      "country": [
         "argentina",
         "colombia",
+        "mexico",
         "united states of america"
       ],
       "category": [
@@ -111,13 +107,16 @@
       ]
     },
     {
-      "title": "ROSEN Group desembarca Vaca Muerta tras abrir una nueva base en Neuquén Capital",
-      "source": "rionegro",
-      "published_at": "2026-09-10 12:49:53",
-      "snippet": "La compañía especializada en la protección de activos críticos anunció la apertura de una oficina operativa en el epicentro hidrocarburífero del país. La decisión apunta a fortalecer la gestión de integridad de ductos e infraestructura clave frente al crecimiento de la producción de petróleo y gas.",
-      "url": "https://www.rionegro.com.ar/energia/rosen-group-desembarca-vaca-muerta-tras-abrir-una-nueva-base-en-neuquen-capital-4716115/",
+      "title": "Más de 5.200 usuarios se beneficiaron de la tarifa plana para los viajes del Imserso",
+      "source": "infobae",
+      "published_at": "2026-09-10 13:17:42",
+      "snippet": "Más de 5.200 usuarios se beneficiaron de la tarifa plana para los viajes del Imserso",
+      "url": "https://www.infobae.com/espana/agencias/2026/09/10/mas-de-5200-usuarios-se-beneficiaron-de-la-tarifa-plana-para-los-viajes-del-imserso/",
       "country": [
-        "argentina"
+        "argentina",
+        "colombia",
+        "mexico",
+        "united states of america"
       ],
       "category": [
         "business",
